@@ -1,7 +1,7 @@
 | start date | location | stage            | weather | power stage |
 |------------|----------|------------------|---------|-------------|
 |            |          |                  |         |             |
-| 2022-07-30 | norway   | rostavatn R      | suns    |             |
+| 2022-07-30 | norway   | lake rostavatn R | suns    |             |
 |            |          | kvannkjosen      | aft     |             |
 |            |          | laupstad         | morn    |             |
 |            |          | kvannkjosen R    | fog     |             |
@@ -9,39 +9,39 @@
 |            |          | grunnfor         | fog     | x           |
 |            |          | grunnfor R       | snow    |             |
 |            |          |                  |         |             |
-| 2022-08-14 | japan    | mt haruna        | rain    |             |
+| 2022-08-14 | japan    | mount haruna     | rain    |             |
 |            |          | nikko R          | rain    | x           |
-|            |          | mt asama         | fog     |             |
-|            |          | mt haruna        | aft     |             |
+|            |          | mount asama      | fog     |             |
+|            |          | mount haruna     | aft     |             |
 |            |          | nikko            | suns    |             |
-|            |          | nasu             | night   |             |
+|            |          | nasu highland    | night   |             |
 |            |          |                  |         |             |
-| 2022-09-11 | sardinia | villacidro rain  | rain    |             |
-|            |          | montevech R      | fog     |             |
-|            |          | san bened R      | morn    |             |
+| 2022-09-11 | sardinia | villacidro       | rain    |             |
+|            |          | montevecchio R   | fog     |             |
+|            |          | san benedetto R  | morn    |             |
 |            |          | gennamari R      | aft     | x           |
 |            |          | villacidro R     | aft     |             |
 |            |          | portu maga R     | rain    |             |
 |            |          |                  |         |             |
 | 2022-09-25 | finland  | palus            | suns    |             |
-|            |          | haapaj R         | rain    |             |
+|            |          | haapajärvi R     | rain    |             |
 |            |          | noormarkku R     | rain    | x           |
 |            |          | lassila R        | aft     |             |
 |            |          | noormarkku       | fog     |             |
 |            |          | palus R          | aft     |             |
 |            |          |                  |         |             |
-| 2022-10-09 | kenya    | mt kenya R       | suns    |             |
-|            |          | homa             | morn    |             |
-|            |          | nakuru R         | aft     |             |
-|            |          | ndere R          | night   | x           |
-|            |          | nakuru           | suns    |             |
-|            |          | baringo          | aft     |             |
-|            |          | homa R           | fog     |             |
-|            |          | baringo R        | rain    |             |
+| 2022-10-09 | kenya    | mount kenya R    | suns    |             |
+|            |          | homa bay         | morn    |             |
+|            |          | lake nakuru R    | aft     |             |
+|            |          | ndere island R   | night   | x           |
+|            |          | lake nakuru      | suns    |             |
+|            |          | lake baringo     | aft     |             |
+|            |          | homa bay R       | fog     |             |
+|            |          | lake baringo R   | rain    |             |
 |            |          |                  |         |             |
 | 2022-10-22 | germany  | gonnesweiler     | suns    |             |
 |            |          | farschweiler     | aft     |             |
-|            |          | gonnesw R        | rain    |             |
+|            |          | gonnesweiler R   | rain    |             |
 |            |          | franzenheim      | morn    | x           |
 |            |          | holzerath R      | rain    |             |
 |            |          | hockweiler       | aft     |             |
