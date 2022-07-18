@@ -1,47 +1,47 @@
-| location | PS | stage            | weather |   |
-|----------|----|------------------|---------|---|
-|          |    |                  |         |   |
-| norway   |    | rostavatn R      | suns    |   |
-|          |    | kvannkjosen      | aft     |   |
-|          |    | laupstad         | morn    |   |
-|          |    | kvannkjosen R    | fog     |   |
-|          |    | stronstad        | snow    |   |
-|          | x  | grunnfor         | fog     |   |
-|          |    | grunnfor R       | snow    |   |
-|          |    |                  |         |   |
-| japan    |    | mt haruna        | rain    |   |
-|          | x  | nikko R          | rain    |   |
-|          |    | mt asama         | fog     |   |
-|          |    | mt haruna        | aft     |   |
-|          |    | nikko            | suns    |   |
-|          |    | nasu             | night   |   |
-|          |    |                  |         |   |
-| sardinia |    | villacidro rain  | rain    |   |
-|          |    | montevech R      | fog     |   |
-|          |    | san bened R      | morn    |   |
-|          | x  | gennamari R      | aft     |   |
-|          |    | villacidro R     | aft     |   |
-|          |    | portu maga R     | rain    |   |
-|          |    |                  |         |   |
-| finland  |    | palus            | suns    |   |
-|          |    | haapaj R         | rain    |   |
-|          | x  | noormarkku R     | rain    |   |
-|          |    | lassila R        | aft     |   |
-|          |    | noormarkku       | fog     |   |
-|          |    | palus R          | aft     |   |
-|          |    |                  |         |   |
-| kenya    |    | mt kenya R       | suns    |   |
-|          |    | homa             | morn    |   |
-|          |    | nakuru R         | aft     |   |
-|          | x  | ndere R          | night   |   |
-|          |    | nakuru           | suns    |   |
-|          |    | baringo          | aft     |   |
-|          |    | homa R           | fog     |   |
-|          |    | baringo R        | rain    |   |
-|          |    |                  |         |   |
-| germany  |    | gonnesweiler     | suns    |   |
-|          |    | farschweiler     | aft     |   |
-|          |    | gonnesw R        | rain    |   |
-|          | x  | franzenheim      | morn    |   |
-|          |    | holzerath R      | rain    |   |
-|          |    | hockweiler       | aft     |   |
+| start date | location | stage            | weather | power stage |
+|------------|----------|------------------|---------|-------------|
+|            |          |                  |         |             |
+| 2022-07-30 | norway   | rostavatn R      | suns    |             |
+|            |          | kvannkjosen      | aft     |             |
+|            |          | laupstad         | morn    |             |
+|            |          | kvannkjosen R    | fog     |             |
+|            |          | stronstad        | snow    |             |
+|            |          | grunnfor         | fog     | x           |
+|            |          | grunnfor R       | snow    |             |
+|            |          |                  |         |             |
+| 2022-08-14 | japan    | mt haruna        | rain    |             |
+|            |          | nikko R          | rain    | x           |
+|            |          | mt asama         | fog     |             |
+|            |          | mt haruna        | aft     |             |
+|            |          | nikko            | suns    |             |
+|            |          | nasu             | night   |             |
+|            |          |                  |         |             |
+| 2022-09-11 | sardinia | villacidro rain  | rain    |             |
+|            |          | montevech R      | fog     |             |
+|            |          | san bened R      | morn    |             |
+|            |          | gennamari R      | aft     | x           |
+|            |          | villacidro R     | aft     |             |
+|            |          | portu maga R     | rain    |             |
+|            |          |                  |         |             |
+| 2022-09-25 | finland  | palus            | suns    |             |
+|            |          | haapaj R         | rain    |             |
+|            |          | noormarkku R     | rain    | x           |
+|            |          | lassila R        | aft     |             |
+|            |          | noormarkku       | fog     |             |
+|            |          | palus R          | aft     |             |
+|            |          |                  |         |             |
+| 2022-10-09 | kenya    | mt kenya R       | suns    |             |
+|            |          | homa             | morn    |             |
+|            |          | nakuru R         | aft     |             |
+|            |          | ndere R          | night   | x           |
+|            |          | nakuru           | suns    |             |
+|            |          | baringo          | aft     |             |
+|            |          | homa R           | fog     |             |
+|            |          | baringo R        | rain    |             |
+|            |          |                  |         |             |
+| 2022-10-22 | germany  | gonnesweiler     | suns    |             |
+|            |          | farschweiler     | aft     |             |
+|            |          | gonnesw R        | rain    |             |
+|            |          | franzenheim      | morn    | x           |
+|            |          | holzerath R      | rain    |             |
+|            |          | hockweiler       | aft     |             |
