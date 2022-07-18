@@ -1,0 +1,47 @@
+| location | PS | stage            | weather |   |
+|----------|----|------------------|---------|---|
+|          |    |                  |         |   |
+| norway   |    | rostavatn R      | suns    |   |
+|          |    | kvannkjosen      | aft     |   |
+|          |    | laupstad         | morn    |   |
+|          |    | kvannkjosen R    | fog     |   |
+|          |    | stronstad        | snow    |   |
+|          | x  | grunnfor         | fog     |   |
+|          |    | grunnfor R       | snow    |   |
+|          |    |                  |         |   |
+| japan    |    | mt haruna        | rain    |   |
+|          | x  | nikko R          | rain    |   |
+|          |    | mt asama         | fog     |   |
+|          |    | mt haruna        | aft     |   |
+|          |    | nikko            | suns    |   |
+|          |    | nasu             | night   |   |
+|          |    |                  |         |   |
+| sardinia |    | villacidro rain  | rain    |   |
+|          |    | montevech R      | fog     |   |
+|          |    | san bened R      | morn    |   |
+|          | x  | gennamari R      | aft     |   |
+|          |    | villacidro R     | aft     |   |
+|          |    | portu maga R     | rain    |   |
+|          |    |                  |         |   |
+| finland  |    | palus            | suns    |   |
+|          |    | haapaj R         | rain    |   |
+|          | x  | noormarkku R     | rain    |   |
+|          |    | lassila R        | aft     |   |
+|          |    | noormarkku       | fog     |   |
+|          |    | palus R          | aft     |   |
+|          |    |                  |         |   |
+| kenya    |    | mt kenya R       | suns    |   |
+|          |    | homa             | morn    |   |
+|          |    | nakuru R         | aft     |   |
+|          | x  | ndere R          | night   |   |
+|          |    | nakuru           | suns    |   |
+|          |    | baringo          | aft     |   |
+|          |    | homa R           | fog     |   |
+|          |    | baringo R        | rain    |   |
+|          |    |                  |         |   |
+| germany  |    | gonnesweiler     | suns    |   |
+|          |    | farschweiler     | aft     |   |
+|          |    | gonnesw R        | rain    |   |
+|          | x  | franzenheim      | morn    |   |
+|          |    | holzerath R      | rain    |   |
+|          |    | hockweiler       | aft     |   |
