@@ -5,22 +5,21 @@
             'lake rostavatn - r',
             'kvannkjosen',
             'laupstad',
+            'vestpollen - r',
             'kvannkjosen - r',
             'stronstad',
             'grunnfor',
             'grunnfor - r',
-         
         ], [
-
             'sunset',
             'afternoon',
             'morning',
+            'afternoon',
             'fog',
             'snow',
             'fog',
             'snow',
         ]
-
     ),
 
     'Japan' : (
@@ -30,16 +29,14 @@
             'mount asama',
             'mount haruna',
             'nikko',
-            'nasu highland'
+            'nasu highland',
         ], [
-
             'rain',
             'rain',
             'fog',
             'afternoon',
             'sunset',
             'night',
-
         ]
     ),
 
@@ -52,14 +49,12 @@
             'villacidro - r',
             'portu maga - r',
         ], [
-
             'rain',
             'fog',
             'morning',
             'afternoon',
             'afternoon',
             'rain',
-
         ]
     ),
 
@@ -72,13 +67,12 @@
             'noormarkku',
             'palus - r',
         ], [
-
             'sunset',
             'rain',
             'rain',
             'afternoon',
             'fog',
-            'afternoon',
+            'afternoon',         
         ]
     ),
 
@@ -92,10 +86,10 @@
             'lake baringo',
             'homa bay - r',
             'lake baringo - r',
+            
         ], [
-
             'sunset',
-            'morn',
+            'morning',
             'afternoon',
             'night',
             'sunset',
