@@ -1,0 +1,73 @@
+country,stage,stage_name
+Finland,Stage_1_Forward,noormarkku
+Finland,Stage_1_Reverse,noormarkku - r
+Finland,Stage_2_Forward,lamppi
+Finland,Stage_2_Reverse,lamppi - r
+Finland,Stage_3_Forward,palus
+Finland,Stage_3_Reverse,palus - r
+Finland,Stage_4_Forward,lassila
+Finland,Stage_4_Reverse,lassila - r
+Finland,Stage_5_Forward,kairila
+Finland,Stage_5_Reverse,kairila - r
+Finland,Stage_6_Forward,haapajärvi
+Finland,Stage_6_Reverse,haapajärvi - r
+Sardinia,Stage_1_Forward,villacidro
+Sardinia,Stage_1_Reverse,villacidro - r
+Sardinia,Stage_2_Forward,san gavino monreale
+Sardinia,Stage_2_Reverse,san gavino monreale - r
+Sardinia,Stage_3_Forward,san benedetto
+Sardinia,Stage_3_Reverse,san benedetto - r
+Sardinia,Stage_4_Forward,gennamari
+Sardinia,Stage_4_Reverse,gennamari - r
+Sardinia,Stage_5_Forward,portu maga
+Sardinia,Stage_5_Reverse,portu maga - r
+Sardinia,Stage_6_Forward,montevecchio
+Sardinia,Stage_6_Reverse,montevecchio - r
+Japan,Stage_1_Forward,nasu highland
+Japan,Stage_1_Reverse,nasu highland - r
+Japan,Stage_2_Forward,mount asama
+Japan,Stage_2_Reverse,mount asama - r
+Japan,Stage_3_Forward,mount akagi
+Japan,Stage_3_Reverse,mount akagi - r
+Japan,Stage_4_Forward,nikko
+Japan,Stage_4_Reverse,nikko - r
+Japan,Stage_5_Forward,tsumagoi
+Japan,Stage_5_Reverse,tsumagoi - r
+Japan,Stage_6_Forward,mount haruna
+Japan,Stage_6_Reverse,mount haruna - r
+Norway,Stage_1_Forward,laupstad
+Norway,Stage_1_Reverse,laupstad - r
+Norway,Stage_2_Forward,vestpollen
+Norway,Stage_2_Reverse,vestpollen - r
+Norway,Stage_3_Forward,stronstad
+Norway,Stage_3_Reverse,stronstad - r
+Norway,Stage_4_Forward,kvannkjosen
+Norway,Stage_4_Reverse,kvannkjosen - r
+Norway,Stage_5_Forward,grunnfor
+Norway,Stage_5_Reverse,grunnfor - r
+Norway,Stage_6_Forward,lake rostavatn
+Norway,Stage_6_Reverse,lake rostavatn - r
+Germany,Stage_1_Forward,hockweiler
+Germany,Stage_1_Reverse,hockweiler - r
+Germany,Stage_2_Forward,franzenheim
+Germany,Stage_2_Reverse,franzenheim - r
+Germany,Stage_3_Forward,holzerath
+Germany,Stage_3_Reverse,holzerath - r
+Germany,Stage_4_Forward,farschweiler
+Germany,Stage_4_Reverse,farschweiler - r
+Germany,Stage_5_Forward,mertesdorf
+Germany,Stage_5_Reverse,mertesdorf - r
+Germany,Stage_6_Forward,gonnesweiler
+Germany,Stage_6_Reverse,gonnesweiler - r
+Kenya,Stage_1_Forward,mount kenya
+Kenya,Stage_1_Reverse,mount kenya - r
+Kenya,Stage_2_Forward,karura
+Kenya,Stage_2_Reverse,karura - r
+Kenya,Stage_3_Forward,homa bay
+Kenya,Stage_3_Reverse,homa bay - r
+Kenya,Stage_4_Forward,ndere island
+Kenya,Stage_4_Reverse,ndere island - r
+Kenya,Stage_5_Forward,lake baringo
+Kenya,Stage_5_Reverse,lake baringo - r
+Kenya,Stage_6_Forward,lake nakuru
+Kenya,Stage_6_Reverse,lake nakuru - r
