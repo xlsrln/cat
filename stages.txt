@@ -4,6 +4,7 @@
 | 2022-07-30 | norway   | lake rostavatn R | suns    |             |
 |            |          | kvannkjosen      | aft     |             |
 |            |          | laupstad         | morn    |             |
+|            |          | vestpollen R     | aft     |             |
 |            |          | kvannkjosen R    | fog     |             |
 |            |          | stronstad        | snow    |             |
 |            |          | grunnfor         | fog     | x           |
