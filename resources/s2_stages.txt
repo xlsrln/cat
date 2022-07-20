@@ -1,0 +1,125 @@
+{ 
+
+    'Norway' : (
+        [
+            'lake rostavatn - r',
+            'kvannkjosen',
+            'laupstad',
+            'kvannkjosen - r',
+            'stronstad',
+            'grunnfor',
+            'grunnfor - r',
+         
+        ], [
+
+            'sunset',
+            'afternoon',
+            'morning',
+            'fog',
+            'snow',
+            'fog',
+            'snow',
+        ]
+
+    ),
+
+    'Japan' : (
+        [
+            'mount haruna',
+            'nikko - r',
+            'mount asama',
+            'mount haruna',
+            'nikko',
+            'nasu highland'
+        ], [
+
+            'rain',
+            'rain',
+            'fog',
+            'afternoon',
+            'sunset',
+            'night',
+
+        ]
+    ),
+
+    'Sardinia': (
+        [
+            'villacidro',
+            'montevecchio - r',
+            'san benedetto - r',
+            'gennamari - r',
+            'villacidro - r',
+            'portu maga - r',
+        ], [
+
+            'rain',
+            'fog',
+            'morning',
+            'afternoon',
+            'afternoon',
+            'rain',
+
+        ]
+    ),
+
+    'Finland': (
+        [
+            'palus',
+            'haapajärvi - r',
+            'noormarkku - r',
+            'lassila - r',
+            'noormarkku',
+            'palus - r',
+        ], [
+
+            'sunset',
+            'rain',
+            'rain',
+            'afternoon',
+            'fog',
+            'afternoon',
+        ]
+    ),
+
+    'Kenya': (
+        [
+            'mount kenya - r',
+            'homa bay',
+            'lake nakuru - r',
+            'ndere island - r',
+            'lake nakuru',
+            'lake baringo',
+            'homa bay - r',
+            'lake baringo - r',
+        ], [
+
+            'sunset',
+            'morn',
+            'afternoon',
+            'night',
+            'sunset',
+            'afternoon',
+            'fog',
+            'rain',
+        ]
+    ),
+
+    'Germany': (
+        [
+            'gonnesweiler',
+            'farschweiler',
+            'gonnesweiler - r',
+            'franzenheim',
+            'holzerath - r',
+            'hockweiler',
+        ],[
+            'sunset',
+            'afternoon',
+            'rain',
+            'morning',
+            'rain',
+            'afternoon',
+        ]
+    ),
+}
