@@ -17,21 +17,21 @@
 |            |          | nikko            | suns    |             |
 |            |          | nasu highland    | night   |             |
 |            |          |                  |         |             |
-| 2022-09-11 | sardinia | villacidro       | rain    |             |
+| 2022-09-28 | sardinia | villacidro       | rain    |             |
 |            |          | montevecchio R   | fog     |             |
 |            |          | san benedetto R  | morn    |             |
 |            |          | gennamari R      | aft     | x           |
 |            |          | villacidro R     | aft     |             |
 |            |          | portu maga R     | rain    |             |
 |            |          |                  |         |             |
-| 2022-09-25 | finland  | palus            | suns    |             |
+| 2022-09-11 | finland  | palus            | suns    |             |
 |            |          | haapajärvi R     | rain    |             |
 |            |          | noormarkku R     | rain    | x           |
 |            |          | lassila R        | aft     |             |
 |            |          | noormarkku       | fog     |             |
 |            |          | palus R          | aft     |             |
 |            |          |                  |         |             |
-| 2022-10-09 | kenya    | mount kenya R    | suns    |             |
+| 2022-09-25 | kenya    | mount kenya R    | suns    |             |
 |            |          | homa bay         | morn    |             |
 |            |          | lake nakuru R    | aft     |             |
 |            |          | ndere island R   | night   | x           |
@@ -40,7 +40,7 @@
 |            |          | homa bay R       | fog     |             |
 |            |          | lake baringo R   | rain    |             |
 |            |          |                  |         |             |
-| 2022-10-22 | germany  | gonnesweiler     | suns    |             |
+| 2022-10-09 | germany  | gonnesweiler     | suns    |             |
 |            |          | farschweiler     | aft     |             |
 |            |          | gonnesweiler R   | rain    |             |
 |            |          | franzenheim      | morn    | x           |
