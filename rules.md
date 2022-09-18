@@ -18,7 +18,7 @@
 #### Game rules:
 - Game in English. No ghosts. No unauthorised mods.
 - Damage setting: severe damage
-- Authorised mods: the rally saver mod 
+- Authorised mods: the rally saver mod (https://www.nexusmods.com/artofrally/mods/6)
 
 #### Restarts
 - Max 1 restart per service, or equivalently one per pair of stages (1&2, 3&4, 5&6 etc)
@@ -35,6 +35,13 @@ Drivers are expected to be honest. Any kind of cheating will be punished if dete
 Stewards decide whatever they want and you get penalties for breaking rules. 
 
 ## Appendix: points
+
+Results:
+- [standings](https://github.com/xlsrln/aorcs/blob/main/results/0_standings.md)
+- [norway](https://github.com/xlsrln/aorcs/blob/main/results/1_norway.md)
+- [japan](https://github.com/xlsrln/aorcs/blob/main/results/2_japan.md)
+- [sardinia](https://github.com/xlsrln/aorcs/blob/main/results/3_sardinia.md)
+
 Points in class (per event):
 
 |Position|Points|
