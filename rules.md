@@ -18,7 +18,7 @@
 #### Game rules:
 - Game in English. No ghosts. No unauthorised mods.
 - Damage setting: severe damage
-- Authorised mods: the rally saver mod (https://www.nexusmods.com/artofrally/mods/6)
+- Authorised mods: [the rally saver mod](https://www.nexusmods.com/artofrally/mods/6)
 
 #### Restarts
 - Max 1 restart per service, or equivalently one per pair of stages (1&2, 3&4, 5&6 etc)
