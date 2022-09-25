@@ -10,7 +10,7 @@
 
 ## Format changes
 
-* Limit the competition to one class to not dilute the player pool
+* Limit the competition to one class to not dilute the player pool, for instance with a rotating order of the popular groups (group 3, 4 and B) 
 * Stage selection should use more of the available stages avoid repeats (including weather or direction)
 * If a stage has known issues (e.g. the kvannkjosen jump) it sh/could be avoided
 * Weather selection should follow some temporal logic or narrative, such as morning -> afternoon -> sunset -> night or similar
