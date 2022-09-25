@@ -13,7 +13,8 @@ written by nept, endorsed by hult, capablanca & conquest
 
 ## Format changes
 
-* Limit the competition to one class to not dilute the player pool, for instance with a rotating order of the popular groups (group 3, 4 and B) 
+* Limit the competition to one class to not dilute the player pool and get an overall winner
+* The group can for instance be chosen in a rotating order of the popular groups (group 3, 4 and B) 
 * Stage selection should use more of the available stages avoid repeats (including weather or direction)
 * If a stage has known issues (e.g. the kvannkjosen jump) it sh/could be avoided
 * Power stage on the last stage of the rally. This is to make it a trade-off between pushing hard and cruising to bring it home
