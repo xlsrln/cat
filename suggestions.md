@@ -8,6 +8,7 @@ written by nept, endorsed by hult, capablanca & conquest
 * The stages and results should be published in a text format and not only as images
 * To reduce the friction of new players joining, and simplify the application of the rules, the wording and structure of the rule book has to be significantly revised and simplified. For inspiration I have a suggestion of an outline [here](https://github.com/xlsrln/aorcs/blob/main/rules.md)
 * The multi-level structure of checklist, short rules, and extended rules should go: focus on the important rules at the top and put the nitty gritty (livery rules, edge cases, ...) in an appendix or something
+* A log of the latest rule changes would help getting up to speed without reading the full rule book
 
 ## Format changes
 
