@@ -1,5 +1,7 @@
 # Suggestions for aorc
 
+written by nept, endorsed by hult, capablanca & conquest
+
 ## Reducing friction: General community & rule book
 * A feedback channel would remove most of the heated discussion from the general chat
 * The read-only channels for _info_, _schedule_ and _rules_ should be merged and provide a one-stop destination for a clear overview of the competition
