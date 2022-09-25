@@ -2,6 +2,7 @@
 
 ## General community
 * A feedback channel would remove most of the heated discussion from the general chat
+* The read-only channels for _info_, _schedule_ and _rules_ should be merged and be de-bloated to provide a one-stop destination for a clear overview of the competition
 * The stages and results should be published in a text format and not only as images
 
 ## Rule book
