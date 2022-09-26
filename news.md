@@ -1,9 +1,12 @@
 # CAT - Catface Aor Tournament 😹 notice board
 
+#
 
 #### Welcome!
 
 Please check the [rules](https://github.com/xlsrln/aorcs/blob/main/cat_rules.md)
+
+#
 
 #### Trial event!
 
