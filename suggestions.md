@@ -1,6 +1,6 @@
 # Suggestions for aorc
 
-
+written by nept, supported by hult, capablanca & conquest
 
 ## Reducing friction: General community & rule book
 * To reduce the friction of new players joining, and simplify the application of the rules, the wording and structure of the rule book should be significantly revised and simplified. For inspiration I have a suggestion of an outline [here](https://github.com/xlsrln/aorcs/blob/main/rules.md)
@@ -20,5 +20,3 @@
 * Remove the DNS penalties, as not getting any points is already penalty enough
 * Weather selection could follow some temporal logic or narrative, such as morning -> afternoon -> sunset -> night or similar
 
-#
-written by nept, endorsed by hult, capablanca & conquest
