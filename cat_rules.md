@@ -1,5 +1,19 @@
 # Introducing CAT - Catface Aor Tournament 😹
 
+
+#### Trial event!
+
+
+japan, group 4:
+
+- mount akagi, morning
+- nasu highland reverse, afternoon
+- mount haruna, sunset
+
+deadline sunday 9th of october
+
+#
+
 #### Drivers championship:
 - There is one driver’s championship. The class will be decided by a poll (group 3, 4 or B).
 - Points for each rally according to table below
