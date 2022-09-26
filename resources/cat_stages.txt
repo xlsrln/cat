@@ -1,13 +1,15 @@
 { 
-    'Japan' : (
-        [
+    'Japan asphalt' : {
+        'country': 'Japan',
+        'stages': [
             'mount akagi',
             'nasu highland - r',
             'mount haruna',
-        ], [
+        ], 
+        'weather': [
             'morning',
             'afternoon',
             'sunset',
         ]
-    ),
+    }
 }
