@@ -14,6 +14,8 @@ japan, group 4:
 
 - mount akagi, morning
 - nasu highland reverse, afternoon
-- mount haruna, sunset
+- mount haruna, sunset (powerstage)
 
 deadline sunday 9th of october
+
+note: max 1 restart on nasu and no restarts on mt haruna.
