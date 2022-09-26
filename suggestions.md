@@ -6,7 +6,7 @@ written by nept, supported by hult, capablanca & conquest
 * To reduce the friction of new players joining, and simplify the application of the rules, the wording and structure of the rule book should be significantly revised and simplified. For inspiration I have a suggestion of an outline [here](https://github.com/xlsrln/aorcs/blob/main/rules.md)
 * The multi-level structure of checklist, short rules, and extended rules should go away. Instead focus on the important rules at the top and put the nitty gritty (livery rules, edge cases, ...) in an appendix or something
 * The read-only channels for _info_, _schedule_ and _rules_ should be merged and provide a one-stop destination for a clear overview of the competition
-* A separate feedback channel would remove most of the format/rule discussion from the general chat
+* ~A separate feedback channel would remove most of the format/rule discussion from the general chat~ (this is implemented as of 26/9 2022)
 * A log of the latest rule changes would help getting up to speed without reading the full rule book
 * The stages and results should be published in a text format and not only as images
 
