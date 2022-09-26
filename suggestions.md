@@ -1,6 +1,6 @@
 # Suggestions for aorc
 
-written by nept, supported by capablanca, conquest & hult
+written by nept, supported by capablanca, conquest, hult & playerz
 
 ## Reducing friction: General community & rule book
 * The goal should always be to reduce the friction of new players joining, thus the wording and structure of the rule book should be significantly revised and simplified
