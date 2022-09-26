@@ -20,7 +20,9 @@ japan, group 4:
 
 deadline sunday 2nd of october
 
-note: max 1 restart on nasu and no restarts on mt haruna. No team points on offer here.
+note: max 1 restart on nasu and no restarts on haruna
+
+#
 
 #### Indonesia next?
 
