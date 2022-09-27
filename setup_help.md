@@ -6,6 +6,8 @@ Once it's installed, first add art of rally as an input source by pressing `add 
 
 If you see anything in the preview, it's all good. Press start recording to record and stop when you're done!
 
+If you are uploading to youtube, you can use the naming format `[CAT 2022] rally sardinia | 12:34 nept 69` but it is by no means mandatory.
+
 ## clock overlay (optional)
 
 If you want a realtime clock overlay, you can `add source > browser source` and enter the following text as the URL. If you want another colour or size, you can change where it says "purple" or "30px".
