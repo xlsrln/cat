@@ -24,6 +24,19 @@ note: max 1 restart on nasu and no restarts on haruna
 
 #
 
-#### Indonesia next?
+#### Indonesia next
 
 Since indonesia is new it would be exciting to host a rally on it! What do you think?
+
+stages:
+
+- oreng valley reverse, morning
+- kalabakan valley, afternoon
+- mount kawi, sunset
+- semangka bay, night
+- sangeang island, morning
+- satonda island, rain (powerstage)
+
+deadline sunday 16th of october
+
+#
