@@ -1,6 +1,6 @@
 # CAT - Catface Aor Tournament 😹
 
-Please check the [notice board](https://github.com/xlsrln/aorcs/blob/main/news.md)
+Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 
 #### Drivers championship:
 - There is one driver’s championship. The class will be decided by a poll (group 3, 4 or B).
