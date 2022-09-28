@@ -6,7 +6,7 @@
 
 All you need to enter is the art of rally game, your favourite screen recording software and a youtube/twitch channel.
 
-Please check the [rules](https://github.com/xlsrln/aorcs/blob/main/cat_rules.md) and the [setup help](https://github.com/xlsrln/cat/blob/main/setup_help.md)
+Please check the [rules](https://github.com/xlsrln/cat/blob/main/cat_rules.md) and the [setup help](https://github.com/xlsrln/cat/blob/main/setup_help.md)
 
 #
 
