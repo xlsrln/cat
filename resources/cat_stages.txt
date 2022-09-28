@@ -11,5 +11,24 @@
             'afternoon',
             'sunset',
         ]
-    }
+    },
+    'Indonesia' : {
+        'country': 'Indonesia',
+        'stages': [
+            'oreng valley - r',
+            'kalabakan valley',
+            'mount kawi',
+            'semangka bay',
+            'sangeang island',
+            'satonda island',
+        ], 
+        'weather': [
+            'morning',
+            'afternoon',
+            'sunset',
+            'night',
+            'morning',
+            'rain',
+        ]
+    },
 }
