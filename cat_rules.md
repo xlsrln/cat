@@ -5,7 +5,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 #### Drivers championship:
 - There is one driver’s championship. The class will be decided by a poll (group 3, 4 or B).
 - Points for each rally according to table below
-- ~~Points for power stage (counts towards the team)~~ Not sure about this
+- When applicable, points for power stage (counts towards the team)
 
 #### Team championship:
 - There is one team championship
