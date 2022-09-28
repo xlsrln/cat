@@ -10,12 +10,12 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 #### Team championship:
 - There is one team championship
 - The best two drivers per team for each rally score team points
-- All team members drive the same car for the whole season
+- ~~All team members drive the same car for the whole season~~
 
 #### Liveries
 - Custom liveries are optional
-- Drivers should have their number plates on their liveries 
-- Team drivers should use their team livery 
+- It's encouraged if drivers have their number plates on their liveries 
+- It's encouraged to have a team livery
 
 #### Game rules:
 - No ghosts. No unauthorised mods.
