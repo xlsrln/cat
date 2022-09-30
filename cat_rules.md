@@ -25,7 +25,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 #### Restarts
 - Max 1 restart per service, or equivalently one per pair of stages (1&2, 3&4, 5&6 etc)
 - Free restarts on the first stage of the rally. These do not count towards the previous rule
-- ~~No restarts on the power stage.~~ Not sure about this
+- No restarts on the power stage
 
 #### Videos should:
 - Contain an IRL time and date on screen at all times
