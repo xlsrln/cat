@@ -21,7 +21,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 - No ghosts. No unauthorised mods.
 - Damage setting: severe damage
 - Authorised mods: [the rally saver mod](https://www.nexusmods.com/artofrally/mods/6), camera mods, purely cosmetic mods
-- Banned mods: cheats, reset zone visualisers etc
+- Banned mods: anything giving an unfair advantage (cheats, reset zone visualisers etc)
 
 #### Restarts
 - Max 1 restart per service, or equivalently one per pair of stages (1&2, 3&4, 5&6 etc)
