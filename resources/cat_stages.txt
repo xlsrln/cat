@@ -31,4 +31,23 @@
             'rain',
         ]
     },
+    'Kenya' : {
+        'country': 'Kenya',
+        'stages': [
+            'lake baringo',     
+            'lake nakuru - r',  
+            'karura',           
+            'mount kenya',      
+            'ndere island - r', 
+            'homa bay',         
+        ], 
+        'weather': [
+            'morning',
+            'rain',
+            'sunset',
+            'night',
+            'morning',
+            'afternoon',
+        ]
+    },
 }
