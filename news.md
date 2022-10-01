@@ -50,7 +50,7 @@ deadline sunday 16th of october
 
 #### Kenya itinerary
 
-Due to turbulent circumstances (aka popular vote), rally Norway has unfortunately been cancelled but luckily the popular rally Kenya has stepped in to fill the calendar with short notice. New calendar here. -- the Feline-faced Information Agency (FIA)
+Due to turbulent circumstances (aka popular vote), rally Norway has unfortunately been cancelled. Luckily the popular rally Kenya has stepped in to fill the calendar with short notice. New calendar here. /the Feline-faced Information Agency (FIA)
 
 | stage          | weather   |
 | -------------- | --------- |
