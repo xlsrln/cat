@@ -46,3 +46,30 @@ stages:
 deadline sunday 16th of october
 
 #
+
+Due to turbulent circumstances (aka popular vote), rally Norway has unfortunately been cancelled but luckily the popular rally Kenya has stepped in to fill the calendar with short notice. New calendar here. -- the Feline-faced Information Agency (FIA)
+
+
+#
+
+
+#### Kenya itinerary
+
+
+| stage          | weather   |
+| -------------- | --------- |
+| lake baringo   | morning   |
+| lake nakuru r  | rain      |
+| karura         | sunset    |
+| mount kenya    | night     |
+| ndere island r | morning   |
+| homa bay       | afternoon (powerstage) |
+
+deadline sunday 30th of october
+
+#
+
+
+
+
+
