@@ -14,6 +14,8 @@ Please check the [rules](https://github.com/xlsrln/cat/blob/main/cat_rules.md) a
 
 #### First event!
 
+[results](https://github.com/xlsrln/cat/blob/main/results.md)
+
 japan, group 4:
 
 | stage                 | weather             |
@@ -26,13 +28,15 @@ deadline sunday 2nd of october
 
 note: no powerstage this time around
 
+
+
 #
 
-#### Indonesia next
+#### Round 1: Indonesia 
 
-Since indonesia is new it would be exciting to host a rally on it! What do you think?
+Since indonesia is new it's very exciting to host a rally on it! What do you think?
 
-stages:
+group 4, stages:
 
 | stage                | weather           |
 |----------------------|-------------------|
@@ -43,7 +47,7 @@ stages:
 | sangeang island      | morning           |
 | satonda island       | rain (powerstage) |
 
-deadline sunday 16th of october
+deadline sunday 16th of october, 20:00 UTC
 
 #
 
@@ -61,7 +65,7 @@ Due to turbulent circumstances (aka popular vote), rally Norway has unfortunatel
 | ndere island r | morning   |
 | homa bay       | afternoon (powerstage) |
 
-deadline sunday 30th of october
+deadline sunday 30th of october, 20:00 UTC
 
 #
 
