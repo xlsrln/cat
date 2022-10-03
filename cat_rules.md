@@ -3,14 +3,14 @@
 Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 
 #### Drivers championship:
-- There is one driver’s championship. The class will be decided by a poll (group 3, 4 or B).
+- There is one driver’s championship. The class is currently group 4.
 - Points for each rally according to table below
 - When applicable, points for power stage (counts towards the team)
 
 #### Team championship:
 - There is one team championship
 - The best two drivers per team for each rally score team points
-- ~~All team members drive the same car for the whole season~~
+- It's encouraged to have the same car for everyone in the team 
 
 #### Liveries
 - Custom liveries are optional
