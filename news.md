@@ -52,7 +52,7 @@ deadline sunday 16th of october, 20:00 UTC
 #
 
 
-#### Kenya itinerary
+#### Round 2: Kenya itinerary
 
 Due to turbulent circumstances (aka popular vote), rally Norway has unfortunately been cancelled. Luckily the popular rally Kenya has stepped in to fill the calendar with short notice. /the Feline-faced Information Agency (FIA)
 
@@ -68,6 +68,30 @@ Due to turbulent circumstances (aka popular vote), rally Norway has unfortunatel
 deadline sunday 30th of october, 20:00 UTC
 
 #
+
+#### Round 3: Germany (provisional)
+
+| stage          | weather   |
+| --------------- | --------- |
+| franzenheim     | morning   |
+| gonnesweiler -r | afternoon |
+| holzerath       | sunset    |
+| mertesdorf      | night     |
+| farschweiler    | morning   |
+| hockweiler      | afternoon (powerstage)  |
+
+#
+
+#### Round 4: Sardinia (provisional)
+
+| stage                    | weather                |
+| ----------------------- | ---------------------- |
+| villacidro              | morning                |
+| san gavino monreale - r  | afternoon              |
+| portu maga              | sunset                 |
+| san benedetto           | night                  |
+| gennamari               | morning                |
+| montevecchio            | afternoon (powerstage) |
 
 
 
