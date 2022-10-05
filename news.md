@@ -10,9 +10,24 @@ All you need to enter is the art of rally game, your favourite screen recording 
 
 Please check the [rules](https://github.com/xlsrln/cat/blob/main/cat_rules.md) and the [setup help](https://github.com/xlsrln/cat/blob/main/setup_help.md)
 
+
 #
 
-#### First event!
+itineraries, table of contents:
+- [indonesia](https://github.com/xlsrln/cat/edit/main/news.md#round-1-indonesia)
+- [kenya](https://github.com/xlsrln/cat/edit/main/news.md#round-2-kenya-itinerary)
+- [germany](https://github.com/xlsrln/cat/edit/main/news.md#round-3-germany-provisional)
+- [sardinia](https://github.com/xlsrln/cat/edit/main/news.md#round-4-sardinia-provisional)
+
+#
+
+_Calendar update 2022-10-03_
+
+Due to turbulent circumstances (aka popular vote), rally Norway has unfortunately been cancelled. Luckily the popular rally Kenya has stepped in to fill the calendar with short notice. 
+
+#
+
+#### Warmup event!
 
 [results](https://github.com/xlsrln/cat/blob/main/results.md)
 
@@ -26,15 +41,11 @@ japan, group 4:
 
 deadline sunday 2nd of october
 
-note: no powerstage this time around
-
-
-
 #
 
 #### Round 1: Indonesia 
 
-Since indonesia is new it's very exciting to host a rally on it! What do you think?
+The season is starting, now with powerstage and points. We're kicking off with Indonesia, the new location!
 
 group 4, stages:
 
@@ -54,7 +65,7 @@ deadline sunday 16th of october, 20:00 UTC
 
 #### Round 2: Kenya itinerary
 
-Due to turbulent circumstances (aka popular vote), rally Norway has unfortunately been cancelled. Luckily the popular rally Kenya has stepped in to fill the calendar with short notice. /the Feline-faced Information Agency (FIA)
+This is the longest rally of the season, a real endurance event!
 
 | stage          | weather   |
 | -------------- | --------- |
