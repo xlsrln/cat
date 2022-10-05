@@ -71,6 +71,9 @@ deadline sunday 30th of october, 20:00 UTC
 
 #### Round 3: Germany (provisional)
 
+Remember, [hinkelsteine are not on the road](https://www.youtube.com/watch?v=wBDdSAGSxxk)
+
+
 | stage          | weather   |
 | --------------- | --------- |
 | franzenheim     | morning   |
