@@ -21,12 +21,6 @@ itineraries, table of contents:
 
 #
 
-_Calendar update 2022-10-03_
-
-Due to turbulent circumstances (aka popular vote), rally Norway has unfortunately been cancelled. Luckily the popular rally Kenya has stepped in to fill the calendar with short notice. 
-
-#
-
 #### Warmup event!
 
 [results](https://github.com/xlsrln/cat/blob/main/results.md)
@@ -59,6 +53,12 @@ group 4, stages:
 | satonda island       | rain (powerstage) |
 
 deadline sunday 16th of october, 20:00 UTC
+
+#
+
+_Calendar update 2022-10-03_
+
+Due to turbulent circumstances (aka popular vote), rally Norway has unfortunately been cancelled. Luckily the popular rally Kenya has stepped in to fill the calendar with short notice. 
 
 #
 
