@@ -2,6 +2,10 @@
 
 Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 
+#### Overall
+- Participate by recording a video of the rally and entering the link in the submission form
+- No signups: everyone who submits an entry will be classified in the championship
+
 #### Drivers championship:
 - There is one driver’s championship. The class is currently group 4.
 - Points for each rally according to table below
@@ -14,9 +18,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 - It's encouraged to have the same car for everyone in the team 
 
 #### Liveries
-- Custom liveries are optional
-- It's encouraged if drivers have their number plates on their liveries 
-- It's encouraged to have a team livery
+- Custom liveries, numberplates and team liveries are optional but encouraged
 
 #### Game rules:
 - No ghosts. No unauthorised mods.
