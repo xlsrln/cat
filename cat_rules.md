@@ -13,9 +13,9 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 - When applicable, points for power stage (counts towards the team)
 
 #### Team championship:
-- There is one team championship
+- There is a team championship. Teams are handled in #paddock
 - The best two drivers per team for each rally score team points
-- It's encouraged to have the same car for everyone in the team 
+- For each rally, everyone in the team should use the same car
 
 #### Liveries
 - Custom liveries, numberplates and team liveries are optional but encouraged
