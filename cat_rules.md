@@ -6,21 +6,17 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 - Participate by recording a video of the rally and entering the link in the submission form
 - No signups: everyone who submits an entry will be classified in the championship
 
-#### Drivers championship:
+#### Drivers championship
 - There is one driver’s championship. The class is currently group 4.
-- Points for each rally according to table below
+- Points for each rally (and powerstage) according to the [table below](https://github.com/xlsrln/cat/edit/main/cat_rules.md#appendix-points)
 - Each driver's worst rally of the season is dropped (including DNS)
-- When applicable, points for power stage (counts towards the team)
 
-#### Team championship:
-- There is a team championship. Teams are handled in #paddock
+#### Team championship
+- There is one team championship. Teams are handled in #paddock
 - The best two drivers per team for each rally score team points
 - For each rally, everyone in the team should use the same car
 
-#### Liveries
-- Custom liveries, numberplates and team liveries are optional but encouraged
-
-#### Game rules:
+#### In-game rules
 - No ghosts. No unauthorised mods.
 - Damage setting: severe damage
 - Authorised mods: [the rally saver mod](https://www.nexusmods.com/artofrally/mods/6), camera mods, purely cosmetic mods
@@ -31,19 +27,22 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 - Free restarts on the first stage of the rally. These do not count towards the previous rule
 - No restarts on the power stage
 
-#### Videos should:
-- Contain an IRL time and date on screen at all times
-- Capture the whole rally from setup to finish screen
-- Be published before the deadline, on the channel you signed up with, with no expiration date
+#### Liveries
+- Custom liveries, numberplates and team liveries are optional but encouraged
 
-### Penalties:
+#### Videos should
+- Capture the whole rally from setup to finish screen
+- Contain an IRL time and date on screen at all times
+- Be published before the deadline with no expiration date
+
+#### Penalties
 - Drivers are expected to be honest. 
 - Cheating will be punished if detected.
 - You can get penalties for breaking rules. 
 
 ## Appendix: points
 
-Points in class (per event):
+**Points in class** (per event):
 
 |Position|Points|
 |:----|:----|
@@ -60,7 +59,9 @@ Points in class (per event):
 |11 or higher|0|
 
 
-Power stage points:
+The final stage of the rally is called _power stage_ and awards points.
+
+**Power stage points:**
 
 |Position|Points|
 |:----|:----|
