@@ -5,6 +5,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 #### Drivers championship:
 - There is one driver’s championship. The class is currently group 4.
 - Points for each rally according to table below
+- Each driver's worst rally of the season is dropped (including DNS)
 - When applicable, points for power stage (counts towards the team)
 
 #### Team championship:
