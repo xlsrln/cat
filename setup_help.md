@@ -16,4 +16,4 @@ If you want a realtime clock overlay, you can `add source > browser source` and 
 
 ## controller overlay (optional)
 
-Similar to the clock overlay: go to https://gamepadviewer.com/ and configure your settings, and add as a browser source.
+Similar to the clock overlay: go to https://gamepadviewer.com/ and configure your settings, and add as a browser source. For reference, mine is `https://gamepadviewer.com/?p=1&s=0&smeter=1&nocurve=1&soffset=40`
