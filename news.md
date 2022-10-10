@@ -94,7 +94,9 @@ Remember, [hinkelsteine are not on the road](https://www.youtube.com/watch?v=wBD
 | farschweiler    | morning   |
 | hockweiler      | afternoon (powerstage)  |
 
-deadline sunday 13th of november, 20:00 UTC
+deadline sunday 13th of november, 20:00 UTC 
+
+(note: summer time has ended so this is one hour earlier than before in some parts of the world)
 
 #
 
