@@ -16,7 +16,7 @@ Please check the [rules](https://github.com/xlsrln/cat/blob/main/cat_rules.md) a
 itineraries, table of contents:
 - [indonesia](https://github.com/xlsrln/cat/edit/main/news.md#round-1-indonesia)
 - [kenya](https://github.com/xlsrln/cat/edit/main/news.md#round-2-kenya-itinerary)
-- [germany](https://github.com/xlsrln/cat/edit/main/news.md#round-3-germany-provisional)
+- [germany](https://github.com/xlsrln/cat/edit/main/news.md#round-3-germany)
 - [sardinia](https://github.com/xlsrln/cat/edit/main/news.md#round-4-sardinia-provisional)
 
 #
@@ -80,7 +80,7 @@ deadline sunday 30th of october, 20:00 UTC
 
 #
 
-#### Round 3: Germany (provisional)
+#### Round 3: Germany
 
 Remember, [hinkelsteine are not on the road](https://www.youtube.com/watch?v=wBDdSAGSxxk)
 
@@ -93,6 +93,8 @@ Remember, [hinkelsteine are not on the road](https://www.youtube.com/watch?v=wBD
 | mertesdorf      | night     |
 | farschweiler    | morning   |
 | hockweiler      | afternoon (powerstage)  |
+
+deadline sunday 13th of november, 20:00 UTC
 
 #
 
@@ -107,7 +109,7 @@ Remember, [hinkelsteine are not on the road](https://www.youtube.com/watch?v=wBD
 | gennamari               | morning                |
 | montevecchio            | afternoon (powerstage) |
 
-
+deadline sunday 27th of november, 20:00 UTC
 
 
 
