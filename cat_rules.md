@@ -14,7 +14,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 #### Team championship
 - There is one team championship. Teams are handled in #paddock
 - The best two drivers per team for each rally score team points
-- For each rally, everyone in the team should use the same car
+- For each rally, everyone in the team should use ~~the same car~~ a similar livery
 
 #### In-game rules
 - No ghosts. No unauthorised mods.
