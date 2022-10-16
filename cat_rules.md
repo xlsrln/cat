@@ -26,6 +26,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 - Max 1 restart per service, or equivalently one per pair of stages (1&2, 3&4, 5&6 etc)
 - Free restarts on the first stage of the rally. These do not count towards the previous rule
 - No restarts on the power stage
+- Free restart if youu experience a bug, e.g. spawning sideways
 
 #### Liveries
 - Custom liveries, numberplates and team liveries are optional but encouraged
