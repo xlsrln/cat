@@ -17,7 +17,7 @@ itineraries, table of contents:
 - [indonesia](https://github.com/xlsrln/cat/edit/main/news.md#round-1-indonesia)
 - [kenya](https://github.com/xlsrln/cat/edit/main/news.md#round-2-kenya-itinerary)
 - [germany](https://github.com/xlsrln/cat/edit/main/news.md#round-3-germany)
-- [sardinia](https://github.com/xlsrln/cat/edit/main/news.md#round-4-sardinia-provisional)
+- [sardinia](https://github.com/xlsrln/cat/edit/main/news.md#round-4-sardinia)
 
 #
 
@@ -104,7 +104,7 @@ deadline sunday 13th of november, 20:00 UTC
 
 #
 
-#### Round 4: Sardinia (provisional)
+#### Round 4: Sardinia
 
 | stage                    | weather                |
 | ----------------------- | ---------------------- |
