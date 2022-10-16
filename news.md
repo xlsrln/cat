@@ -35,6 +35,8 @@ japan, group 4:
 
 deadline sunday 2nd of october
 
+Results: Wes is the winner!
+
 #
 
 #### Round 1: Indonesia 
@@ -53,6 +55,8 @@ group 4, stages:
 | satonda island       | rain (powerstage) |
 
 deadline sunday 16th of october, 20:00 UTC
+
+Results: Proporo is the winner!
 
 #
 
