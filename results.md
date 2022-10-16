@@ -24,11 +24,11 @@ Congratulations to Proporo, myth and Wes for the podium spots!
 | rank | name              | time    | power stage | link                                                            | points | rally | powerstage |
 | ---- | ----------------- | ------- | ----------- | --------------------------------------------------------------- | ------ | ----- | ---------- |
 | 1.   | Proporo           | 12:33.3 | 1:03.163   | https://youtu.be/tSuLEyKSEns                                    | 22     | 20    | 2          |
-| 2.   | myth              | 12:38.0 | 1:02.001    | https://youtu.be/tQipaK\_-5Qc                                   | 19     | 15    | 4          |
+| 2.   | myth              | 12:38.0 | 1:02.001    | https://youtu.be/tQipaK_-5Qc                                   | 19     | 15    | 4          |
 | 3.   | Wesley Daggleston | 12:39.9 | 1:02.617   | https://youtu.be/Bt6dVuNJp2I                                    | 15     | 12    | 3          |
 | 4.   | Get Goblinated    | 12:43.5 | 1:03.555    | https://youtu.be/1vpcnS4CMng                                    | 10     | 10    |            |
 | 5.   | turbo             | 12:48.4 | 1:03.492    | https://youtu.be/3HKmLByop2M                                    | 9      | 8     | 1          |
-| 6.   | Hulter            | 12:53.5 | 1:05.672   | https://youtu.be/eQN9zB\_f8e0                                   | 6      | 6     |            |
+| 6.   | Hulter            | 12:53.5 | 1:05.672   | https://youtu.be/eQN9zB_f8e0                                   | 6      | 6     |            |
 | 7.   | kk                | 12:54.1 | 1:14.311   | https://youtu.be/qU3JJFxTQj8                                    | 4      | 4     |            |
 | 8.   | domer             | 12:54.6 | 1:03.604    | https://youtu.be/04p2Knodb28                                    | 3      | 3     |            |
 | 9.   | nept              | 13:03.7 | 1:05.174    | https://youtu.be/5HnW0nAbP9o                                    | 2      | 2     |            |
