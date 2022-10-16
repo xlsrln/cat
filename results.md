@@ -1,6 +1,6 @@
 # Results
 
-## Japan asphalt rally (warmup event)
+## R0: Japan asphalt rally (warmup event)
 
 Congratulations to Wes, turbo and KK for rounding out the podium!
 
@@ -17,7 +17,7 @@ Congratulations to Wes, turbo and KK for rounding out the podium!
 | 9.   | MxCraven          | 09:43.8 | https://www.twitch.tv/videos/1607365265      |
 |10.   | nap               | 09:50.5 | https://www.youtube.com/watch?v=OjfTEOvrbTY  |
 
-## Indonesia rally (round 1)
+## R1: Indonesia
 
 Congratulations to Proporo, myth and Wes for the podium spots!
 
