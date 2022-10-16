@@ -18,6 +18,7 @@ Congratulations to Wes, turbo and KK for rounding out the podium!
 |10.   | nap               | 09:50.5 | https://www.youtube.com/watch?v=OjfTEOvrbTY  |
 
 ## indonesia
+Well done Proporo!
 |   pos | name              | time    | powerstage   | link                                                          |   rally |   ps |   points | team              |
 |------:|:------------------|:--------|:-------------|:--------------------------------------------------------------|--------:|-----:|---------:|:------------------|
 |     1 | Proporo           | 12:33.3 | 01:03.2      | https://youtu.be/tSuLEyKSEns                                  |      20 |    2 |       22 | cat face nospace  |
@@ -37,38 +38,39 @@ Congratulations to Wes, turbo and KK for rounding out the podium!
 |    15 | nap               | 14:22.0 | 01:11.1      | https://youtu.be/6-MwbFOtXYc                                  |       0 |    0 |        0 |                   |
 |    16 | Revenger210       | 15:43.8 | 01:25.0      | https://www.youtube.com/watch?v=Hr2ctY4ZnlA                   |       0 |    0 |        0 |                   |
 ## kenya
-|   pos | name   | time    | powerstage   | link                         |   rally |   ps |   points | team             |
-|------:|:-------|:--------|:-------------|:-----------------------------|--------:|-----:|---------:|:-----------------|
-|     1 | domer  | 18:50.6 | 03:35.9      | https://youtu.be/Rukcf5OxAAQ |      20 |    3 |       23 |                  |
-|     2 | Hulter | 19:31.9 | 03:35.6      | https://youtu.be/dv9jcEu5dzs |      15 |    4 |       19 | cat face nospace |
+
+| pos   | name   | time   | powerstage   | link   | rally   | ps   | points   | team   |
+|-------|--------|--------|--------------|--------|---------|------|----------|--------|
 ## germany
+
 | pos   | name   | time   | powerstage   | link   | rally   | ps   | points   | team   |
 |-------|--------|--------|--------------|--------|---------|------|----------|--------|
 ## sardinia
+
 | pos   | name   | time   | powerstage   | link   | rally   | ps   | points   | team   |
 |-------|--------|--------|--------------|--------|---------|------|----------|--------|
 ## standings
-| name              |   indonesia |   kenya |   germany |   sardinia |   total |
-|:------------------|------------:|--------:|----------:|-----------:|--------:|
-| domer             |           3 |      23 |         0 |          0 |      26 |
-| Hulter            |           6 |      19 |         0 |          0 |      25 |
-| Proporo           |          22 |       0 |         0 |          0 |      22 |
-| Myth              |          19 |       0 |         0 |          0 |      19 |
-| Wesley Daggleston |          15 |       0 |         0 |          0 |      15 |
-| Get Goblinated    |          10 |       0 |         0 |          0 |      10 |
-| turbo             |           9 |       0 |         0 |          0 |       9 |
-| kk                |           4 |       0 |         0 |          0 |       4 |
-| nept              |           2 |       0 |         0 |          0 |       2 |
-| Red Sun           |           1 |       0 |         0 |          0 |       1 |
-| capablanca        |           0 |       0 |         0 |          0 |       0 |
-| Farxin            |           0 |       0 |         0 |          0 |       0 |
-| MxCraven          |           0 |       0 |         0 |          0 |       0 |
-| Kariston          |           0 |       0 |         0 |          0 |       0 |
-| nap               |           0 |       0 |         0 |          0 |       0 |
-| Revenger210       |           0 |       0 |         0 |          0 |       0 |
+| name              |   indonesia | kenya   | germany   | sardinia   |   total |
+|:------------------|------------:|:--------|:----------|:-----------|--------:|
+| Proporo           |          22 | -       | -         | -          |       0 |
+| Myth              |          19 | -       | -         | -          |       0 |
+| Wesley Daggleston |          15 | -       | -         | -          |       0 |
+| Get Goblinated    |          10 | -       | -         | -          |       0 |
+| turbo             |           9 | -       | -         | -          |       0 |
+| Hulter            |           6 | -       | -         | -          |       0 |
+| kk                |           4 | -       | -         | -          |       0 |
+| domer             |           3 | -       | -         | -          |       0 |
+| nept              |           2 | -       | -         | -          |       0 |
+| Red Sun           |           1 | -       | -         | -          |       0 |
+| capablanca        |           0 | -       | -         | -          |       0 |
+| Farxin            |           0 | -       | -         | -          |       0 |
+| MxCraven          |           0 | -       | -         | -          |       0 |
+| Kariston          |           0 | -       | -         | -          |       0 |
+| nap               |           0 | -       | -         | -          |       0 |
+| Revenger210       |           0 | -       | -         | -          |       0 |
 ## team standings
 | team              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
-| cat face nospace  |          30 |      19 |         0 |          0 |      49 |
-| g2d racing        |          28 |       0 |         0 |          0 |      28 |
-| Brick Motorsports |          16 |       0 |         0 |          0 |      16 |
+| Brick Motorsports |          16 |       0 |         0 |          0 |       0 |
+| cat face nospace  |          30 |       0 |         0 |          0 |       0 |
+| g2d racing        |          28 |       0 |         0 |          0 |       0 |
