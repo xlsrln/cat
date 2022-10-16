@@ -33,9 +33,9 @@ Congratulations to Proporo, myth and Wes for the podium spots!
 | 8.   | domer             | 12:54.6 | 1:03.604    | https://youtu.be/04p2Knodb28                                    | 3      | 3     |            |
 | 9.   | nept              | 13:03.7 | 1:05.174    | https://youtu.be/5HnW0nAbP9o                                    | 2      | 2     |            |
 | 10.  | Red Sun           | 13:05.8 | 1:06.498    | https://www.twitch.tv/videos/1625302480                         | 1      | 1     |            |
-| 11.  | capablanca        | 13:06.0 | 01:05.823   | https://youtu.be/5u1xOOkOEfs                                    | 0      | 0     |            |
-| 12.  | Farxin            | 13:36.2 | 1:09.565    | https://www.youtube.com/watch?v=BRVlcqtiS\_Y&ab\_channel=Farxin | 0      | 0     |            |
-| 13.  | MxCraven          | 13:48.0 | 1:11.857    | https://www.twitch.tv/videos/1626051751                         | 0      | 0     |            |
-| 14.  | Kariston          | 14:05.6 | 1:09.767    | https://youtu.be/hhwG2qE9TtI                                    | 0      | 0     |            |
-| 15.  | nap               | 14:22.0 | 01:11.100   | https://youtu.be/6-MwbFOtXYc                                    | 0      | 0     |            |
-| 16.  | Revenger210       | 15:43.8 | 1:24.958    | https://www.youtube.com/watch?v=Hr2ctY4ZnlA                     | 0      | 0     |            |
+| 11.  | capablanca        | 13:06.0 | 01:05.823   | https://youtu.be/5u1xOOkOEfs                                    |       |      |            |
+| 12.  | Farxin            | 13:36.2 | 1:09.565    | https://www.youtube.com/watch?v=BRVlcqtiS\_Y&ab\_channel=Farxin |       |      |            |
+| 13.  | MxCraven          | 13:48.0 | 1:11.857    | https://www.twitch.tv/videos/1626051751                         |       |      |            |
+| 14.  | Kariston          | 14:05.6 | 1:09.767    | https://youtu.be/hhwG2qE9TtI                                    |       |      |            |
+| 15.  | nap               | 14:22.0 | 01:11.100   | https://youtu.be/6-MwbFOtXYc                                    |       |      |            |
+| 16.  | Revenger210       | 15:43.8 | 1:24.958    | https://www.youtube.com/watch?v=Hr2ctY4ZnlA                     |       |      |            |
