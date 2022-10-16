@@ -23,8 +23,6 @@ itineraries, table of contents:
 
 #### Warmup event!
 
-[results](https://github.com/xlsrln/cat/blob/main/results.md)
-
 japan, group 4:
 
 | stage                 | weather             |
@@ -35,7 +33,7 @@ japan, group 4:
 
 deadline sunday 2nd of october
 
-Results: Wes is the winner!
+[Results: Wes is the winner!](https://github.com/xlsrln/cat/blob/main/results.md#r0-japan-asphalt-rally-warmup-event)
 
 #
 
@@ -56,7 +54,7 @@ group 4, stages:
 
 deadline sunday 16th of october, 20:00 UTC
 
-Results: Proporo is the winner!
+[Results: Proporo is the winner!](https://github.com/xlsrln/cat/blob/main/results.md#r1-indonesia)
 
 #
 
