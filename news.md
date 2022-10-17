@@ -38,7 +38,9 @@ This is the longest rally of the season, a real endurance event!
 | ndere island r | morning   |
 | homa bay       | afternoon (powerstage) |
 
-deadline sunday 30th of october, 20:00 UTC
+deadline sunday 30th of october, 20:00 UTC / 21:00 swedish time
+
+(note: daylight savings time has ended so this is one hour earlier than before in some parts of the world)
 
 
 ## Upcoming rounds
@@ -58,8 +60,6 @@ Remember, [hinkelsteine are not on the road](https://www.youtube.com/watch?v=wBD
 | hockweiler      | afternoon (powerstage)  |
 
 deadline sunday 13th of november, 20:00 UTC 
-
-(note: summer time has ended so this is one hour earlier than before in some parts of the world)
 
 #
 
