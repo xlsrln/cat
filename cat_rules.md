@@ -33,7 +33,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 
 #### Videos should
 - Capture the whole rally from setup to finish screen
-- Contain an IRL time and date on screen at all times
+- ~~Contain an IRL time and date on screen at all times~~ (this is encouraged but will not be enforced this season at least)
 - Be published before the deadline with no expiration date
 
 #### Penalties
@@ -71,3 +71,7 @@ The final stage of the rally is called _power stage_ and awards points.
 |3|2|
 |4|1|
 
+
+#
+
+_Credits to Ethan Kearley for the original rules of the AORC, from which these rules were originally derived._
