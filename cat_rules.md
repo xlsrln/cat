@@ -40,6 +40,18 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 - Drivers are expected to be honest. 
 - Cheating will be punished if detected.
 - You can get penalties for breaking rules. 
+- See examples of time penalties below
+
+##### Examples of time penalties
+
+| offence | penalty |
+| ----------------------------------------------- | ----------- |
+| running the wrong dry weather                   | +5 seconds  |
+| running day instead of night                    | +10 seconds |
+| running dry instead of wet                      | +30 seconds |
+| extra restart                                   | +10 seconds |
+| running the wrong damage setting/not showing it | +60 seconds |
+
 
 ## Appendix: points
 
