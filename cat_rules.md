@@ -55,21 +55,26 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 
 ## Appendix: points
 
-**Points in class** (per event):
+**Points in class** (per event): (as in MotoGP)
 
 |Position|Points|
 |:----|:----|
-|1|20|
-|2|15|
-|3|12|
-|4|10|
-|5|8|
-|6|6|
-|7|4|
-|8|3|
-|9|2|
-|10|1|
-|11 or higher|0|
+|1|25|
+|2|20|
+|3|16|
+|4|13|
+|5|11|
+|6|10|
+|7|9|
+|8|8|
+|9|7|
+|10|6|
+|11|5|
+|12|4|
+|13|3|
+|14|2|
+|15|1|
+|16 or higher|0|
 
 
 The final stage of the rally is called _power stage_ and awards points.
