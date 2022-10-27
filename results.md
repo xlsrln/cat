@@ -22,7 +22,7 @@ Congratulations to Wes, turbo and KK for rounding out the podium!
 Well done Proporo!
 |   pos | name              | time    | powerstage   | link                                                          |   rally |   ps |   points | team              |
 |------:|:------------------|:--------|:-------------|:--------------------------------------------------------------|--------:|-----:|---------:|:------------------|
-|     1 | Proporo           | 12:33.3 | 01:03.2      | https://youtu.be/tSuLEyKSEns                                  |      20 |    2 |       22 | cat face nospace  |
+|     1 | Proporo           | 12:33.3 | 01:03.2      | https://youtu.be/tSuLEyKSEns                                  |      22 |    2 |       24 | cat face nospace  |
 |     2 | Myth              | 12:38.0 | 01:02.0      | https://youtu.be/tQipaK_-5Qc                                  |      17 |    4 |       21 | g2d racing        |
 |     3 | Wesley Daggleston | 12:39.9 | 01:02.6      | https://youtu.be/Bt6dVuNJp2I                                  |      14 |    3 |       17 | Brick Motorsports |
 |     4 | Get Goblinated    | 12:43.5 | 01:03.6      | https://youtu.be/1vpcnS4CMng                                  |      12 |    0 |       12 |                   |
@@ -42,7 +42,7 @@ Well done Proporo!
 
 |   pos | name          | time    | powerstage   | link                                        |   rally |   ps |   points | team             |
 |------:|:--------------|:--------|:-------------|:--------------------------------------------|--------:|-----:|---------:|:-----------------|
-|     1 | domer         | 18:02.9 | 03:29.1      | https://youtu.be/URIfE1vL-jg                |      20 |    4 |       24 |                  |
+|     1 | domer         | 18:02.9 | 03:29.1      | https://youtu.be/URIfE1vL-jg                |      22 |    4 |       26 |                  |
 |     2 | nept          | 18:13.8 | 03:29.6      | https://www.youtube.com/watch?v=J0nj5PTV1Rc |      17 |    3 |       20 | cat face nospace |
 |     3 | colin mccrack | 18:18.4 | 03:30.0      | https://www.youtube.com/watch?v=aWrj9DKlY8E |      14 |    2 |       16 |                  |
 |     4 | Kariston      | 19:08.4 | 03:42.7      | https://youtu.be/Pzj3KO2ei70                |      12 |    0 |       12 | g2d racing       |
@@ -52,7 +52,7 @@ Well done Proporo!
 
 |   pos | name   | time    | powerstage   | link                         |   rally |   ps |   points | team   |
 |------:|:-------|:--------|:-------------|:-----------------------------|--------:|-----:|---------:|:-------|
-|     1 | domer  | 19:07.2 | 02:03.5      | https://youtu.be/bHmLhx8ijzk |      20 |    4 |       24 |        |
+|     1 | domer  | 19:07.2 | 02:03.5      | https://youtu.be/bHmLhx8ijzk |      22 |    4 |       26 |        |
 ## sardinia
 
 | pos   | name   | time   | powerstage   | link   | rally   | ps   | points   | team   |
@@ -60,7 +60,7 @@ Well done Proporo!
 ## standings
 | name              |   indonesia |   kenya |   germany | sardinia   |   total |
 |:------------------|------------:|--------:|----------:|:-----------|--------:|
-| Proporo           |          22 |       0 |         0 | -          |      22 |
+| Proporo           |          24 |       0 |         0 | -          |      24 |
 | Myth              |          21 |       0 |         0 | -          |      21 |
 | Wesley Daggleston |          17 |       0 |         0 | -          |      17 |
 | Get Goblinated    |          12 |       0 |         0 | -          |      12 |
@@ -79,7 +79,7 @@ Well done Proporo!
 ## team standings
 | team              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
+| cat face nospace  |          41 |       0 |         0 |          0 |      41 |
 | g2d racing        |          40 |       0 |         0 |          0 |      40 |
-| cat face nospace  |          39 |       0 |         0 |          0 |      39 |
 | Brick Motorsports |          23 |       0 |         0 |          0 |      23 |
 
