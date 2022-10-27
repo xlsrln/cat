@@ -22,10 +22,10 @@ Congratulations to Wes, turbo and KK for rounding out the podium!
 Well done Proporo!
 |   pos | name              | time    | powerstage   | link                                                          |   rally |   ps |   points | team              |
 |------:|:------------------|:--------|:-------------|:--------------------------------------------------------------|--------:|-----:|---------:|:------------------|
-|     1 | Proporo           | 12:33.3 | 01:03.2      | https://youtu.be/tSuLEyKSEns                                  |      22 |    2 |       24 | cat face nospace  |
-|     2 | Myth              | 12:38.0 | 01:02.0      | https://youtu.be/tQipaK_-5Qc                                  |      17 |    4 |       21 | g2d racing        |
-|     3 | Wesley Daggleston | 12:39.9 | 01:02.6      | https://youtu.be/Bt6dVuNJp2I                                  |      14 |    3 |       17 | Brick Motorsports |
-|     4 | Get Goblinated    | 12:43.5 | 01:03.6      | https://youtu.be/1vpcnS4CMng                                  |      12 |    0 |       12 |                   |
+|     1 | Proporo           | 12:33.3 | 01:03.2      | https://youtu.be/tSuLEyKSEns                                  |      25 |    2 |       27 | cat face nospace  |
+|     2 | Myth              | 12:38.0 | 01:02.0      | https://youtu.be/tQipaK_-5Qc                                  |      20 |    4 |       24 | g2d racing        |
+|     3 | Wesley Daggleston | 12:39.9 | 01:02.6      | https://youtu.be/Bt6dVuNJp2I                                  |      16 |    3 |       19 | Brick Motorsports |
+|     4 | Get Goblinated    | 12:43.5 | 01:03.6      | https://youtu.be/1vpcnS4CMng                                  |      13 |    0 |       13 |                   |
 |     5 | turbo             | 12:48.4 | 01:03.5      | https://youtu.be/3HKmLByop2M                                  |      11 |    1 |       12 | g2d racing        |
 |     6 | Hulter            | 12:53.5 | 01:05.7      | https://youtu.be/eQN9zB_f8e0                                  |      10 |    0 |       10 | cat face nospace  |
 |     7 | kk                | 12:54.1 | 01:14.3      | https://youtu.be/qU3JJFxTQj8                                  |       9 |    0 |        9 |                   |
@@ -42,44 +42,44 @@ Well done Proporo!
 
 |   pos | name          | time    | powerstage   | link                                        |   rally |   ps |   points | team             |
 |------:|:--------------|:--------|:-------------|:--------------------------------------------|--------:|-----:|---------:|:-----------------|
-|     1 | domer         | 18:02.9 | 03:29.1      | https://youtu.be/URIfE1vL-jg                |      22 |    4 |       26 |                  |
-|     2 | nept          | 18:13.8 | 03:29.6      | https://www.youtube.com/watch?v=J0nj5PTV1Rc |      17 |    3 |       20 | cat face nospace |
-|     3 | colin mccrack | 18:18.4 | 03:30.0      | https://www.youtube.com/watch?v=aWrj9DKlY8E |      14 |    2 |       16 |                  |
-|     4 | Kariston      | 19:08.4 | 03:42.7      | https://youtu.be/Pzj3KO2ei70                |      12 |    0 |       12 | g2d racing       |
+|     1 | domer         | 18:02.9 | 03:29.1      | https://youtu.be/URIfE1vL-jg                |      25 |    4 |       29 |                  |
+|     2 | nept          | 18:13.8 | 03:29.6      | https://www.youtube.com/watch?v=J0nj5PTV1Rc |      20 |    3 |       23 | cat face nospace |
+|     3 | colin mccrack | 18:18.4 | 03:30.0      | https://www.youtube.com/watch?v=aWrj9DKlY8E |      16 |    2 |       18 |                  |
+|     4 | Kariston      | 19:08.4 | 03:42.7      | https://youtu.be/Pzj3KO2ei70                |      13 |    0 |       13 | g2d racing       |
 |     5 | Hulter        | 19:31.9 | 03:35.6      | https://youtu.be/dv9jcEu5dzs                |      11 |    1 |       12 | cat face nospace |
 |     6 | MxCraven      | 20:47.3 | 04:13.0      | https://www.twitch.tv/videos/1635003671     |      10 |    0 |       10 |                  |
 ## germany
 
 |   pos | name   | time    | powerstage   | link                         |   rally |   ps |   points | team   |
 |------:|:-------|:--------|:-------------|:-----------------------------|--------:|-----:|---------:|:-------|
-|     1 | domer  | 19:07.2 | 02:03.5      | https://youtu.be/bHmLhx8ijzk |      22 |    4 |       26 |        |
+|     1 | domer  | 19:07.2 | 02:03.5      | https://youtu.be/bHmLhx8ijzk |      25 |    4 |       29 |        |
 ## sardinia
 
 | pos   | name   | time   | powerstage   | link   | rally   | ps   | points   | team   |
 |-------|--------|--------|--------------|--------|---------|------|----------|--------|
 ## standings
-| name              |   indonesia |   kenya |   germany | sardinia   |   total |
-|:------------------|------------:|--------:|----------:|:-----------|--------:|
-| Proporo           |          24 |       0 |         0 | -          |      24 |
-| Myth              |          21 |       0 |         0 | -          |      21 |
-| Wesley Daggleston |          17 |       0 |         0 | -          |      17 |
-| Get Goblinated    |          12 |       0 |         0 | -          |      12 |
-| turbo             |          12 |       0 |         0 | -          |      12 |
-| Hulter            |          10 |       0 |         0 | -          |      10 |
-| kk                |           9 |       0 |         0 | -          |       9 |
-| domer             |           8 |       0 |         0 | -          |       8 |
-| nept              |           7 |       0 |         0 | -          |       7 |
-| Red Sun           |           6 |       0 |         0 | -          |       6 |
-| capablanca        |           5 |       0 |         0 | -          |       5 |
-| Farxin            |           4 |       0 |         0 | -          |       4 |
-| MxCraven          |           3 |       0 |         0 | -          |       3 |
-| Kariston          |           2 |       0 |         0 | -          |       2 |
-| nap               |           1 |       0 |         0 | -          |       1 |
-| Revenger210       |           0 |       0 |         0 | -          |       0 |
+| name              |   indonesia |   kenya |   germany |   sardinia |   total |
+|:------------------|------------:|--------:|----------:|-----------:|--------:|
+| Proporo           |          27 |       0 |         0 |          0 |      27 |
+| Myth              |          24 |       0 |         0 |          0 |      24 |
+| Wesley Daggleston |          19 |       0 |         0 |          0 |      19 |
+| Get Goblinated    |          13 |       0 |         0 |          0 |      13 |
+| turbo             |          12 |       0 |         0 |          0 |      12 |
+| Hulter            |          10 |       0 |         0 |          0 |      10 |
+| kk                |           9 |       0 |         0 |          0 |       9 |
+| domer             |           8 |       0 |         0 |          0 |       8 |
+| nept              |           7 |       0 |         0 |          0 |       7 |
+| Red Sun           |           6 |       0 |         0 |          0 |       6 |
+| capablanca        |           5 |       0 |         0 |          0 |       5 |
+| Farxin            |           4 |       0 |         0 |          0 |       4 |
+| MxCraven          |           3 |       0 |         0 |          0 |       3 |
+| Kariston          |           2 |       0 |         0 |          0 |       2 |
+| nap               |           1 |       0 |         0 |          0 |       1 |
+| Revenger210       |           0 |       0 |         0 |          0 |       0 |
 ## team standings
 | team              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
-| cat face nospace  |          41 |       0 |         0 |          0 |      41 |
-| g2d racing        |          40 |       0 |         0 |          0 |      40 |
-| Brick Motorsports |          23 |       0 |         0 |          0 |      23 |
+| cat face nospace  |          44 |       0 |         0 |          0 |      44 |
+| g2d racing        |          43 |       0 |         0 |          0 |      43 |
+| Brick Motorsports |          25 |       0 |         0 |          0 |      25 |
 
