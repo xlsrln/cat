@@ -53,16 +53,17 @@ Strong showing by Proporo and the returning PlayerZ, as well as a good effort by
 |     2 | PlayerZ           | 17:16.0 | 03:20.7      |      20 |    3 |       23 | g2d racing        | https://youtu.be/s8S5dyTnNpc                                   |
 |     3 | turbo             | 17:45.4 | 03:25.3      |      16 |    2 |       18 | g2d racing        | https://youtu.be/6bVu7oTrAZw                                   |
 |     4 | Wesley Daggleston | 17:49.2 | 03:27.2      |      13 |    1 |       14 | Brick Motorsports | https://youtu.be/rChRZ2kANew                                   |
-|     5 | colin mccrack     | 17:59.6 | 03:28.1      |      11 |    0 |       11 | g2d racing        | https://www.youtube.com/watch?v=l2Ee3kN6a68                    |
-|     6 | capablanca        | 18:01.8 | 03:29.4      |      10 |    0 |       10 | g2d racing        | https://youtu.be/BNKR7ccAS-4                                   |
-|     7 | domer             | 18:02.9 | 03:29.1      |       9 |    0 |        9 |                   | https://youtu.be/URIfE1vL-jg                                   |
+|     5 | domer             | 17:53.8 | 03:29.7      |      11 |    0 |       11 |                   | https://youtu.be/BZS9ED1D3IQ                                   |
+|     6 | colin mccrack     | 17:59.6 | 03:28.1      |      10 |    0 |       10 | g2d racing        | https://www.youtube.com/watch?v=l2Ee3kN6a68                    |
+|     7 | capablanca        | 18:01.8 | 03:29.4      |       9 |    0 |        9 | g2d racing        | https://youtu.be/BNKR7ccAS-4                                   |
 |     8 | Hulter            | 18:05.6 | 03:28.0      |       8 |    0 |        8 | cat face nospace  | https://youtu.be/gq6DhNcpZBI                                   |
 |     9 | nept              | 18:06.7 | 03:28.8      |       7 |    0 |        7 | cat face nospace  | https://www.youtube.com/watch?v=3TCVPmFnsss                    |
 |    10 | Fuksias           | 18:47.9 | 03:34.7      |       6 |    0 |        6 |                   | https://www.youtube.com/watch?v=E4qFigjDs0o&ab_channel=Fuksias |
-|    11 | Kariston          | 19:08.4 | 03:42.7      |       5 |    0 |        5 | g2d racing        | https://youtu.be/Pzj3KO2ei70                                   |
-|    12 | Revenger210       | 19:39.3 | 03:41.8      |       4 |    0 |        4 |                   | https://youtu.be/sx25UhSl3wI                                   |
-|    13 | nap               | 19:47.1 | 03:48.5      |       3 |    0 |        3 |                   | https://www.youtube.com/watch?v=GraQJSZkVI0                    |
-|    14 | MxCraven          | 20:47.3 | 04:13.0      |       2 |    0 |        2 |                   | https://www.twitch.tv/videos/1635003671                        |
+|    11 | increasingly_phil | 19:00.8 | 03:36.2      |       5 |    0 |        5 |                   | https://twitch.tv/videos/1638782341                            |
+|    12 | Kariston          | 19:08.4 | 03:42.7      |       4 |    0 |        4 | g2d racing        | https://youtu.be/Pzj3KO2ei70                                   |
+|    13 | Revenger210       | 19:39.3 | 03:41.8      |       3 |    0 |        3 |                   | https://youtu.be/sx25UhSl3wI                                   |
+|    14 | nap               | 19:47.1 | 03:48.5      |       2 |    0 |        2 |                   | https://www.youtube.com/watch?v=GraQJSZkVI0                    |
+|    15 | MxCraven          | 20:47.3 | 04:13.0      |       1 |    0 |        1 |                   | https://www.twitch.tv/videos/1635003671                        |
 ## germany
 
 |   pos | name     | time    | powerstage   |   rally |   ps |   points | team       | link                                        |
@@ -74,27 +75,28 @@ Strong showing by Proporo and the returning PlayerZ, as well as a good effort by
 | pos   | name   | time   | powerstage   | rally   | ps   | points   | team   | link   |
 |-------|--------|--------|--------------|---------|------|----------|--------|--------|
 ## standings
-| name              | indonesia   | kenya   |   germany |   sardinia |   total |
-|:------------------|:------------|:--------|----------:|-----------:|--------:|
-| Proporo           | 27        | 29    |         0 |          0 |      56 |
-| Wesley Daggleston | 19        | 14    |         0 |          0 |      33 |
-| turbo             | 12        | 18    |         0 |          0 |      30 |
-| Myth              | 24        | -       |         0 |          0 |      24 |
-| PlayerZ           | -           | 23    |         0 |          0 |      23 |
-| Hulter            | 10        | 8     |         0 |          0 |      18 |
-| domer             | 8        | 9     |         0 |          0 |      17 |
-| capablanca        | 5        | 10    |         0 |          0 |      15 |
-| nept              | 7        | 7     |         0 |          0 |      14 |
-| Get Goblinated    | 13        | -       |         0 |          0 |      13 |
-| colin mccrack     | -         | 11    |         0 |          0 |      11 |
-| kk                | 9        | -       |         0 |          0 |       9 |
-| Kariston          | 2        | 5     |         0 |          0 |       7 |
-| Red Sun           | 6        | -       |         0 |          0 |       6 |
-| Fuksias           | -         | 6     |         0 |          0 |       6 |
-| MxCraven          | 3        | 2     |         0 |          0 |       5 |
-| nap               | 1        | 3     |         0 |          0 |       4 |
-| Revenger210       | 0        | 4     |         0 |          0 |       4 |
-| Farxin            | 4        | -       |         0 |          0 |       4 |
+| name              |   indonesia |   kenya |   germany |   sardinia |   total |
+|:------------------|------------:|--------:|----------:|-----------:|--------:|
+| Proporo           |          27 |      29 |         0 |          0 |      56 |
+| Wesley Daggleston |          19 |      14 |         0 |          0 |      33 |
+| turbo             |          12 |      18 |         0 |          0 |      30 |
+| Myth              |          24 |       0 |         0 |          0 |      24 |
+| PlayerZ           |           0 |      23 |         0 |          0 |      23 |
+| domer             |           8 |      11 |         0 |          0 |      19 |
+| Hulter            |          10 |       8 |         0 |          0 |      18 |
+| nept              |           7 |       7 |         0 |          0 |      14 |
+| capablanca        |           5 |       9 |         0 |          0 |      14 |
+| Get Goblinated    |          13 |       0 |         0 |          0 |      13 |
+| colin mccrack     |           0 |      10 |         0 |          0 |      10 |
+| kk                |           9 |       0 |         0 |          0 |       9 |
+| Red Sun           |           6 |       0 |         0 |          0 |       6 |
+| Kariston          |           2 |       4 |         0 |          0 |       6 |
+| Fuksias           |           0 |       6 |         0 |          0 |       6 |
+| increasingly_phil |           0 |       5 |         0 |          0 |       5 |
+| Farxin            |           4 |       0 |         0 |          0 |       4 |
+| MxCraven          |           3 |       1 |         0 |          0 |       4 |
+| nap               |           1 |       2 |         0 |          0 |       3 |
+| Revenger210       |           0 |       3 |         0 |          0 |       3 |
 ## team standings
 | team              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
