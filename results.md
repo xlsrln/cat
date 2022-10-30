@@ -1,12 +1,12 @@
 
 # Results
 
-[standings](https://github.com/xlsrln/cat/main/results.md#standings)
+[standings](https://github.com/xlsrln/cat/main/blob/results.md#standings)
 
-1. [indonesia](https://github.com/xlsrln/cat/main/results.md#indonesia)
-2. [kenya](https://github.com/xlsrln/cat/main/results.md#kenya)
-3. [germany](https://github.com/xlsrln/cat/main/results.md#germany)
-4. [sardinia](https://github.com/xlsrln/cat/main/results.md#sardinia)
+1. [indonesia](https://github.com/xlsrln/cat/main/blob/results.md#indonesia)
+2. [kenya](https://github.com/xlsrln/cat/main/blob/results.md#kenya)
+3. [germany](https://github.com/xlsrln/cat/main/blob/results.md#germany)
+4. [sardinia](https://github.com/xlsrln/cat/main/blob/results.md#sardinia)
 
 ## japan asphalt rally (warmup event)
 
