@@ -1,6 +1,13 @@
 
 # Results
 
+[standings](https://github.com/xlsrln/cat/edit/main/results.md#standings)
+
+1. [indonesia](https://github.com/xlsrln/cat/edit/main/results.md#indonesia)
+2. [kenya](https://github.com/xlsrln/cat/edit/main/results.md#kenya)
+3. [germany](https://github.com/xlsrln/cat/edit/main/results.md#germany)
+4. [sardinia](https://github.com/xlsrln/cat/edit/main/results.md#sardinia)
+
 ## japan asphalt rally (warmup event)
 
 Congratulations to Wes, turbo and KK for rounding out the podium!
