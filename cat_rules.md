@@ -14,6 +14,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 #### Team championship
 - There is one team championship. Teams are handled in #paddock
 - The best two drivers per team for each rally score team points
+- Team points are calculated as if only the top two drivers per team exist. ([example](https://github.com/xlsrln/cat/edit/main/cat_rules.md#appendix-team-points))
 - For each rally, everyone in the team should use ~~the same car~~ a similar livery
 
 #### In-game rules
@@ -88,6 +89,24 @@ The final stage of the rally is called _power stage_ and awards points.
 |3|2|
 |4|1|
 
+
+## Appendix: team points
+
+Example calculation for team points
+
+| Pos   | Driver | Individual points | Team          | Rank in team | Counts for team points? | Team points |
+| ----- | ------ | ----------------- | ------------- | ------------ | ----------------------- | ----------- |
+| 1     | A   | 25                | Team X        | 1            | Yes                     | 25 |
+| 2     | B   | 20                | Team X        | 2            | Yes                     | 20 |
+| 3     | C   | 16                | Team X        | 3            | No                      | \- |
+| 4     | D   | 13                | W Motorsports | 1            | Yes                     | 16 |
+
+this gives the following standings:
+
+| Team          | Points |
+| ------------- | ------ |
+| Team X        | 45     |
+| W Motorsports | 16     |
 
 #
 
