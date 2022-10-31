@@ -49,5 +49,41 @@
             'morning',
             'afternoon',
         ]
+    },'Germany' : {
+        'country': 'Germany',
+        'stages': [
+            'franzenheim',     
+            'gonnesweiler - r',  
+            'holzerath',           
+            'mertesdorf',      
+            'farschweiler', 
+            'hockweiler',         
+        ], 
+        'weather': [
+            'morning',
+            'afternoon',
+            'sunset',
+            'night',
+            'morning',
+            'afternoon',
+        ]
+    }, 'Sardinia' : {
+        'country': 'Sardinia',
+        'stages': [
+            'villacidro',
+            'san gavino monreale - r', 
+            'portu maga',   
+            'san benedetto',
+            'gennamari',
+            'montevecchio',  
+        ], 
+        'weather': [
+            'morning',
+            'afternoon',
+            'sunset',
+            'night',
+            'morning',
+            'afternoon',
+        ]
     },
 }
