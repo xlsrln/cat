@@ -17,9 +17,9 @@ Please check the [rules](https://github.com/xlsrln/cat/blob/main/cat_rules.md) a
 itineraries:
 - R0 [japan](https://github.com/xlsrln/cat/blob/main/news.md#warmup-event)
 - R1 [indonesia](https://github.com/xlsrln/cat/blob/main/news.md#round-1-indonesia)
-- R2 [kenya](https://github.com/xlsrln/cat/edit/blob/news.md#round-2-kenya-itinerary)
-- R3 [germany](https://github.com/xlsrln/cat/edit/blob/news.md#round-3-germany)
-- R4 [sardinia](https://github.com/xlsrln/cat/edit/blob/news.md#round-4-sardinia)
+- R2 [kenya](https://github.com/xlsrln/cat/blob/main/news.md#round-2-kenya-itinerary)
+- R3 [germany](https://github.com/xlsrln/cat/blob/main/news.md#round-3-germany)
+- R4 [sardinia](https://github.com/xlsrln/cat/blob/main/news.md#round-4-sardinia)
 
 #
 
