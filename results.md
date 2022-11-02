@@ -48,7 +48,6 @@ Well done Proporo!
 |    14 | Kariston          | 14:05.6 | 01:09.8      |       2 |    0 |        2 | G2D Racing        | https://youtu.be/hhwG2qE9TtI                                  |
 |    15 | nap               | 14:22.0 | 01:11.1      |       1 |    0 |        1 |                   | https://youtu.be/6-MwbFOtXYc                                  |
 |    16 | Revenger210       | 15:43.8 | 01:25.0      |       0 |    0 |        0 |                   | https://www.youtube.com/watch?v=Hr2ctY4ZnlA                   |
-
 ## kenya
 Strong showing by Proporo and the returning PlayerZ, as well as a good effort by capablanca!
 |   pos | name              | time    | powerstage   |   rally |   ps |   points | team              | link                                                           |
@@ -67,23 +66,20 @@ Strong showing by Proporo and the returning PlayerZ, as well as a good effort by
 |    12 | Kariston          | 19:08.4 | 03:42.7      |       4 |    0 |        4 | G2D Racing        | https://youtu.be/Pzj3KO2ei70                                   |
 |    13 | Revenger210       | 19:39.3 | 03:41.8      |       3 |    0 |        3 |                   | https://youtu.be/sx25UhSl3wI                                   |
 |    14 | nap               | 19:47.1 | 03:48.5      |       2 |    0 |        2 |                   | https://www.youtube.com/watch?v=GraQJSZkVI0                    |
-|    15 | MxCraven          | 20:47.3 | 04:13.0      |       1 |    0 |        1 |                   | https://www.twitch.tv/videos/1635003671  |
-
+|    15 | MxCraven          | 20:47.3 | 04:13.0      |       1 |    0 |        1 |                   | https://www.twitch.tv/videos/1635003671                        |
 ## germany
 
-|   pos | name     | time    | powerstage   |   rally |   ps |   points | team       | link                                        |
-|------:|:---------|:--------|:-------------|--------:|-----:|---------:|:-----------|:--------------------------------------------|
-|     1 | Dryout   | 18:22.1 | 01:43.0      |      25 |    4 |       29 |            | https://youtu.be/SKR9iUaDd7I                |
-|     2 | domer    | 18:46.2 | 01:45.0      |      20 |    3 |       23 |            | https://youtu.be/JnGVx8PXmfA                |
-|     3 | Kariston | 19:20.1 | 01:48.1      |      16 |    2 |       18 | G2D Racing | https://www.youtube.com/watch?v=5yLjyDsE6HM |
-
+|   pos | name     | time    | powerstage   |   rally |   ps |   points | team              | link                                        |
+|------:|:---------|:--------|:-------------|--------:|-----:|---------:|:------------------|:--------------------------------------------|
+|     1 | Dryout   | 18:22.1 | 01:43.0      |      25 |    4 |       29 |                   | https://youtu.be/SKR9iUaDd7I                |
+|     2 | domer    | 18:46.2 | 01:45.0      |      20 |    3 |       23 | Brick Motorsports | https://youtu.be/JnGVx8PXmfA                |
+|     3 | Kariston | 19:20.1 | 01:48.1      |      16 |    2 |       18 | G2D Racing        | https://www.youtube.com/watch?v=5yLjyDsE6HM |
 ## sardinia
 
-|   pos | name    | time    | powerstage   |   rally |   ps |   points | team   | link                                                           |
-|------:|:--------|:--------|:-------------|--------:|-----:|---------:|:-------|:---------------------------------------------------------------|
-|     1 | Fuksias | 14:40.7 | 02:41.8      |      25 |    3 |       28 |        | https://www.youtube.com/watch?v=JaIl2hoHcRU&ab_channel=Fuksias |
-|     2 | domer   | 15:06.2 | 02:40.4      |      20 |    4 |       24 |        | https://youtu.be/tEHdrNKjTFg                                   |
-
+|   pos | name    | time    | powerstage   |   rally |   ps |   points | team              | link                                                           |
+|------:|:--------|:--------|:-------------|--------:|-----:|---------:|:------------------|:---------------------------------------------------------------|
+|     1 | Fuksias | 14:40.7 | 02:41.8      |      25 |    3 |       28 |                   | https://www.youtube.com/watch?v=JaIl2hoHcRU&ab_channel=Fuksias |
+|     2 | domer   | 15:06.2 | 02:40.4      |      20 |    4 |       24 | Brick Motorsports | https://youtu.be/tEHdrNKjTFg                                   |
 ## standings
 | name              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
@@ -108,7 +104,6 @@ Strong showing by Proporo and the returning PlayerZ, as well as a good effort by
 | Revenger210       |           0 |       3 |         0 |          0 |       3 |
 | nap               |           1 |       2 |         0 |          0 |       3 |
 | Dryout            |           0 |       0 |         0 |          0 |       0 |
-
 ## team standings
 | team              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
