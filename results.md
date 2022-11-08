@@ -72,7 +72,7 @@ Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
 |   pos | name          | time    | powerstage   |   rally |   ps |   points | team              | link                                        |
 |------:|:--------------|:--------|:-------------|--------:|-----:|---------:|:------------------|:--------------------------------------------|
 |     1 | Dryout        | 18:22.1 | 01:43.0      |      25 |    2 |       27 |                   | https://youtu.be/SKR9iUaDd7I                |
-|     2 | NoEihäOo      | 18:23.3 | 01:42.7      |      20 |    3 |       23 |                   | https://youtu.be/TaarDCttWXY                |
+|     2 | NoEihäOo      | 18:23.3 | 01:42.7      |      20 |    3 |       23 | G2D Racing        | https://youtu.be/TaarDCttWXY                |
 |     3 | colin mccrack | 18:24.8 | 01:42.6      |      16 |    4 |       20 | G2D Racing        | https://youtu.be/PoaMv9asXc8                |
 |     4 | domer         | 18:41.3 | 01:45.9      |      13 |    1 |       14 | Brick Motorsports | https://youtu.be/Mktf3UNvRDE                |
 |     5 | Kariston      | 19:20.1 | 01:48.1      |      11 |    0 |       11 | G2D Racing        | https://www.youtube.com/watch?v=5yLjyDsE6HM |
@@ -112,8 +112,8 @@ Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
 ## team standings
 | team              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
-| G2D Racing        |          33 |      36 |        41 |          0 |     110 |
-| Brick Motorsports |          26 |      13 |        20 |         25 |      84 |
+| G2D Racing        |          33 |      36 |        45 |          0 |     114 |
+| Brick Motorsports |          26 |      13 |        16 |         25 |      80 |
 | cat face nospace  |          36 |      36 |         0 |          0 |      72 |
 | Noot Squad Rally  |           0 |       0 |        13 |          0 |      13 |
 
