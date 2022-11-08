@@ -57,7 +57,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 
 ## Appendix: points
 
-**Points in class** (per event): (as in MotoGP)
+**Points per event:** (similar to MotoGP)
 
 |Position|Points|
 |:----|:----|
@@ -79,7 +79,7 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 |16 or higher|0|
 
 
-The final stage of the rally is called _power stage_ and awards points.
+The final stage of the rally is called _power stage_ and awards points (as in WRC).
 
 **Power stage points:**
 
@@ -93,7 +93,11 @@ The final stage of the rally is called _power stage_ and awards points.
 
 ## Appendix: team points
 
-Example calculation for team points
+Example calculation for team points. (similar to the WRC system)
+
+Note that team points is not always the sum of the individual points!
+
+Given this result:
 
 | Pos   | Driver | Individual points | Team          | Rank in team | Counts for team points? | Team points |
 | ----- | ------ | ----------------- | ------------- | ------------ | ----------------------- | ----------- |
@@ -102,7 +106,7 @@ Example calculation for team points
 | 3     | C   | 16                | Team X        | 3            | No                      | \- |
 | 4     | D   | 13                | W Motorsports | 1            | Yes                     | 16 |
 
-this gives the following standings:
+we get the following standings:
 
 | Team          | Points |
 | ------------- | ------ |
