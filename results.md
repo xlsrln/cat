@@ -67,86 +67,53 @@ Strong showing by Proporo and the returning PlayerZ, as well as a good effort by
 |    13 | Revenger210       | 19:39.3 | 03:41.8      |       3 |    0 |        3 |                   | https://youtu.be/sx25UhSl3wI                                   |
 |    14 | nap               | 19:47.1 | 03:48.5      |       2 |    0 |        2 |                   | https://www.youtube.com/watch?v=GraQJSZkVI0                    |
 |    15 | MxCraven          | 20:47.3 | 04:13.0      |       1 |    0 |        1 |                   | https://www.twitch.tv/videos/1635003671                        |
-        
- 
-## germany (preliminary)
+## germany
 Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
-|   pos | name     | time    | powerstage   |   rally |   ps |   points | team              | link                                        |
-|------:|:---------|:--------|:-------------|--------:|-----:|---------:|:------------------|:--------------------------------------------|
-|     1 | Dryout   | 18:22.1 | 01:43.0      |      25 |    4 |       29 |                   | https://youtu.be/SKR9iUaDd7I                |
-|     2 | domer    | 18:41.3 | 01:45.9      |      20 |    3 |       23 | Brick Motorsports | https://youtu.be/Mktf3UNvRDE                |
-|     3 | Kariston | 19:20.1 | 01:48.1      |      16 |    2 |       18 | G2D Racing        | https://www.youtube.com/watch?v=5yLjyDsE6HM |
-## sardinia (preliminary)
+|   pos | name          | time    | powerstage   |   rally |   ps |   points | team              | link                                        |
+|------:|:--------------|:--------|:-------------|--------:|-----:|---------:|:------------------|:--------------------------------------------|
+|     1 | Dryout        | 18:22.1 | 01:43.0      |      25 |    2 |       27 |                   | https://youtu.be/SKR9iUaDd7I                |
+|     2 | NoEihäOo      | 18:23.3 | 01:42.7      |      20 |    3 |       23 |                   | https://youtu.be/TaarDCttWXY                |
+|     3 | colin mccrack | 18:24.8 | 01:42.6      |      16 |    4 |       20 | G2D Racing        | https://youtu.be/PoaMv9asXc8                |
+|     4 | domer         | 18:41.3 | 01:45.9      |      13 |    1 |       14 | Brick Motorsports | https://youtu.be/Mktf3UNvRDE                |
+|     5 | Kariston      | 19:20.1 | 01:48.1      |      11 |    0 |       11 | G2D Racing        | https://www.youtube.com/watch?v=5yLjyDsE6HM |
+|     6 | Steamed Jams  | 22:22.5 | 02:14.5      |      10 |    0 |       10 | Noot Squad Rally  | https://youtu.be/4vVT7QAox18                |
+## sardinia
 
 |   pos | name    | time    | powerstage   |   rally |   ps |   points | team              | link                                                           |
 |------:|:--------|:--------|:-------------|--------:|-----:|---------:|:------------------|:---------------------------------------------------------------|
 |     1 | Fuksias | 14:38.1 | 02:38.3      |      25 |    4 |       29 |                   | https://www.youtube.com/watch?v=EPQjLie-usQ&ab_channel=Fuksias |
 |     2 | domer   | 15:06.2 | 02:40.4      |      20 |    3 |       23 | Brick Motorsports | https://youtu.be/tEHdrNKjTFg                                   |
- 
-       
 ## standings
 | name              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
 | Proporo           |          27 |      29 |         0 |          0 |      56 |
+| domer             |           8 |      11 |        14 |         23 |      48 |
+| Fuksias           |           0 |       6 |         0 |         29 |      35 |
 | Wesley Daggleston |          19 |      14 |         0 |          0 |      33 |
+| colin mccrack     |           0 |      10 |        20 |          0 |      30 |
 | turbo             |          12 |      18 |         0 |          0 |      30 |
+| Dryout            |           0 |       0 |        27 |          0 |      27 |
 | Myth              |          24 |       0 |         0 |          0 |      24 |
 | PlayerZ           |           0 |      23 |         0 |          0 |      23 |
-| domer             |           8 |      11 |         0 |          0 |      19 |
+| NoEihäOo          |           0 |       0 |        23 |          0 |      23 |
 | Hulter            |          10 |       8 |         0 |          0 |      18 |
+| Kariston          |           2 |       4 |        11 |          0 |      17 |
 | capablanca        |           5 |       9 |         0 |          0 |      14 |
 | nept              |           7 |       7 |         0 |          0 |      14 |
 | Get Goblinated    |          13 |       0 |         0 |          0 |      13 |
-| colin mccrack     |           0 |      10 |         0 |          0 |      10 |
+| Steamed Jams      |           0 |       0 |        10 |          0 |      10 |
 | kk                |           9 |       0 |         0 |          0 |       9 |
 | Red Sun           |           6 |       0 |         0 |          0 |       6 |
-| Fuksias           |           0 |       6 |         0 |          0 |       6 |
-| Kariston          |           2 |       4 |         0 |          0 |       6 |
 | increasingly_phil |           0 |       5 |         0 |          0 |       5 |
 | Farxin            |           4 |       0 |         0 |          0 |       4 |
 | MxCraven          |           3 |       1 |         0 |          0 |       4 |
 | Revenger210       |           0 |       3 |         0 |          0 |       3 |
 | nap               |           1 |       2 |         0 |          0 |       3 |
-| Dryout            |           0 |       0 |         0 |          0 |       0 |
 ## team standings
 | team              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
+| G2D Racing        |          33 |      36 |        41 |          0 |     110 |
+| Brick Motorsports |          26 |      13 |        20 |         25 |      84 |
 | cat face nospace  |          36 |      36 |         0 |          0 |      72 |
-| G2D Racing        |          33 |      36 |         0 |          0 |      69 |
-| Brick Motorsports |          26 |      13 |         0 |          0 |      39 |
-
-
-## standings (preliminary)
-| name              |   indonesia |   kenya |   germany |   sardinia |   total |
-|:------------------|------------:|--------:|----------:|-----------:|--------:|
-| domer             |           8 |      11 |        23 |         23 |      57 |
-| Proporo           |          27 |      29 |         0 |          0 |      56 |
-| Fuksias           |           0 |       6 |         0 |         29 |      35 |
-| Wesley Daggleston |          19 |      14 |         0 |          0 |      33 |
-| turbo             |          12 |      18 |         0 |          0 |      30 |
-| Dryout            |           0 |       0 |        29 |          0 |      29 |
-| Myth              |          24 |       0 |         0 |          0 |      24 |
-| Kariston          |           2 |       4 |        18 |          0 |      24 |
-| PlayerZ           |           0 |      23 |         0 |          0 |      23 |
-| Hulter            |          10 |       8 |         0 |          0 |      18 |
-| capablanca        |           5 |       9 |         0 |          0 |      14 |
-| nept              |           7 |       7 |         0 |          0 |      14 |
-| Get Goblinated    |          13 |       0 |         0 |          0 |      13 |
-| colin mccrack     |           0 |      10 |         0 |          0 |      10 |
-| kk                |           9 |       0 |         0 |          0 |       9 |
-| Red Sun           |           6 |       0 |         0 |          0 |       6 |
-| increasingly_phil |           0 |       5 |         0 |          0 |       5 |
-| Farxin            |           4 |       0 |         0 |          0 |       4 |
-| MxCraven          |           3 |       1 |         0 |          0 |       4 |
-| Revenger210       |           0 |       3 |         0 |          0 |       3 |
-| nap               |           1 |       2 |         0 |          0 |       3 |
-
-## team standings (preliminary)
-| team              |   indonesia |   kenya |   germany |   sardinia |   total |
-|:------------------|------------:|--------:|----------:|-----------:|--------:|
-| Brick Motorsports |          26 |      13 |        25 |         25 |      89 |
-| G2D Racing        |          33 |      36 |        20 |          0 |      89 |
-| cat face nospace  |          36 |      36 |         0 |          0 |      72 |
-
-
+| Noot Squad Rally  |           0 |       0 |        13 |          0 |      13 |
 
