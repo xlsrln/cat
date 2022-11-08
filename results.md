@@ -83,6 +83,7 @@ Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
 |------:|:--------|:--------|:-------------|--------:|-----:|---------:|:------------------|:---------------------------------------------------------------|
 |     1 | Fuksias | 14:38.1 | 02:38.3      |      25 |    4 |       29 |                   | https://www.youtube.com/watch?v=EPQjLie-usQ&ab_channel=Fuksias |
 |     2 | domer   | 15:06.2 | 02:40.4      |      20 |    3 |       23 | Brick Motorsports | https://youtu.be/tEHdrNKjTFg                                   |
+|     3 | nept    | 15:27.2 | 02:57.6      |      16 |    2 |       18 | cat face nospace  | https://youtu.be/yXTwAA-szPM                                   |
 ## standings
 | name              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
@@ -90,6 +91,7 @@ Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
 | domer             |           8 |      11 |        14 |         23 |      48 |
 | Fuksias           |           0 |       6 |         0 |         29 |      35 |
 | Wesley Daggleston |          19 |      14 |         0 |          0 |      33 |
+| nept              |           7 |       7 |         0 |         18 |      32 |
 | colin mccrack     |           0 |      10 |        20 |          0 |      30 |
 | turbo             |          12 |      18 |         0 |          0 |      30 |
 | Dryout            |           0 |       0 |        27 |          0 |      27 |
@@ -99,7 +101,6 @@ Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
 | Hulter            |          10 |       8 |         0 |          0 |      18 |
 | Kariston          |           2 |       4 |        11 |          0 |      17 |
 | capablanca        |           5 |       9 |         0 |          0 |      14 |
-| nept              |           7 |       7 |         0 |          0 |      14 |
 | Get Goblinated    |          13 |       0 |         0 |          0 |      13 |
 | Steamed Jams      |           0 |       0 |        10 |          0 |      10 |
 | kk                |           9 |       0 |         0 |          0 |       9 |
@@ -113,7 +114,7 @@ Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
 | team              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
 | G2D Racing        |          33 |      36 |        45 |          0 |     114 |
+| cat face nospace  |          36 |      36 |         0 |         20 |      92 |
 | Brick Motorsports |          26 |      13 |        16 |         25 |      80 |
-| cat face nospace  |          36 |      36 |         0 |          0 |      72 |
 | Noot Squad Rally  |           0 |       0 |        13 |          0 |      13 |
 
