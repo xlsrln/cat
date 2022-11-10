@@ -25,26 +25,6 @@ itineraries:
 
 ## Current round
 
-#### Round 2: Kenya itinerary
-
-This is the longest rally of the season, a real endurance event!
-
-| stage          | weather   |
-| -------------- | --------- |
-| lake baringo   | morning   |
-| lake nakuru r  | rain      |
-| karura         | sunset    |
-| mount kenya    | night     |
-| ndere island r | morning   |
-| homa bay       | afternoon (powerstage) |
-
-deadline sunday 30th of october, 20:00 UTC / 21:00 swedish time
-
-(note: daylight savings time has ended so this is one hour earlier than before in some parts of the world)
-
-
-## Upcoming rounds
-
 #### Round 3: Germany
 
 Remember, [hinkelsteine are not on the road](https://www.youtube.com/watch?v=wBDdSAGSxxk)
@@ -62,6 +42,8 @@ Remember, [hinkelsteine are not on the road](https://www.youtube.com/watch?v=wBD
 deadline sunday 13th of november, 20:00 UTC 
 
 #
+
+## Next round
 
 #### Round 4: Sardinia
 
@@ -114,6 +96,25 @@ group 4, stages:
 deadline sunday 16th of october, 20:00 UTC
 
 [Results: Proporo is the winner!](https://github.com/xlsrln/cat/blob/main/results.md#r1-indonesia)
+
+#
+
+#### Round 2: Kenya itinerary
+
+This is the longest rally of the season, a real endurance event!
+
+| stage          | weather   |
+| -------------- | --------- |
+| lake baringo   | morning   |
+| lake nakuru r  | rain      |
+| karura         | sunset    |
+| mount kenya    | night     |
+| ndere island r | morning   |
+| homa bay       | afternoon (powerstage) |
+
+deadline sunday 30th of october, 20:00 UTC / 21:00 swedish time
+
+(note: daylight savings time has ended so this is one hour earlier than before in some parts of the world)
 
 #
 
