@@ -14,6 +14,12 @@ Please check the [rules](https://github.com/xlsrln/cat/blob/main/cat_rules.md) a
 
 #
 
+CAT 2022 season finals will be held on saturday 3rd of december, 15:00 UTC
+
+This event will include a prize ceremony, announcements, and some live rally competition on stages we've done in the season.. (Not a part of the championship, but just for fun.) Format and details will be presented later.
+
+#
+
 itineraries:
 - R0 [japan](https://github.com/xlsrln/cat/blob/main/news.md#warmup-event)
 - R1 [indonesia](https://github.com/xlsrln/cat/blob/main/news.md#round-1-indonesia)
@@ -123,6 +129,5 @@ _Calendar update 2022-10-03_
 Due to turbulent circumstances (aka popular vote), rally Norway has unfortunately been cancelled. Luckily the popular rally Kenya has stepped in to fill the calendar with short notice. 
 
 #
-
 
 
