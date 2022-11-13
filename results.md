@@ -69,52 +69,66 @@ Strong showing by Proporo and the returning PlayerZ, as well as a good effort by
 |    15 | MxCraven          | 20:47.3 | 04:13.0      |       1 |    0 |        1 |                   | https://www.twitch.tv/videos/1635003671                        |
 ## germany
 Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
-|   pos | name          | time    | powerstage   |   rally |   ps |   points | team              | link                                        |
-|------:|:--------------|:--------|:-------------|--------:|-----:|---------:|:------------------|:--------------------------------------------|
-|     1 | Dryout        | 18:22.1 | 01:43.0      |      25 |    2 |       27 |                   | https://youtu.be/SKR9iUaDd7I                |
-|     2 | NoEihäOo      | 18:23.3 | 01:42.7      |      20 |    3 |       23 | G2D Racing        | https://youtu.be/TaarDCttWXY                |
-|     3 | colin mccrack | 18:24.8 | 01:42.6      |      16 |    4 |       20 | G2D Racing        | https://youtu.be/PoaMv9asXc8                |
-|     4 | domer         | 18:41.3 | 01:45.9      |      13 |    1 |       14 | Brick Motorsports | https://youtu.be/Mktf3UNvRDE                |
-|     5 | Kariston      | 19:20.1 | 01:48.1      |      11 |    0 |       11 | G2D Racing        | https://www.youtube.com/watch?v=5yLjyDsE6HM |
-|     6 | Steamed Jams  | 22:22.5 | 02:14.5      |      10 |    0 |       10 | Noot Squad Rally  | https://youtu.be/4vVT7QAox18                |
+|   pos | name              | time    | powerstage   |   rally |   ps |   points | team              | link                                        |
+|------:|:------------------|:--------|:-------------|--------:|-----:|---------:|:------------------|:--------------------------------------------|
+|     1 | Proporo           | 17:30.9 | 01:37.9      |      25 |    4 |       29 | cat face nospace  | https://youtu.be/h2BTycM4wWI                |
+|     2 | PlayerZ           | 17:42.9 | 01:38.7      |      20 |    3 |       23 | G2D Racing        | https://youtu.be/UyPnJC4TnH8                |
+|     3 | Myth              | 17:44.3 | 01:40.3      |      16 |    0 |       16 | G2D Racing        | https://www.youtube.com/watch?v=aSYaf0GYX3A |
+|     4 | kk                | 17:55.6 | 01:38.7      |      13 |    3 |       16 |                   | https://youtu.be/\_K2-HP7gZSg                |
+|     5 | Wesley Daggleston | 17:56.4 | 01:39.9      |      11 |    1 |       12 | Brick Motorsports | https://youtu.be/AgwXtVFFKYE                |
+|     6 | turbo             | 17:57.6 | 01:40.3      |      10 |    0 |       10 | G2D Racing        | https://www.twitch.tv/videos/1650544639     |
+|     7 | Get Goblinated    | 18:07.9 | 01:40.1      |       9 |    0 |        9 |                   | https://youtu.be/RccW3YxI5Gw                |
+|     8 | Dryout            | 18:14.0 | 01:40.6      |       8 |    0 |        8 |                   | https://youtu.be/cJELaq_m6Zw                |
+|     9 | nept              | 18:16.3 | 01:42.1      |       7 |    0 |        7 | cat face nospace  | https://youtu.be/4T_Woy4mwJo                |
+|    10 | Hulter            | 18:16.8 | 01:41.6      |       6 |    0 |        6 | cat face nospace  | https://youtu.be/RN7452x9TBg                |
+|    11 | colin mccrack     | 18:17.5 | 01:41.8      |       5 |    0 |        5 | G2D Racing        | https://youtu.be/d0dGt4P9Nio                |
+|    12 | NoEihaOo          | 18:18.2 | 01:41.6      |       4 |    0 |        4 | G2D Racing        | https://youtu.be/GSt\_2pBkKWc                |
+|    13 | domer             | 18:22.9 | 01:42.3      |       3 |    0 |        3 | Brick Motorsports | https://youtu.be/9lDiB4pa2WI                |
+|    14 | Red Sun           | 18:24.5 | 01:42.0      |       2 |    0 |        2 | Brick Motorsports | https://www.twitch.tv/videos/1651443177     |
+|    15 | capablanca        | 18:33.1 | 01:43.1      |       1 |    0 |        1 | G2D Racing        | https://youtu.be/6YEVxLMfoG8                |
+|    16 | Kariston          | 19:13.0 | 01:48.8      |       0 |    0 |        0 | G2D Racing        | https://youtu.be/fq9otaOT6IU                |
+|    17 | nap               | 20:16.3 | 01:52.7      |       0 |    0 |        0 |                   | https://www.youtube.com/watch?v=UZH5KScQrVQ |
+|    18 | MxCraven          | 20:20.8 | 01:51.2      |       0 |    0 |        0 |                   | https://www.twitch.tv/videos/1651766820     |
+|    19 | Revenger210       | 20:28.6 | 01:52.4      |       0 |    0 |        0 | Noot Squad Rally  | https://youtu.be/1ys3pa4Wj4A                |
+|    20 | Steamed Jams      | 22:22.5 | 02:14.5      |       0 |    0 |        0 | Noot Squad Rally  | https://youtu.be/4vVT7QAox18                |
 ## sardinia
 
 |   pos | name    | time    | powerstage   |   rally |   ps |   points | team              | link                                                           |
 |------:|:--------|:--------|:-------------|--------:|-----:|---------:|:------------------|:---------------------------------------------------------------|
 |     1 | Fuksias | 14:38.1 | 02:38.3      |      25 |    4 |       29 |                   | https://www.youtube.com/watch?v=EPQjLie-usQ&ab_channel=Fuksias |
 |     2 | domer   | 15:06.2 | 02:40.4      |      20 |    3 |       23 | Brick Motorsports | https://youtu.be/tEHdrNKjTFg                                   |
-|     3 | nept    | 15:27.2 | 02:57.6      |      16 |    2 |       18 | cat face nospace  | https://youtu.be/yXTwAA-szPM                                   |
+|     3 | nept    | 15:23.1 | 02:58.7      |      16 |    2 |       18 | cat face nospace  | https://www.youtube.com/watch?v=zSYaw3ZPHuE                    |
 ## standings
 | name              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
-| Proporo           |          27 |      29 |         0 |          0 |      56 |
-| domer             |           8 |      11 |        14 |         23 |      48 |
-| Fuksias           |           0 |       6 |         0 |         29 |      35 |
-| Wesley Daggleston |          19 |      14 |         0 |          0 |      33 |
-| nept              |           7 |       7 |         0 |         18 |      32 |
-| colin mccrack     |           0 |      10 |        20 |          0 |      30 |
-| turbo             |          12 |      18 |         0 |          0 |      30 |
-| Dryout            |           0 |       0 |        27 |          0 |      27 |
-| Myth              |          24 |       0 |         0 |          0 |      24 |
-| PlayerZ           |           0 |      23 |         0 |          0 |      23 |
-| NoEihäOo          |           0 |       0 |        23 |          0 |      23 |
-| Hulter            |          10 |       8 |         0 |          0 |      18 |
-| Kariston          |           2 |       4 |        11 |          0 |      17 |
-| capablanca        |           5 |       9 |         0 |          0 |      14 |
-| Get Goblinated    |          13 |       0 |         0 |          0 |      13 |
-| Steamed Jams      |           0 |       0 |        10 |          0 |      10 |
-| kk                |           9 |       0 |         0 |          0 |       9 |
-| Red Sun           |           6 |       0 |         0 |          0 |       6 |
+| Proporo           |          27 |      29 |        29 |          0 |      85 |
+| PlayerZ           |           0 |      23 |        23 |          0 |      46 |
+| Wesley Daggleston |          19 |      14 |        12 |          0 |      45 |
+| Myth              |          24 |       0 |        16 |          0 |      40 |
+| turbo             |          12 |      18 |        10 |          0 |      40 |
+| kk                |           9 |       0 |        16 |          0 |      25 |
+| Hulter            |          10 |       8 |         6 |          0 |      24 |
+| Get Goblinated    |          13 |       0 |         9 |          0 |      22 |
+| domer             |           8 |      11 |         3 |          0 |      22 |
+| nept              |           7 |       7 |         7 |          0 |      21 |
+| colin mccrack     |           0 |      10 |         5 |          0 |      15 |
+| capablanca        |           5 |       9 |         1 |          0 |      15 |
+| Dryout            |           0 |       0 |         8 |          0 |       8 |
+| Red Sun           |           6 |       0 |         2 |          0 |       8 |
+| Fuksias           |           0 |       6 |         0 |          0 |       6 |
+| Kariston          |           2 |       4 |         0 |          0 |       6 |
 | increasingly_phil |           0 |       5 |         0 |          0 |       5 |
 | Farxin            |           4 |       0 |         0 |          0 |       4 |
+| NoEihaOo          |           0 |       0 |         4 |          0 |       4 |
 | MxCraven          |           3 |       1 |         0 |          0 |       4 |
 | Revenger210       |           0 |       3 |         0 |          0 |       3 |
 | nap               |           1 |       2 |         0 |          0 |       3 |
+| Steamed Jams      |           0 |       0 |         0 |          0 |       0 |
 ## team standings
 | team              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
-| G2D Racing        |          33 |      36 |        45 |          0 |     114 |
-| cat face nospace  |          36 |      36 |         0 |         20 |      92 |
-| Brick Motorsports |          26 |      13 |        16 |         25 |      80 |
-| Noot Squad Rally  |           0 |       0 |        13 |          0 |      13 |
+| cat face nospace  |          36 |      36 |        36 |          0 |     108 |
+| G2D Racing        |          33 |      36 |        36 |          0 |     105 |
+| Brick Motorsports |          26 |      13 |        23 |          0 |      62 |
+| Noot Squad Rally  |           0 |       0 |        17 |          0 |      17 |
 
