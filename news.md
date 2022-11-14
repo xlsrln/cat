@@ -21,52 +21,13 @@ This event will include a prize ceremony, announcements, and some live rally com
 #
 
 itineraries:
-- R0 [japan](https://github.com/xlsrln/cat/blob/main/news.md#warmup-event)
-- R1 [indonesia](https://github.com/xlsrln/cat/blob/main/news.md#round-1-indonesia)
-- R2 [kenya](https://github.com/xlsrln/cat/blob/main/news.md#round-2-kenya-itinerary)
-- R3 [germany](https://github.com/xlsrln/cat/blob/main/news.md#round-3-germany)
+- ~~R0 [japan](https://github.com/xlsrln/cat/blob/main/news.md#warmup-event)~~
+- ~~R1 [indonesia](https://github.com/xlsrln/cat/blob/main/news.md#round-1-indonesia)~~
+- ~~R2 [kenya](https://github.com/xlsrln/cat/blob/main/news.md#round-2-kenya-itinerary)~~
+- ~~R3 [germany](https://github.com/xlsrln/cat/blob/main/news.md#round-3-germany)~~
 - R4 [sardinia](https://github.com/xlsrln/cat/blob/main/news.md#round-4-sardinia)
 
 #
-
-## Current round
-
-#### Round 3: Germany
-
-Remember, [hinkelsteine are not on the road](https://www.youtube.com/watch?v=wBDdSAGSxxk)
-
-
-| stage          | weather   |
-| --------------- | --------- |
-| franzenheim     | morning   |
-| gonnesweiler -r | afternoon |
-| holzerath       | sunset    |
-| mertesdorf      | night     |
-| farschweiler    | morning   |
-| hockweiler      | afternoon (powerstage)  |
-
-deadline sunday 13th of november, 20:00 UTC 
-
-#
-
-## Next round
-
-#### Round 4: Sardinia
-
-| stage                    | weather                |
-| ----------------------- | ---------------------- |
-| villacidro              | morning                |
-| san gavino monreale - r  | afternoon              |
-| portu maga              | sunset                 |
-| san benedetto           | night                  |
-| gennamari               | morning                |
-| montevecchio            | afternoon (powerstage) |
-
-deadline sunday 27th of november, 20:00 UTC
-
-
-
-## Previous news
 
 #### Warmup event!
 
@@ -130,4 +91,33 @@ Due to turbulent circumstances (aka popular vote), rally Norway has unfortunatel
 
 #
 
+#### Round 3: Germany
 
+Remember, [hinkelsteine are not on the road](https://www.youtube.com/watch?v=wBDdSAGSxxk)
+
+
+| stage          | weather   |
+| --------------- | --------- |
+| franzenheim     | morning   |
+| gonnesweiler -r | afternoon |
+| holzerath       | sunset    |
+| mertesdorf      | night     |
+| farschweiler    | morning   |
+| hockweiler      | afternoon (powerstage)  |
+
+deadline sunday 13th of november, 20:00 UTC 
+
+#
+
+#### Round 4: Sardinia
+
+| stage                    | weather                |
+| ----------------------- | ---------------------- |
+| villacidro              | morning                |
+| san gavino monreale - r  | afternoon              |
+| portu maga              | sunset                 |
+| san benedetto           | night                  |
+| gennamari               | morning                |
+| montevecchio            | afternoon (powerstage) |
+
+deadline sunday 27th of november, 20:00 UTC
