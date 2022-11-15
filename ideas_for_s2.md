@@ -1,7 +1,9 @@
 # Proposed ideas for season 2
 
 - Group B/S as a class
-- Some shorter rallies (4-5 stages)
+- All cars below that class is technically allowed if you want to sandbag
+- Shorter rallies (4-5 stages)
+- Live rally as part of the season (indonesia 3 stages?)
 - Some theme-based rallies (i.e. all rain, all night..)
 
 
