@@ -32,72 +32,73 @@ Congratulations to Wes, turbo and KK for rounding out the podium!
 Well done Proporo!
 |   pos | name              | time    | powerstage   |   rally |   ps |   points | team              | link                                                          |
 |------:|:------------------|:--------|:-------------|--------:|-----:|---------:|:------------------|:--------------------------------------------------------------|
-|     1 | Proporo           | 12:33.3 | 01:03.2      |      25 |    2 |       27 | cat face nospace  | https://youtu.be/tSuLEyKSEns                                  |
-|     2 | Myth              | 12:38.0 | 01:02.0      |      20 |    4 |       24 | G2D Racing        | https://youtu.be/tQipaK_-5Qc                                  |
-|     3 | Wesley Daggleston | 12:39.9 | 01:02.6      |      16 |    3 |       19 | Brick Motorsports | https://youtu.be/Bt6dVuNJp2I                                  |
-|     4 | Get Goblinated    | 12:43.5 | 01:03.6      |      13 |    0 |       13 |                   | https://youtu.be/1vpcnS4CMng                                  |
-|     5 | turbo             | 12:48.4 | 01:03.5      |      11 |    1 |       12 | G2D Racing        | https://youtu.be/3HKmLByop2M                                  |
-|     6 | Hulter            | 12:53.5 | 01:05.7      |      10 |    0 |       10 | cat face nospace  | https://youtu.be/eQN9zB_f8e0                                  |
-|     7 | kk                | 12:54.1 | 01:14.3      |       9 |    0 |        9 |                   | https://youtu.be/qU3JJFxTQj8                                  |
-|     8 | domer             | 12:54.6 | 01:03.6      |       8 |    0 |        8 |                   | https://youtu.be/04p2Knodb28                                  |
-|     9 | nept              | 13:03.7 | 01:05.2      |       7 |    0 |        7 | cat face nospace  | https://youtu.be/5HnW0nAbP9o                                  |
-|    10 | Red Sun           | 13:05.8 | 01:06.5      |       6 |    0 |        6 | Brick Motorsports | https://www.twitch.tv/videos/1625302480                       |
-|    11 | capablanca        | 13:06.0 | 01:05.8      |       5 |    0 |        5 | G2D Racing        | https://youtu.be/5u1xOOkOEfs                                  |
-|    12 | Farxin            | 13:36.2 | 01:09.6      |       4 |    0 |        4 |                   | https://www.youtube.com/watch?v=BRVlcqtiS_Y&ab_channel=Farxin |
-|    13 | MxCraven          | 13:48.0 | 01:11.9      |       3 |    0 |        3 |                   | https://www.twitch.tv/videos/1626051751                       |
-|    14 | Kariston          | 14:05.6 | 01:09.8      |       2 |    0 |        2 | G2D Racing        | https://youtu.be/hhwG2qE9TtI                                  |
-|    15 | nap               | 14:22.0 | 01:11.1      |       1 |    0 |        1 |                   | https://youtu.be/6-MwbFOtXYc                                  |
-|    16 | Revenger210       | 15:43.8 | 01:25.0      |       0 |    0 |        0 |                   | https://www.youtube.com/watch?v=Hr2ctY4ZnlA                   |
+|     1 | Proporo           | 12:33.3 | 01:03.16     |      25 |    2 |       27 | cat face nospace  | https://youtu.be/tSuLEyKSEns                                  |
+|     2 | Myth              | 12:38.0 | 01:02.00     |      20 |    4 |       24 | G2D Racing        | https://youtu.be/tQipaK_-5Qc                                  |
+|     3 | Wesley Daggleston | 12:39.9 | 01:02.62     |      16 |    3 |       19 | Brick Motorsports | https://youtu.be/Bt6dVuNJp2I                                  |
+|     4 | Get Goblinated    | 12:43.5 | 01:03.56     |      13 |    0 |       13 |                   | https://youtu.be/1vpcnS4CMng                                  |
+|     5 | turbo             | 12:48.4 | 01:03.49     |      11 |    1 |       12 | G2D Racing        | https://youtu.be/3HKmLByop2M                                  |
+|     6 | Hulter            | 12:53.5 | 01:05.67     |      10 |    0 |       10 | cat face nospace  | https://youtu.be/eQN9zB_f8e0                                  |
+|     7 | kk                | 12:54.1 | 01:14.31     |       9 |    0 |        9 |                   | https://youtu.be/qU3JJFxTQj8                                  |
+|     8 | domer             | 12:54.6 | 01:03.60     |       8 |    0 |        8 |                   | https://youtu.be/04p2Knodb28                                  |
+|     9 | nept              | 13:03.7 | 01:05.17     |       7 |    0 |        7 | cat face nospace  | https://youtu.be/5HnW0nAbP9o                                  |
+|    10 | Red Sun           | 13:05.8 | 01:06.50     |       6 |    0 |        6 | Brick Motorsports | https://www.twitch.tv/videos/1625302480                       |
+|    11 | capablanca        | 13:06.0 | 01:05.82     |       5 |    0 |        5 | G2D Racing        | https://youtu.be/5u1xOOkOEfs                                  |
+|    12 | Farxin            | 13:36.2 | 01:09.57     |       4 |    0 |        4 |                   | https://www.youtube.com/watch?v=BRVlcqtiS_Y&ab_channel=Farxin |
+|    13 | MxCraven          | 13:48.0 | 01:11.86     |       3 |    0 |        3 |                   | https://www.twitch.tv/videos/1626051751                       |
+|    14 | Kariston          | 14:05.6 | 01:09.77     |       2 |    0 |        2 | G2D Racing        | https://youtu.be/hhwG2qE9TtI                                  |
+|    15 | nap               | 14:22.0 | 01:11.10     |       1 |    0 |        1 |                   | https://youtu.be/6-MwbFOtXYc                                  |
+|    16 | Revenger210       | 15:43.8 | 01:24.96     |       0 |    0 |        0 |                   | https://www.youtube.com/watch?v=Hr2ctY4ZnlA                   |
 ## kenya
 Strong showing by Proporo and the returning PlayerZ, as well as a good effort by capablanca!
 |   pos | name              | time    | powerstage   |   rally |   ps |   points | team              | link                                                           |
 |------:|:------------------|:--------|:-------------|--------:|-----:|---------:|:------------------|:---------------------------------------------------------------|
-|     1 | Proporo           | 17:04.1 | 03:19.6      |      25 |    4 |       29 | cat face nospace  | https://youtu.be/wwR6pmk4L94                                   |
-|     2 | PlayerZ           | 17:16.0 | 03:20.7      |      20 |    3 |       23 | G2D Racing        | https://youtu.be/s8S5dyTnNpc                                   |
-|     3 | turbo             | 17:45.4 | 03:25.3      |      16 |    2 |       18 | G2D Racing        | https://youtu.be/6bVu7oTrAZw                                   |
-|     4 | Wesley Daggleston | 17:49.2 | 03:27.2      |      13 |    1 |       14 | Brick Motorsports | https://youtu.be/rChRZ2kANew                                   |
-|     5 | domer             | 17:53.8 | 03:29.7      |      11 |    0 |       11 |                   | https://youtu.be/BZS9ED1D3IQ                                   |
-|     6 | colin mccrack     | 17:59.6 | 03:28.1      |      10 |    0 |       10 | G2D Racing        | https://www.youtube.com/watch?v=l2Ee3kN6a68                    |
-|     7 | capablanca        | 18:01.8 | 03:29.4      |       9 |    0 |        9 | G2D Racing        | https://youtu.be/BNKR7ccAS-4                                   |
-|     8 | Hulter            | 18:05.6 | 03:28.0      |       8 |    0 |        8 | cat face nospace  | https://youtu.be/gq6DhNcpZBI                                   |
-|     9 | nept              | 18:06.7 | 03:28.8      |       7 |    0 |        7 | cat face nospace  | https://www.youtube.com/watch?v=3TCVPmFnsss                    |
-|    10 | Fuksias           | 18:47.9 | 03:34.7      |       6 |    0 |        6 |                   | https://www.youtube.com/watch?v=E4qFigjDs0o&ab_channel=Fuksias |
-|    11 | increasingly_phil | 19:00.8 | 03:36.2      |       5 |    0 |        5 |                   | https://twitch.tv/videos/1638782341                            |
-|    12 | Kariston          | 19:08.4 | 03:42.7      |       4 |    0 |        4 | G2D Racing        | https://youtu.be/Pzj3KO2ei70                                   |
-|    13 | Revenger210       | 19:39.3 | 03:41.8      |       3 |    0 |        3 |                   | https://youtu.be/sx25UhSl3wI                                   |
-|    14 | nap               | 19:47.1 | 03:48.5      |       2 |    0 |        2 |                   | https://www.youtube.com/watch?v=GraQJSZkVI0                    |
-|    15 | MxCraven          | 20:47.3 | 04:13.0      |       1 |    0 |        1 |                   | https://www.twitch.tv/videos/1635003671                        |
+|     1 | Proporo           | 17:04.1 | 03:19.63     |      25 |    4 |       29 | cat face nospace  | https://youtu.be/wwR6pmk4L94                                   |
+|     2 | PlayerZ           | 17:16.0 | 03:20.72     |      20 |    3 |       23 | G2D Racing        | https://youtu.be/s8S5dyTnNpc                                   |
+|     3 | turbo             | 17:45.4 | 03:25.35     |      16 |    2 |       18 | G2D Racing        | https://youtu.be/6bVu7oTrAZw                                   |
+|     4 | Wesley Daggleston | 17:49.2 | 03:27.21     |      13 |    1 |       14 | Brick Motorsports | https://youtu.be/rChRZ2kANew                                   |
+|     5 | domer             | 17:53.8 | 03:29.73     |      11 |    0 |       11 |                   | https://youtu.be/BZS9ED1D3IQ                                   |
+|     6 | colin mccrack     | 17:59.6 | 03:28.08     |      10 |    0 |       10 | G2D Racing        | https://www.youtube.com/watch?v=l2Ee3kN6a68                    |
+|     7 | capablanca        | 18:01.8 | 03:29.42     |       9 |    0 |        9 | G2D Racing        | https://youtu.be/BNKR7ccAS-4                                   |
+|     8 | Hulter            | 18:05.6 | 03:28.04     |       8 |    0 |        8 | cat face nospace  | https://youtu.be/gq6DhNcpZBI                                   |
+|     9 | nept              | 18:06.7 | 03:28.77     |       7 |    0 |        7 | cat face nospace  | https://www.youtube.com/watch?v=3TCVPmFnsss                    |
+|    10 | Fuksias           | 18:47.9 | 03:34.67     |       6 |    0 |        6 |                   | https://www.youtube.com/watch?v=E4qFigjDs0o&ab_channel=Fuksias |
+|    11 | increasingly_phil | 19:00.8 | 03:36.21     |       5 |    0 |        5 |                   | https://twitch.tv/videos/1638782341                            |
+|    12 | Kariston          | 19:08.4 | 03:42.69     |       4 |    0 |        4 | G2D Racing        | https://youtu.be/Pzj3KO2ei70                                   |
+|    13 | Revenger210       | 19:39.3 | 03:41.79     |       3 |    0 |        3 |                   | https://youtu.be/sx25UhSl3wI                                   |
+|    14 | nap               | 19:47.1 | 03:48.52     |       2 |    0 |        2 |                   | https://www.youtube.com/watch?v=GraQJSZkVI0                    |
+|    15 | MxCraven          | 20:47.3 | 04:12.99     |       1 |    0 |        1 |                   | https://www.twitch.tv/videos/1635003671                        |
 ## germany
 Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
 |   pos | name              | time    | powerstage   |   rally |   ps |   points | team              | link                                        |
 |------:|:------------------|:--------|:-------------|--------:|-----:|---------:|:------------------|:--------------------------------------------|
-|     1 | Proporo           | 17:30.9 | 01:37.9      |      25 |    4 |       29 | cat face nospace  | https://youtu.be/h2BTycM4wWI                |
-|     2 | PlayerZ           | 17:42.9 | 01:38.7      |      20 |    3 |       23 | G2D Racing        | https://youtu.be/UyPnJC4TnH8                |
-|     3 | Myth              | 17:44.3 | 01:40.3      |      16 |    0 |       16 | G2D Racing        | https://www.youtube.com/watch?v=aSYaf0GYX3A |
-|     4 | kk                | 17:55.6 | 01:38.7      |      13 |    3 |       16 |                   | https://youtu.be/\_K2-HP7gZSg                |
-|     5 | Wesley Daggleston | 17:56.4 | 01:39.9      |      11 |    1 |       12 | Brick Motorsports | https://youtu.be/AgwXtVFFKYE                |
-|     6 | turbo             | 17:57.6 | 01:40.3      |      10 |    0 |       10 | G2D Racing        | https://www.twitch.tv/videos/1650544639     |
-|     7 | Get Goblinated    | 18:07.9 | 01:40.1      |       9 |    0 |        9 |                   | https://youtu.be/RccW3YxI5Gw                |
-|     8 | Dryout            | 18:14.0 | 01:40.6      |       8 |    0 |        8 |                   | https://youtu.be/cJELaq_m6Zw                |
-|     9 | nept              | 18:16.3 | 01:42.1      |       7 |    0 |        7 | cat face nospace  | https://youtu.be/4T_Woy4mwJo                |
-|    10 | Hulter            | 18:16.8 | 01:41.6      |       6 |    0 |        6 | cat face nospace  | https://youtu.be/RN7452x9TBg                |
-|    11 | colin mccrack     | 18:17.5 | 01:41.8      |       5 |    0 |        5 | G2D Racing        | https://youtu.be/d0dGt4P9Nio                |
-|    12 | NoEihaOo          | 18:18.2 | 01:41.6      |       4 |    0 |        4 | G2D Racing        | https://youtu.be/GSt\_2pBkKWc                |
-|    13 | domer             | 18:22.9 | 01:42.3      |       3 |    0 |        3 | Brick Motorsports | https://youtu.be/9lDiB4pa2WI                |
-|    14 | Red Sun           | 18:24.5 | 01:42.0      |       2 |    0 |        2 | Brick Motorsports | https://www.twitch.tv/videos/1651443177     |
-|    15 | capablanca        | 18:33.1 | 01:43.1      |       1 |    0 |        1 | G2D Racing        | https://youtu.be/6YEVxLMfoG8                |
-|    16 | Kariston          | 19:13.0 | 01:48.8      |       0 |    0 |        0 | G2D Racing        | https://youtu.be/fq9otaOT6IU                |
-|    17 | nap               | 20:16.3 | 01:52.7      |       0 |    0 |        0 |                   | https://www.youtube.com/watch?v=UZH5KScQrVQ |
-|    18 | MxCraven          | 20:20.8 | 01:51.2      |       0 |    0 |        0 |                   | https://www.twitch.tv/videos/1651766820     |
-|    19 | Revenger210       | 20:28.6 | 01:52.4      |       0 |    0 |        0 | Noot Squad Rally  | https://youtu.be/1ys3pa4Wj4A                |
-|    20 | Steamed Jams      | 22:22.5 | 02:14.5      |       0 |    0 |        0 | Noot Squad Rally  | https://youtu.be/4vVT7QAox18                |
+|     1 | Proporo           | 17:30.9 | 01:37.93     |      25 |    4 |       29 | cat face nospace  | https://youtu.be/h2BTycM4wWI                |
+|     2 | PlayerZ           | 17:42.9 | 01:38.66     |      20 |    3 |       23 | G2D Racing        | https://youtu.be/UyPnJC4TnH8                |
+|     3 | Myth              | 17:44.3 | 01:40.30     |      16 |    0 |       16 | G2D Racing        | https://www.youtube.com/watch?v=aSYaf0GYX3A |
+|     4 | kk                | 17:55.6 | 01:38.67     |      13 |    2 |       15 |                   | https://youtu.be/_K2-HP7gZSg                |
+|     5 | Wesley Daggleston | 17:56.4 | 01:39.87     |      11 |    1 |       12 | Brick Motorsports | https://youtu.be/AgwXtVFFKYE                |
+|     6 | turbo             | 17:57.6 | 01:40.29     |      10 |    0 |       10 | G2D Racing        | https://www.twitch.tv/videos/1650544639     |
+|     7 | Get Goblinated    | 18:07.9 | 01:40.07     |       9 |    0 |        9 |                   | https://youtu.be/RccW3YxI5Gw                |
+|     8 | Dryout            | 18:14.0 | 01:40.60     |       8 |    0 |        8 |                   | https://youtu.be/cJELaq_m6Zw                |
+|     9 | nept              | 18:16.3 | 01:42.07     |       7 |    0 |        7 | cat face nospace  | https://youtu.be/4T_Woy4mwJo                |
+|    10 | Hulter            | 18:16.8 | 01:41.56     |       6 |    0 |        6 | cat face nospace  | https://youtu.be/RN7452x9TBg                |
+|    11 | colin mccrack     | 18:17.5 | 01:41.82     |       5 |    0 |        5 | G2D Racing        | https://youtu.be/d0dGt4P9Nio                |
+|    12 | NoEihaOo          | 18:18.2 | 01:41.60     |       4 |    0 |        4 | G2D Racing        | https://youtu.be/GSt_2pBkKWc                |
+|    13 | domer             | 18:22.9 | 01:42.33     |       3 |    0 |        3 | Brick Motorsports | https://youtu.be/9lDiB4pa2WI                |
+|    14 | Red Sun           | 18:24.5 | 01:42.03     |       2 |    0 |        2 | Brick Motorsports | https://www.twitch.tv/videos/1651443177     |
+|    15 | capablanca        | 18:33.1 | 01:43.06     |       1 |    0 |        1 | G2D Racing        | https://youtu.be/6YEVxLMfoG8                |
+|    16 | Kariston          | 19:13.0 | 01:48.78     |       0 |    0 |        0 | G2D Racing        | https://youtu.be/fq9otaOT6IU                |
+|    17 | nap               | 20:16.3 | 01:52.72     |       0 |    0 |        0 |                   | https://www.youtube.com/watch?v=UZH5KScQrVQ |
+|    18 | MxCraven          | 20:20.8 | 01:51.17     |       0 |    0 |        0 |                   | https://www.twitch.tv/videos/1651766820     |
+|    19 | Revenger210       | 20:28.6 | 01:52.36     |       0 |    0 |        0 | Noot Squad Rally  | https://youtu.be/1ys3pa4Wj4A                |
+|    20 | Steamed Jams      | 22:22.5 | 02:14.46     |       0 |    0 |        0 | Noot Squad Rally  | https://youtu.be/4vVT7QAox18                |
 ## sardinia
 
-|   pos | name    | time    | powerstage   |   rally |   ps |   points | team              | link                                                           |
-|------:|:--------|:--------|:-------------|--------:|-----:|---------:|:------------------|:---------------------------------------------------------------|
-|     1 | Fuksias | 14:38.1 | 02:38.3      |      25 |    4 |       29 |                   | https://www.youtube.com/watch?v=EPQjLie-usQ&ab_channel=Fuksias |
-|     2 | domer   | 15:06.2 | 02:40.4      |      20 |    3 |       23 | Brick Motorsports | https://youtu.be/tEHdrNKjTFg                                   |
-|     3 | nept    | 15:23.1 | 02:58.7      |      16 |    2 |       18 | cat face nospace  | https://www.youtube.com/watch?v=zSYaw3ZPHuE                    |
+|   pos | name              | time    | powerstage   |   rally |   ps |   points | team              | link                                                           |
+|------:|:------------------|:--------|:-------------|--------:|-----:|---------:|:------------------|:---------------------------------------------------------------|
+|     1 | Fuksias           | 14:38.1 | 02:38.33     |      25 |    4 |       29 |                   | https://www.youtube.com/watch?v=EPQjLie-usQ&ab_channel=Fuksias |
+|     2 | increasingly_phil | 15:01.2 | 02:38.68     |      20 |    3 |       23 |                   | https://www.twitch.tv/videos/1652382029                        |
+|     3 | domer             | 15:06.2 | 02:40.45     |      16 |    2 |       18 | Brick Motorsports | https://youtu.be/tEHdrNKjTFg                                   |
+|     4 | nept              | 15:23.1 | 02:58.70     |      13 |    1 |       14 | cat face nospace  | https://www.youtube.com/watch?v=zSYaw3ZPHuE                    |
 ## standings
 | name              |   indonesia |   kenya |   germany |   sardinia |   total |
 |:------------------|------------:|--------:|----------:|-----------:|--------:|
@@ -106,7 +107,7 @@ Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
 | Wesley Daggleston |          19 |      14 |        12 |          0 |      45 |
 | Myth              |          24 |       0 |        16 |          0 |      40 |
 | turbo             |          12 |      18 |        10 |          0 |      40 |
-| kk                |           9 |       0 |        16 |          0 |      25 |
+| kk                |           9 |       0 |        15 |          0 |      24 |
 | Hulter            |          10 |       8 |         6 |          0 |      24 |
 | Get Goblinated    |          13 |       0 |         9 |          0 |      22 |
 | domer             |           8 |      11 |         3 |          0 |      22 |
