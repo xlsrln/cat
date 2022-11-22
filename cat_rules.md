@@ -1,6 +1,6 @@
 # CAT - Catface Aor Tournament 😹
 
-Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
+Please check the [notice board](news.md)
 
 #### Overall
 - Participate by recording a video of the rally and entering the link in the submission form
@@ -8,13 +8,13 @@ Please check the [notice board](https://github.com/xlsrln/cat/blob/main/news.md)
 
 #### Drivers championship
 - There is one driver’s championship. The class is currently group 4.
-- Points for each rally (and powerstage) according to the [table below](https://github.com/xlsrln/cat/blob/main/cat_rules.md#appendix-points)
+- Points for each rally (and powerstage) according to the [table below](#appendix-points)
 - Each driver's worst rally of the season is dropped (including DNS)
 
 #### Team championship
 - There is one team championship. Teams are handled in #paddock
 - The best two drivers per team for each rally score team points
-- Team points are calculated as if only the top two drivers per team exist. ([example](https://github.com/xlsrln/cat/blob/main/cat_rules.md#appendix-team-points))
+- Team points are calculated as if only the top two drivers per team exist. ([example](#appendix-team-points))
 - Power stage points and dropped rounds don't apply to the team score
 - For each rally, everyone in the team should use ~~the same car~~ a similar livery
 
