@@ -1,4 +1,4 @@
-# CAT - Catface Aor Tournament 😹
+# Rules for CAT - Catface Aor Tournament 😹
 
 [home](index.md)
 
