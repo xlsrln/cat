@@ -1,6 +1,6 @@
 # Catface Aor Tournament presented by catface rally club
 
-![Logo](/catfacerallyclub.png?raw=true)
+![Logo](images/catfacerallyclub.png?raw=true)
 
 _logo by capablanca_
 
