@@ -5,6 +5,7 @@
 All you need to enter is the art of rally game, your favourite screen recording software and a youtube/twitch channel. Find us on Discord...
 
 useful links:
+
 - [cool trailer video](https://www.youtube.com/watch?v=sI15aMLKqyU)
 - [rules](cat_rules.md)
 - [results and standings](results.md)
