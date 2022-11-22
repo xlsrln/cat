@@ -23,6 +23,16 @@ This event will include a prize ceremony, announcements, and some live rally com
 
 #
 
+**Three reminders**
+
+1. Rally sardinia (and thus CAT Season 1) is entering its final week! Make sure to submit your runs! [submission form](https://forms.gle/YAPAzEcLxwBUjXGW9)
+
+2. The live event on the 4th of December! To nominate someone for cool cat of the year go to the form here https://forms.gle/wqjyy4KV3YxsmKN36
+
+3. Survey for CAT Season 2  here https://forms.gle/qMjYpCJQR4mezn3o8
+
+#
+
 **Hall of fame**
 
 | player                                                | trophies |
