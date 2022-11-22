@@ -66,7 +66,7 @@ Strong showing by Proporo and the returning PlayerZ, as well as a good effort by
 |     7 | capablanca        | 18:01.82 | 03:29.42     |       9 |    0 |        9 | G2D Racing        | [link](https://youtu.be/BNKR7ccAS-4)                                   |
 |     8 | Hulter            | 18:05.59 | 03:28.04     |       8 |    0 |        8 | cat face nospace  | [link](https://youtu.be/gq6DhNcpZBI)                                   |
 |     9 | nept              | 18:06.72 | 03:28.77     |       7 |    0 |        7 | cat face nospace  | [link](https://www.youtube.com/watch?v=3TCVPmFnsss)                    |
-|    10 | Fuksias           | 18:47.94 | 03:34.67     |       6 |    0 |        6 |                   | [link](https://www.youtube.com/watch?v=E4qFigjDs0o&ab_channel=)Fuksias |
+|    10 | Fuksias           | 18:47.94 | 03:34.67     |       6 |    0 |        6 |                   | [link](https://www.youtube.com/watch?v=E4qFigjDs0o&ab_channel=Fuksias) |
 |    11 | increasingly_phil | 19:00.78 | 03:36.21     |       5 |    0 |        5 |                   | [link](https://twitch.tv/videos/1638782341)                            |
 |    12 | Kariston          | 19:08.45 | 03:42.69     |       4 |    0 |        4 | G2D Racing        | [link](https://youtu.be/Pzj3KO2ei70)                                   |
 |    13 | Revenger210       | 19:39.30 | 03:41.79     |       3 |    0 |        3 |                   | [link](https://youtu.be/sx25UhSl3wI)                                   |
