@@ -8,12 +8,10 @@ individual events
 3. [germany](#germany)
 4. [sardinia](#sardinia)
 
+other 
 
-other
-
-- [standings](results.md#standings)
-- [team points calculation](/cat_rules.md#appendix-team-points)
-
+- [standings](#standings)
+- [team points calculation](cat_rules.md#appendix-team-points)
 
 
 ## japan asphalt rally (warmup event)
@@ -26,17 +24,21 @@ Congratulations to Wes, turbo and KK for rounding out the podium!
 | 2.   | turbo             | 08:50.3 | [link](https://youtu.be/PXC8I5Oxz9U)                 |
 | 3.   | kk                | 08:51.6 | [link](https://youtu.be/55p4QR5be0k)                 |
 | 4.   | Hulter            | 08:56.1 | [link](https://youtu.be/-g5NBrjKzA8)                 |
-| 5.   | nept              | 08:58.5 | [link](https://www.youtube.com/watch?v=en_yPK5yPG0)  |
+| 5.   | nept              | 08:58.5 | [link](https://www.youtube.com/watch?v=en_yPK5yPG0) |
 | 6.   | Red Sun           | 09:00.1 | [link](https://www.twitch.tv/videos/1607608745)      |
 | 7.   | capablanca	       | 09:11.3 | [link](https://youtu.be/yhjtPe59kZg)                 |
 | 8.   | domer             | 09:12.8 | [link](https://youtu.be/rBMY4pOHQu8)                 |
 | 9.   | MxCraven          | 09:43.8 | [link](https://www.twitch.tv/videos/1607365265)      |
 |10.   | nap               | 09:50.5 | [link](https://www.youtube.com/watch?v=OjfTEOvrbTY)  |
 
+
+
 ## indonesia
+
 Well done Proporo!
-|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                                          |
-|------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:--------------------------------------------------------------|
+
+|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                                                  |
+|------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:----------------------------------------------------------------------|
 |     1 | Proporo           | 12:33.25 | 01:03.16     |      25 |    2 |       27 | cat face nospace  | [link](https://youtu.be/tSuLEyKSEns)                                  |
 |     2 | Myth              | 12:38.01 | 01:02.00     |      20 |    4 |       24 | G2D Racing        | [link](https://youtu.be/tQipaK_-5Qc)                                  |
 |     3 | Wesley Daggleston | 12:39.86 | 01:02.62     |      16 |    3 |       19 | Brick Motorsports | [link](https://youtu.be/Bt6dVuNJp2I)                                  |
@@ -53,10 +55,13 @@ Well done Proporo!
 |    14 | Kariston          | 14:05.56 | 01:09.77     |       2 |    0 |        2 | G2D Racing        | [link](https://youtu.be/hhwG2qE9TtI)                                  |
 |    15 | nap               | 14:22.01 | 01:11.10     |       1 |    0 |        1 |                   | [link](https://youtu.be/6-MwbFOtXYc)                                  |
 |    16 | Revenger210       | 15:43.84 | 01:24.96     |       0 |    0 |        0 |                   | [link](https://www.youtube.com/watch?v=Hr2ctY4ZnlA)                   |
+
 ## kenya
+
 Strong showing by Proporo and the returning PlayerZ, as well as a good effort by capablanca!
-|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                                           |
-|------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:---------------------------------------------------------------|
+
+|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                                                   |
+|------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:-----------------------------------------------------------------------|
 |     1 | Proporo           | 17:04.07 | 03:19.63     |      25 |    4 |       29 | cat face nospace  | [link](https://youtu.be/wwR6pmk4L94)                                   |
 |     2 | PlayerZ           | 17:16.00 | 03:20.72     |      20 |    3 |       23 | G2D Racing        | [link](https://youtu.be/s8S5dyTnNpc)                                   |
 |     3 | turbo             | 17:45.39 | 03:25.35     |      16 |    2 |       18 | G2D Racing        | [link](https://youtu.be/6bVu7oTrAZw)                                   |
@@ -72,10 +77,13 @@ Strong showing by Proporo and the returning PlayerZ, as well as a good effort by
 |    13 | Revenger210       | 19:39.30 | 03:41.79     |       3 |    0 |        3 |                   | [link](https://youtu.be/sx25UhSl3wI)                                   |
 |    14 | nap               | 19:47.08 | 03:48.52     |       2 |    0 |        2 |                   | [link](https://www.youtube.com/watch?v=GraQJSZkVI0)                    |
 |    15 | MxCraven          | 20:47.29 | 04:12.99     |       1 |    0 |        1 |                   | [link](https://www.twitch.tv/videos/1635003671)                        |
+
 ## germany
+
 Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
-|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                        |
-|------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:--------------------------------------------|
+
+|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                                |
+|------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:----------------------------------------------------|
 |     1 | Proporo           | 17:30.85 | 01:37.93     |      25 |    4 |       29 | cat face nospace  | [link](https://youtu.be/h2BTycM4wWI)                |
 |     2 | PlayerZ           | 17:42.89 | 01:38.66     |      20 |    3 |       23 | G2D Racing        | [link](https://youtu.be/UyPnJC4TnH8)                |
 |     3 | Myth              | 17:44.30 | 01:40.30     |      16 |    0 |       16 | G2D Racing        | [link](https://www.youtube.com/watch?v=aSYaf0GYX3A) |
@@ -96,15 +104,19 @@ Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
 |    18 | MxCraven          | 20:20.84 | 01:51.17     |       0 |    0 |        0 |                   | [link](https://www.twitch.tv/videos/1651766820)     |
 |    19 | Revenger210       | 20:28.61 | 01:52.36     |       0 |    0 |        0 | Noot Squad Rally  | [link](https://youtu.be/1ys3pa4Wj4A)                |
 |    20 | Steamed Jams      | 22:22.53 | 02:14.46     |       0 |    0 |        0 | Noot Squad Rally  | [link](https://youtu.be/4vVT7QAox18)                |
+
 ## sardinia
 
-|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                                           |
-|------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:---------------------------------------------------------------|
-|     1 | NoEihaOo          | 14:25.80 | 02:34.86     |      25 |    4 |       29 | G2D Racing        | [link](https://youtu.be/8fgQxVAsQ98)                                   |
-|     2 | Fuksias           | 14:38.11 | 02:38.33     |      20 |    3 |       23 |                   | [link](https://www.youtube.com/watch?v=EPQjLie-usQ&ab_channel=Fuksias) |
-|     3 | increasingly_phil | 15:01.18 | 02:38.68     |      16 |    2 |       18 |                   | [link](https://www.twitch.tv/videos/1652382029)                        |
-|     4 | domer             | 15:06.22 | 02:40.45     |      13 |    1 |       14 | Brick Motorsports | [link](https://youtu.be/tEHdrNKjTFg)                                   |
-|     5 | nept              | 15:23.15 | 02:58.70     |      11 |    0 |       11 | cat face nospace  | [link](https://www.youtube.com/watch?v=zSYaw3ZPHuE)                    |
+What an exciting finish to the season!
+
+|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                                                   |
+|------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:-----------------------------------------------------------------------|
+|     1 | NoEihaOo          | 14:25.80 | 02:34.86     |      25 |    3 |       28 | G2D Racing        | [link](https://youtu.be/8fgQxVAsQ98)                                   |
+|     2 | Hulter            | 14:35.30 | 02:37.79     |      20 |    2 |       22 | cat face nospace  | [link](https://youtu.be/3iH9sG6kqDQ)                                   |
+|     3 | Fuksias           | 14:38.11 | 02:38.33     |      16 |    1 |       17 |                   | [link](https://www.youtube.com/watch?v=EPQjLie-usQ&ab_channel=Fuksias) |
+|     4 | nept              | 15:00.34 | 02:34.83     |      13 |    4 |       17 | cat face nospace  | [link](https://video.hardlimit.com/w/qoG3a3qxGJzUvs7zGrw6Dd)           |
+|     5 | increasingly_phil | 15:01.18 | 02:38.68     |      11 |    0 |       11 |                   | [link](https://www.twitch.tv/videos/1652382029)                        |
+|     6 | domer             | 15:06.22 | 02:40.45     |      10 |    0 |       10 | Brick Motorsports | [link](https://youtu.be/tEHdrNKjTFg)                                   |
 
 ## standings
 
@@ -133,7 +145,6 @@ Domer signs for Brick Motorsports! Everyone (mostly) stays on the road.
 | Revenger210       |           0 |       3 |         0 |          0 |       3 |
 | nap               |           1 |       2 |         0 |          0 |       3 |
 | Steamed Jams      |           0 |       0 |         0 |          0 |       0 |
-
 
 ## team standings
 
