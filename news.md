@@ -1,4 +1,4 @@
-# CAT - Catface Aor Tournament 😹 notice board
+# CAT - Catface Aor Tournament notice board
 
 #
 
@@ -21,6 +21,7 @@ This event will include a prize ceremony, announcements, and some live rally com
 #
 
 itineraries:
+
 - ~~R0 [japan](#warmup-event)~~
 - ~~R1 [indonesia](#round-1-indonesia)~~
 - ~~R2 [kenya](#round-2-kenya-itinerary)~~
