@@ -26,7 +26,7 @@ hall of fame
 
 #
 
-CAT 2022 season finals will be held on saturday 3rd of december, 15:00 UTC
+**CAT 2022 season finals will be held on saturday 3rd of december, 15:00 UTC**
 
 This event will include a prize ceremony, announcements, and some live rally competition on stages we've done in the season.. (Not a part of the championship, but just for fun.) Format and details will be presented later.
 
@@ -91,12 +91,6 @@ This is the longest rally of the season, a real endurance event!
 deadline sunday 30th of october, 20:00 UTC / 21:00 swedish time
 
 (note: daylight savings time has ended so this is one hour earlier than before in some parts of the world)
-
-#
-
-_Calendar update 2022-10-03_
-
-Due to turbulent circumstances (aka popular vote), rally Norway has unfortunately been cancelled. Luckily the popular rally Kenya has stepped in to fill the calendar with short notice. 
 
 #
 
