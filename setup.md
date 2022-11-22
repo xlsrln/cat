@@ -1,6 +1,6 @@
 # recording setup
 
-A popular choice for recording videos on windows is OBS: https://obsproject.com/download
+A popular choice for recording videos on windows is OBS: [https://obsproject.com/download](https://obsproject.com/download)
 
 Once it's installed, first add art of rally as an input source by pressing `add source > game capture > art of rally`
 
@@ -16,4 +16,4 @@ If you want a realtime clock overlay, you can `add source > browser source` and 
 
 ## controller overlay (optional)
 
-Similar to the clock overlay: go to https://gamepadviewer.com/ and configure your settings, and add as a browser source. For reference, mine is `https://gamepadviewer.com/?p=1&s=0&smeter=1&nocurve=1&soffset=40`
+Similar to the clock overlay: go to [https://gamepadviewer.com/](https://gamepadviewer.com/) and configure your settings, and add as a browser source. For reference, mine is `https://gamepadviewer.com/?p=1&s=0&smeter=1&nocurve=1&soffset=40`
