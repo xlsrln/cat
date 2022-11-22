@@ -8,7 +8,7 @@ useful links:
 - [rules](rules.md)
 - [results and standings](results.md)
 - [rally itineraries](s1.md)
-- [setup help](setup_help.md)
+- [setup help](setup.md)
 
 
 This championship is meant to be fun and easy to participate in. It relies on a combination of automation, trust and peer review. If you make an error or spot something suspicious, please get in touch. If you have any feedback or want to help automate something also don't hesitate to reach out!
