@@ -8,9 +8,9 @@ This championship is meant to be fun and easy to participate in. I'm trying to a
 
 All you need to enter is the art of rally game, your favourite screen recording software and a youtube/twitch channel.
 
-Please check the [rules](https://github.com/xlsrln/cat/blob/main/cat_rules.md) and the [setup help](https://github.com/xlsrln/cat/blob/main/setup_help.md)
+Please check the [rules](cat_rules.md) and the [setup help](setup_help.md)
 
-[Standings and results](https://github.com/xlsrln/cat/blob/main/results.md)
+[Standings and results](results.md)
 
 #
 
@@ -21,11 +21,11 @@ This event will include a prize ceremony, announcements, and some live rally com
 #
 
 itineraries:
-- ~~R0 [japan](https://github.com/xlsrln/cat/blob/main/news.md#warmup-event)~~
-- ~~R1 [indonesia](https://github.com/xlsrln/cat/blob/main/news.md#round-1-indonesia)~~
-- ~~R2 [kenya](https://github.com/xlsrln/cat/blob/main/news.md#round-2-kenya-itinerary)~~
-- ~~R3 [germany](https://github.com/xlsrln/cat/blob/main/news.md#round-3-germany)~~
-- R4 [sardinia](https://github.com/xlsrln/cat/blob/main/news.md#round-4-sardinia)
+- ~~R0 [japan](#warmup-event)~~
+- ~~R1 [indonesia](#round-1-indonesia)~~
+- ~~R2 [kenya](#round-2-kenya-itinerary)~~
+- ~~R3 [germany](#round-3-germany)~~
+- R4 [sardinia](#round-4-sardinia)
 
 #
 
@@ -40,8 +40,6 @@ japan, group 4:
 | mount haruna          | sunset              |
 
 deadline sunday 2nd of october
-
-[Results: Wes is the winner!](https://github.com/xlsrln/cat/blob/main/results.md#r0-japan-asphalt-rally-warmup-event)
 
 #
 
@@ -61,8 +59,6 @@ group 4, stages:
 | satonda island       | rain (powerstage) |
 
 deadline sunday 16th of october, 20:00 UTC
-
-[Results: Proporo is the winner!](https://github.com/xlsrln/cat/blob/main/results.md#r1-indonesia)
 
 #
 
