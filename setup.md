@@ -1,5 +1,7 @@
 # recording setup
 
+[home](index.md)
+
 A popular choice for recording videos on windows is OBS: [https://obsproject.com/download](https://obsproject.com/download)
 
 Once it's installed, first add art of rally as an input source by pressing `add source > game capture > art of rally`
