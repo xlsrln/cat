@@ -5,6 +5,7 @@
 - Shorter rallies (4-5 stages)
 - Live rally as part of the season (indonesia 3 stages?)
 - Some theme-based rallies (i.e. all rain, all night..)
+- Saturdays as deadline
 
 
 # Ideas for itineraries
