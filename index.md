@@ -6,8 +6,8 @@ useful links:
 
 - [cool trailer video](https://www.youtube.com/watch?v=sI15aMLKqyU)
 - [rules](rules.md)
+- [stages and rallies](s1.md)
 - [results and standings](results.md)
-- [rally itineraries](s1.md)
 - [setup help](setup.md)
 
 
