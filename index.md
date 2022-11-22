@@ -23,7 +23,7 @@ This event will include a prize ceremony, announcements, and some live rally com
 
 #
 
-hall of fame
+**Hall of fame**
 
 | player                                                | trophies |
 | --------------------------------------------------- |  ------- |
