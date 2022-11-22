@@ -1,6 +1,6 @@
 # CAT - Catface Aor Tournament 😹
 
-Please check the [notice board](news.md)
+[home](index.md)
 
 #### Overall
 - Participate by recording a video of the rally and entering the link in the submission form
