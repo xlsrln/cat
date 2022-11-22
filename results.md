@@ -1,6 +1,10 @@
 
 # Results
 
+[home](index.md)
+
+#
+
 individual events
 
 1. [indonesia](#indonesia)
