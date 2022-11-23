@@ -1,7 +1,7 @@
 
 #
 
-<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/brick.png" alt="drawing" style="height:200px"/>
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/brick.png" alt="drawing" style="height:200px"/>
 
 **Brick Motorsports**
 
@@ -10,7 +10,7 @@ Brick Motorsports was created in 2021 by an international group of racers united
 
 #
 
-<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/catface.png" alt="drawing" style="height:200px"/>
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/catface.png" alt="drawing" style="height:200px"/>
 
 **Cat Face NoSpace**
 
@@ -18,7 +18,7 @@ Founded in the cold northern forests, team cat face nospace refer to themselves 
 
 #
 
-<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/g2d.png" alt="drawing" style="height:200px"/>
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/g2d.png" alt="drawing" style="height:200px"/>
 
 **G2D Racing**
 
@@ -26,7 +26,7 @@ Perennial competitors, G2D Racing has a mercenary reputation in the paddock desp
 
 #
 
-<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/noot.png" alt="drawing" style="height:200px"/>
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/noot.png" alt="drawing" style="height:200px"/>
 
 **Noot Squad**
 
