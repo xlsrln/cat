@@ -1,4 +1,3 @@
-
 # Teams in Catface Aor Tournament 😹
 
 [home](index.md) | [rules](rules.md) | [stages and rallies](s1.md) | [results and standings](results.md) | [teams](teams.md)
@@ -11,6 +10,7 @@
 
 Brick Motorsports was created in 2021 by an international group of racers united by the mission to make bricks fly.  Throughout the years Brick Motorsports has worked with talented drivers from Finland, USA, UK, Ukraine, and Antarctica.
 
+members: WesDaggleston, Red Sun, domer
 
 #
 
@@ -20,6 +20,8 @@ Brick Motorsports was created in 2021 by an international group of racers united
 
 Founded in the cold northern forests, team cat face nospace refer to themselves as the beasts of the north and claim to take every shortcut and to never brake.
 
+members: nept, hult, Proporo
+
 #
 
 <img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/g2d.png" alt="drawing" style="height:200px"/>
@@ -28,6 +30,9 @@ Founded in the cold northern forests, team cat face nospace refer to themselves 
 
 Perennial competitors, G2D Racing has a mercenary reputation in the paddock despite their humble enthusiast origins, aggressively pursuing and fielding promising drivers. G2D's philosophy of "The Racer's Choice" revolves around letting each driver find the package that they can extract the most from, be it car or setup.
 
+
+members: capablanca, Kariston, myth, NoEihaOo, PlayerZ, Colin McCrack, turbo
+
 #
 
 <img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/noot.png" alt="drawing" style="height:200px"/>
@@ -35,3 +40,6 @@ Perennial competitors, G2D Racing has a mercenary reputation in the paddock desp
 **Noot Squad**
 
 In 1990, two Swiss stop-motion artists created an anthropomorphic penguin children's show. Twenty-five years later, two lads from across Europe banded together to chill around and play, thus creating the Noot Squad. Their latest endeavor: to rally across the world, and to have fun along the way!
+
+members: Revenger210, Steamed Jams
+
