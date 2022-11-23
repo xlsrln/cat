@@ -1,4 +1,8 @@
 
+# Teams in Catface Aor Tournament 😹
+
+[home](index.md) | [rules](rules.md) | [stages and rallies](s1.md) | [results and standings](results.md) | [teams](teams.md)
+
 #
 
 <img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/brick.png" alt="drawing" style="height:200px"/>
