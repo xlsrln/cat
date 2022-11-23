@@ -8,6 +8,7 @@ useful links:
 - [rules](rules.md)
 - [stages and rallies](s1.md)
 - [results and standings](results.md)
+- [teams](teams.md)
 - [setup help](setup.md)
 
 
