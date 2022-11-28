@@ -30,16 +30,3 @@ hall of fame
 | myth | 🥈🥉 |
 | kk | 🥉 |
 
-
-#
-
-itineraries:
-- ~~R0 [japan](https://github.com/xlsrln/cat/blob/main/news.md#warmup-event)~~ (warmup, no points awarded)
-- ~~R1 [indonesia](https://github.com/xlsrln/cat/blob/main/news.md#round-1-indonesia)~~
-- ~~R2 [kenya](https://github.com/xlsrln/cat/blob/main/news.md#round-2-kenya-itinerary)~~
-- ~~R3 [germany](https://github.com/xlsrln/cat/blob/main/news.md#round-3-germany)~~
-- R4 [sardinia](https://github.com/xlsrln/cat/blob/main/news.md#round-4-sardinia)
-
-#
-
-![Logo](https://github.com/xlsrln/cat/blob/main/images/s1.png?raw=true?raw=true)
