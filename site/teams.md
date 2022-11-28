@@ -1,6 +1,6 @@
 # Teams in Catface Aor Tournament 😹
 
-[home](index.md) | [rules](rules.md) | [stages and rallies](s1.md) | [results and standings](results.md) | [teams](teams.md)
+[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s1](s1/s1_index.md)
 
 #
 
@@ -20,7 +20,7 @@ members: WesDaggleston, Red Sun, domer
 
 Founded in the cold northern forests, team cat face nospace refer to themselves as the beasts of the north and claim to take every shortcut and to never brake.
 
-members: nept, hult, Proporo
+members: nept, hult, Proporo, NoEihaOo
 
 #
 
@@ -31,7 +31,7 @@ members: nept, hult, Proporo
 Perennial competitors, G2D Racing has a mercenary reputation in the paddock despite their humble enthusiast origins, aggressively pursuing and fielding promising drivers. G2D's philosophy of "The Racer's Choice" revolves around letting each driver find the package that they can extract the most from, be it car or setup.
 
 
-members: capablanca, Kariston, myth, NoEihaOo, PlayerZ, Colin McCrack, turbo
+members: capablanca, Kariston, myth, PlayerZ, Colin McCrack, turbo
 
 #
 
