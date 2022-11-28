@@ -1,12 +1,12 @@
 # CAT - Catface Aor Tournament 😹
 
+
 #### Welcome!
 
 useful links:
 
 - [cool trailer video](https://www.youtube.com/watch?v=sI15aMLKqyU)
 - [rules](rules.md)
-- [stages and rallies](s1.md)
 - [results and standings](results.md)
 - [teams](teams.md)
 - [setup help](setup.md)
@@ -18,19 +18,15 @@ All you need to enter is the art of rally game, your favourite screen recording 
 
 #
 
-**CAT 2022 season finals will be held on saturday 3rd of december, 15:00 UTC**
+**Season 1 is finished!**
 
-This event will include a prize ceremony, announcements, and some live rally competition on stages we've done in the season.. (Not a part of the championship, but just for fun.) Format and details will be presented later.
+See information at the [season 1 info page](s1/s1_index.md)
 
 #
 
-**Three reminders**
+**CAT 2022 season finals will be held on saturday 3rd of december, 15:00 UTC**
 
-1. Rally sardinia (and thus CAT Season 1) is entering its final week! Make sure to submit your runs! [submission form](https://forms.gle/YAPAzEcLxwBUjXGW9)
-
-2. The live event on the 4th of December! To nominate someone for cool cat of the year go to the form [here](https://forms.gle/wqjyy4KV3YxsmKN36)
-
-3. Survey for CAT Season 2 [here](https://forms.gle/qMjYpCJQR4mezn3o8)
+This event will include a prize ceremony, announcements, and some live rally competition on stages we've done in the season.. (Not a part of the championship, but just for fun.) Format and details will be presented later.
 
 #
 
