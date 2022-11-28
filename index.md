@@ -4,11 +4,12 @@
 
 #### Welcome!
 
-This championship is meant to be fun and easy to participate in. It relies on a combination of automation, trust and peer review. If you make an error or spot something suspicious, please get in touch. If you have any feedback or want to help automate something also don't hesitate to reach out!
 
 All you need to enter is the art of rally game, your favourite screen recording software and a youtube/twitch/similar channel. Find us on Discord...
 
-useful links:
+This championship is meant to be fun and easy to participate in. It relies on a combination of automation, trust and peer review. If you make an error or spot something suspicious, please get in touch. If you have any feedback or want to help automate something also don't hesitate to reach out!
+
+Useful links:
 
 - [cool trailer video](https://www.youtube.com/watch?v=sI15aMLKqyU)
 - [setup help](setup.md)
