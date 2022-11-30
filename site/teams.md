@@ -49,7 +49,7 @@ members: Revenger210, Steamed Jams
 
 **superturbo**
 
-superturbo is comprised of a pair of British privateers - up-and-coming driver Dryout, and the team’s founder and owner, turbo. our team always aims to bring home victories, without compromising style. superturbo, the crowd’s choice.
+superturbo was founded in 1967 by a small group of British privateers - a good description of its current driver pairing: up-and-coming driver Dryout, and the team’s founder and owner, turbo. our team has a long relationship with the manufacturers of ‘il gorilla’, ensuring that our team always aims to bring home victories, without compromising style. superturbo - the crowd’s choice.
 
 members: turbo, Dryout
 
