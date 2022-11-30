@@ -49,7 +49,7 @@ members: Revenger210, Steamed Jams
 
 **superturbo**
 
-< team description >
+superturbo is comprised of a pair of British privateers - up-and-coming driver Dryout, and the team’s founder and owner, turbo. our team always aims to bring home victories, without compromising style. superturbo, the crowd’s choice.
 
 members: turbo, Dryout
 
