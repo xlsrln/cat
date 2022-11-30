@@ -31,7 +31,7 @@ members: nept, hult, Proporo, NoEihaOo
 Perennial competitors, G2D Racing has a mercenary reputation in the paddock despite their humble enthusiast origins, aggressively pursuing and fielding promising drivers. G2D's philosophy of "The Racer's Choice" revolves around letting each driver find the package that they can extract the most from, be it car or setup.
 
 
-members: capablanca, Kariston, myth, PlayerZ, Colin McCrack, turbo
+members: capablanca, Kariston, myth, PlayerZ, Colin McCrack, Dougall
 
 #
 
@@ -42,4 +42,14 @@ members: capablanca, Kariston, myth, PlayerZ, Colin McCrack, turbo
 In 1990, two Swiss stop-motion artists created an anthropomorphic penguin children's show. Twenty-five years later, two lads from across Europe banded together to chill around and play, thus creating the Noot Squad. Their latest endeavor: to rally across the world, and to have fun along the way!
 
 members: Revenger210, Steamed Jams
+
+#
+
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/superturbo.png" alt="drawing" style="height:200px"/>
+
+**superturbo**
+
+< team description >
+
+members: turbo, Dryout
 
