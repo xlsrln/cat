@@ -17,16 +17,3 @@ useful links:
 - [latest news and info](https://github.com/xlsrln/cat/blob/main/news.md)
 - [help for setting up OBS](https://github.com/xlsrln/cat/blob/main/setup_help.md)
 
-#
-
-hall of fame
-
-| player                                                | trophies |
-| --------------------------------------------------- |  ------- |
-| proporo | 🥇🥇🥇 |
-| wes | 🥇🥉 |
-| playerz | 🥈🥈 |
-| turbo | 🥈🥉 |
-| myth | 🥈🥉 |
-| kk | 🥉 |
-
