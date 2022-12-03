@@ -16,6 +16,15 @@ Useful links:
 
 #
 
+**Season 2 announced!**
+
+See more under [stages and rallies](stages.md)
+
+https://www.youtube.com/watch?v=UNIU4MBuTGE
+
+
+#
+
 **Season 1 is finished!**
 
 See information at the [season 1 info page](s1/s1_index.md)
