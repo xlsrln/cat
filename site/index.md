@@ -33,11 +33,12 @@ This event will include a prize ceremony, announcements, and some live rally com
 | player                                                | trophies |
 | --------------------------------------------------- |  ------- |
 | proporo | 🥇🥇🥇🥇 |
-| wes | 🥇🥉 |
+| wes | 🥇🥈🥉 |
+| turbo | 🥇🥈🥉 |
 | playerz | 🥈🥈🥈 |
-| turbo | 🥈🥉 |
 | myth | 🥈🥉 |
 | kk | 🥉 |
 | Toucan | 🥉 |
+| domer | 🥉 |
 
 
