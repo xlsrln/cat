@@ -51,5 +51,15 @@ members: Revenger210, Steamed Jams
 
 superturbo was founded in 1967 by a small group of British privateers - a good description of its current driver pairing: up-and-coming driver Dryout, and the team’s founder and owner, turbo. our team has a long relationship with the manufacturers of ‘il gorilla’, ensuring that our team always aims to bring home victories, without compromising style. superturbo - the crowd’s choice.
 
-members: turbo, Dryout, Franky M.
+members: turbo, Dryout, Franky M., kk135
+
+#
+
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/noot.png" alt="drawing" style="height:200px"/>
+
+**placeholder**
+
+<placeholder for placeholder>
+
+members: kariston, caden
 
