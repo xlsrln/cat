@@ -13,10 +13,10 @@
 
 #### Team championship
 - There is one team championship. Teams are handled in #paddock
-- The best two drivers per team for each rally score team points
-- Team points are calculated as if only the top two drivers per team exist. ([example](#appendix-team-points))
+- The best **three** drivers per team for each rally score team points. (new!)
+- Team points are calculated as if only the top three drivers per team exist. ([example](#appendix-team-points))
 - Power stage points and dropped rounds don't apply to the team score
-- For each rally, everyone in the team should use ~~the same car~~ a similar livery
+
 
 #### In-game rules
 - No ghosts. No unauthorised mods.
@@ -32,6 +32,7 @@
 
 #### Liveries
 - Custom liveries, numberplates and team liveries are optional but encouraged
+- For each rally, everyone in the team are encouraged to use a similar livery (not applicable to console players)
 
 #### Videos should
 - Capture the whole rally from setup to finish screen
@@ -65,19 +66,18 @@
 |2|20|
 |3|16|
 |4|13|
-|5|11|
-|6|10|
-|7|9|
-|8|8|
-|9|7|
-|10|6|
-|11|5|
-|12|4|
-|13|3|
-|14|2|
-|15|1|
-|16 or higher|0|
-
+|5|12|
+|6|11|
+|7|10|
+|8|9|
+|9|8|
+|10|7|
+|11|6|
+|12|5|
+|13|4|
+|14|3|
+|15|2|
+|16 or higher|1|
 
 The final stage of the rally is called _power stage_ and awards points (as in WRC).
 
