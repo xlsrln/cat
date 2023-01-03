@@ -32,7 +32,7 @@ Start 15th of January 2023
 
 12 Feb	- 25 Feb
 
-
+| stage            | weather     |
 | ------------- | ------------ |
 | mount asama   | morning      |
 | nasu highland | afternoon    |
