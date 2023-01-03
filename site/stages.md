@@ -4,6 +4,8 @@
 
 Start 15th of January 2023
 
+With reservations for corrections and adjustments until the season starts.
+
 ## Round 1: Norway - Winter rally
 
 15 Jan - 28 Jan
@@ -77,7 +79,7 @@ Start 15th of January 2023
 
 ## Round 7: Indonesia - Tropical rally
 
-9 Apr	- 22 Apr
+9 Apr - 22 Apr
 
 | stage            | weather     |
 | ------------------ | -------------- |
