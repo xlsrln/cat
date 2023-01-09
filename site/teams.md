@@ -10,7 +10,7 @@
 
 Brick Motorsports was created in 2021 by an international group of racers united by the mission to make bricks fly.  Throughout the years Brick Motorsports has worked with talented drivers from Finland, USA, UK, Ukraine, and Antarctica.
 
-members: Red Sun, domer, Colorcat
+members: Red Sun, domer, Colorcat, Fuksias
 
 #
 
@@ -37,11 +37,11 @@ members: capablanca, myth, PlayerZ, Colin McCrack, Dougall, WesDaggleston
 
 <img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/noot.png" alt="drawing" style="height:200px"/>
 
-**Noot Squad**
+**V-rally Club**
 
-In 1990, two Swiss stop-motion artists created an anthropomorphic penguin children's show. Twenty-five years later, two lads from across Europe banded together to chill around and play, thus creating the Noot Squad. Their latest endeavor: to rally across the world, and to have fun along the way!
+[description]
 
-members: Revenger210, Steamed Jams
+members: Revenger210, Steamed Jams, Kariston, Cadenthecorvid
 
 #
 
@@ -53,13 +53,5 @@ superturbo was founded in 1967 by a small group of British privateers - a good d
 
 members: turbo, Dryout, Franky M., kk135
 
-#
 
-<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/noot.png" alt="drawing" style="height:200px"/>
-
-**placeholder**
-
-< placeholder for placeholder >
-
-members: kariston, caden
 
