@@ -46,7 +46,7 @@ members: Shelly
 
 #
 
-<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/noot.png" alt="drawing" style="height:200px"/>
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/vrally.png" alt="drawing" style="height:200px"/>
 
 **V-rally Club**
 
