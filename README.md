@@ -1,6 +1,6 @@
 # Catface Aor Tournament presented by catface rally club
 
-![Logo](images/catface_banner.png?raw=true)
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/catface_banner.png" alt="drawing" style="height:200px"/>
 
 _picture by nap_
 
