@@ -1,8 +1,8 @@
 # Catface Aor Tournament presented by catface rally club
 
-![Logo](images/catfacerallyclub.png?raw=true)
+![Logo](images/catface_banner.png?raw=true)
 
-_logo by capablanca_
+_picture by nap_
 
 #### Welcome!
 
