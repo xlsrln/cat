@@ -7,7 +7,7 @@
 - No signups: everyone who submits an entry will be classified in the championship
 
 #### Drivers championship
-- There is one driver’s championship. The class is currently group 4.
+- There is one driver’s championship. The class is currently group B/S or below.
 - Points for each rally (and powerstage) according to the [table below](#appendix-points)
 - Each driver's worst rally of the season is dropped (including DNS)
 
