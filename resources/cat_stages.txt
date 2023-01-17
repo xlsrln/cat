@@ -186,7 +186,7 @@
         'stages': [
             'sangeang island',
             'satonda island - r',
-            'oreng valley  - r',
+            'oreng valley - r',
             'kalabakan valley',
             'semangka bay',
             'mount kawi - r',
