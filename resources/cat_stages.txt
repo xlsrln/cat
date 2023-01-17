@@ -86,4 +86,118 @@
             'afternoon',
         ]
     },
+ 
+    's2_norway' : {
+        'country': 'Norway',
+        'stages': [
+            'grunnfor',
+            'stronstad',
+            'vestpollen',
+            'laupstad',
+            'lake rostavatn - r',
+        ], 
+        'weather': [
+            'night',
+            'morning',
+            'afternoon',
+            'sunset',
+            'morning',
+        ]
+    },
+    's2_sardinia' : {
+        'country': 'Sardinia',
+        'stages': [
+            'san benedetto',
+            'montevecchio',
+            'villacidro',
+            'gennamari',
+            'san gavino monreale',
+        ], 
+        'weather': [
+            'sunset',
+            'night',
+            'night',
+            'night',
+            'night',
+        ]
+    },
+    's2_japan' : {
+        'country': 'Japan',
+        'stages': [
+            'mount asama',
+            'nasu highland',
+            'tsumagoi',
+            'nikko',
+        ], 
+        'weather': [
+            'morning',
+            'afternoon',
+            'sunset',
+            'morning',
+        ]
+    },'s2_kenya' : {
+        'country': 'Kenya',
+        'stages': [
+            'karura - r',
+            'homa bay - r',
+            'mount kenya',
+            'ndere island',
+        ], 
+        'weather': [
+            'morning',
+            'afternoon',
+            'morning',
+            'afternoon',
+        ]
+    }, 's2_germany' : {
+        'country': 'Germany',
+        'stages': [
+            'mertesdorf - r',
+            'farschweiler - r',
+            'hockweiler - r',
+            'franzenheim - r',
+            'holzerath',
+        ], 
+        'weather': [
+            'rain',
+            'afternoon',
+            'morning',
+            'afternoon',
+            'sunset',
+        ]
+    }, 's2_finland' : {
+        'country': 'Finland',
+        'stages': [
+            'kairila',
+            'lamppi',
+            'haapajärvi',
+            'lassila',
+            'noormarkku',
+        ], 
+        'weather': [
+            'morning',
+            'morning',
+            'afternoon',
+            'sunset',
+            'night',
+        ]
+    }, 's2_indonesia' : {
+        'country': 'Indonesia',
+        'stages': [
+            'sangeang island',
+            'satonda island - r',
+            'oreng valley  - r',
+            'kalabakan valley',
+            'semangka bay',
+            'mount kawi - r',
+        ], 
+        'weather': [
+            'morning',
+            'afternoon',
+            'rain',
+            'night',
+            'morning',
+            'afternoon',
+        ]
+    },   
 }
