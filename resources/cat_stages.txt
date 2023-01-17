@@ -140,12 +140,14 @@
         'stages': [
             'karura - r',
             'homa bay - r',
+            'lake baringo - r',
             'mount kenya',
             'ndere island',
         ], 
         'weather': [
             'morning',
             'afternoon',
+            'night',
             'morning',
             'afternoon',
         ]
