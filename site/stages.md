@@ -49,6 +49,7 @@ With reservations for corrections and adjustments until the season starts.
 | ------------------ | -------------- |
 | karura - r         | morning        |
 | homa bay - r       | afternoon      |
+| lake baringo - r   | night          |
 | mount kenya        | morning        |
 | ndere island       | afternoon (ps) |
 
