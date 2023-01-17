@@ -61,7 +61,7 @@ members: turbo, Dryout, Franky M, kk135
 What does V stand for? Victory? Virtuosity? Voracity? Nobody remembers now, but the same won't be said for the V-Rally Club
 Built on ideals of fairness and equality, the newly comprised team from the former Noot Squad Rallying will tackle season 2 of CAT with renewed interest and joy, and with the aim to have fun along the way above all! We'll see you on the road!
 
-members: Revenger210, Steamed Jams, Kariston, Cadenthecorvid
+members: Revenger210, Steamed Jams, Kariston, caden
 
 #
 
