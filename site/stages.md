@@ -36,10 +36,12 @@ With reservations for corrections and adjustments until the season starts.
 
 | stage            | weather     |
 | ------------- | ------------ |
-| mount asama   | morning      |
+| mount asama   | fog      |
 | nasu highland | afternoon    |
-| tsumagoi      | sunset       |
-| nikko         | morning (ps) |
+| nikko - r     | sunset  |
+| tsumagoi      | night       |
+| mount akagi   | morning |
+
 	
 ## Round 4: Kenya - Safari rally
 
