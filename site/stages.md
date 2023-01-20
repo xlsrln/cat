@@ -4,7 +4,7 @@
 
 Start 15th of January 2023
 
-With reservations for corrections and adjustments until the season starts.
+With reservations for corrections and adjustments.
 
 ## Round 1: Norway - Winter rally
 
