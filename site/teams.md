@@ -32,15 +32,6 @@ Perennial competitors, G2D Racing has a mercenary reputation in the paddock desp
 
 members: capablanca, Late, myth, WesDaggleston, PlayerZ, Colin McCrack, Dougall
 
-#
-
-<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/junker.png" alt="drawing" style="height:200px"/>
-
-**Junker Racing**
-
-Junker Racing runs on beer, duct tape, and a unimaginable level of will power. A team of three drunk engineers with no team logistics, no grand strategy, just a desperate sprint from start to finish. Some ask why they are still around, but they only ask where the muffler went.
-
-members: Shelly
 
 #
 
