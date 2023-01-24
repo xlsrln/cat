@@ -56,5 +56,14 @@ members: Revenger210, SonicTheSlowpoke, Steamed Jams, caden
 
 #
 
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/void.png" alt="drawing" style="height:200px"/>
+
+**void rallysports**
+
+rally with us if times are none and fun is all
+
+members: captn sharkhorse
+
+#
 
 
