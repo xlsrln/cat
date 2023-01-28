@@ -45,9 +45,10 @@ This event will include a prize ceremony, announcements, and some live rally com
 | player                                                | trophies |
 | --------------------------------------------------- |  ------- |
 | proporo | 🥇🥇🥇🥇 |
+| turbo | 🥇🥈🥉🥉 |
 | wes | 🥇🥈🥉 |
-| turbo | 🥇🥈🥉 |
-| playerz | 🥈🥈🥈 |
+| late | 🥇 |
+| playerz | 🥈🥈🥈🥈 |
 | myth | 🥈🥉 |
 | kk | 🥉 |
 | Toucan | 🥉 |
