@@ -42,16 +42,16 @@ This event will include a prize ceremony, announcements, and some live rally com
 
 **Hall of fame**
 
-| player                                                | trophies |
-| --------------------------------------------------- |  ------- |
-| proporo | 🥇🥇🥇🥇 |
-| turbo | 🥇🥈🥉🥉 |
-| wes | 🥇🥈🥉 |
-| late | 🥇 |
-| playerz | 🥈🥈🥈🥈 |
-| myth | 🥈🥉 |
-| kk | 🥉 |
-| Toucan | 🥉 |
-| domer | 🥉 |
+| player                                                | trophies | 
+| --------------------------------------------------- |  ------- | 
+| proporo | 🏆🥇🥇🥇🥇 | 
+| turbo | 🥇🥈🥉🥉 | 
+| wes | 🥇🥈🥉 | 
+| late | 🥇 | 
+| playerz | 🥈🥈🥈🥈 | 
+| myth | 🥈🥉 | 
+| kk | 🥉 | 
+| Toucan | 🥉 | 
+| domer | 🥉 | 
 
 
