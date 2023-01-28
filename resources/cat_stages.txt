@@ -126,13 +126,15 @@
         'stages': [
             'mount asama',
             'nasu highland',
+            'nikko - r',
             'tsumagoi',
-            'nikko',
+            'mount akagi',
         ], 
         'weather': [
-            'morning',
+            'fog',
             'afternoon',
             'sunset',
+            'night',
             'morning',
         ]
     },'s2_kenya' : {
