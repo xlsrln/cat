@@ -44,10 +44,10 @@ This event will include a prize ceremony, announcements, and some live rally com
 
 | player                                                | trophies | 
 | --------------------------------------------------- |  ------- | 
-| proporo | 🏆🥇🥇🥇🥇 | 
-| turbo | 🥇🥈🥉🥉 | 
+| proporo | 🏆🥇🥇🥇🥇🥈 | 
+| late | 🥇🥇 | 
+| turbo | 🥇🥈🥉🥉🥉 | 
 | wes | 🥇🥈🥉 | 
-| late | 🥇 | 
 | playerz | 🥈🥈🥈🥈 | 
 | myth | 🥈🥉 | 
 | kk | 🥉 | 
