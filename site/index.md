@@ -47,12 +47,13 @@ See stages and results with links above
 
 See more under [stages and rallies](stages.md)
 
-https://www.youtube.com/watch?v=UNIU4MBuTGE
-
+Announcement presentation: https://www.youtube.com/watch?v=UNIU4MBuTGE
 
 #
 
 **Season 1 is finished!**
+
+Proporo is the driver's champion, and catface nospace wins the team championship.
 
 See information at the [season 1 info page](s1/s1_index.md)
 
