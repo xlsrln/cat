@@ -12,9 +12,10 @@ _(picture by [nap](https://twitter.com/napfirm))_
 
 This championship is meant to be fun and easy to participate in. It relies on a combination of automation, trust and peer review. If you make an error or spot something suspicious, please get in touch. If you have any feedback or want to help automate something also don't hesitate to reach out! You'll find us on Discord...
 
-Useful links:
+**Useful links:**
 
 - [cool trailer video](https://www.youtube.com/watch?v=sI15aMLKqyU)
+- [season 2 trailer](https://www.youtube.com/watch?v=B2H0nykopyo)
 - [setup help](setup.md)
 
 #
