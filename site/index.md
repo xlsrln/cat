@@ -2,13 +2,13 @@
 
 [home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s1](s1/s1_index.md)
 
-#### Welcome!
+## Welcome!
+
+All you need to enter is the art of rally game, your favourite screen recording software and a youtube/twitch/similar channel. Find us on Discord...
 
 <img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/catface_banner.png" alt="drawing" style="height:200px"/>
 
-_picture by nap_
-
-All you need to enter is the art of rally game, your favourite screen recording software and a youtube/twitch/similar channel. Find us on Discord...
+_(picture by [nap](https://twitter.com/napfirm))_
 
 This championship is meant to be fun and easy to participate in. It relies on a combination of automation, trust and peer review. If you make an error or spot something suspicious, please get in touch. If you have any feedback or want to help automate something also don't hesitate to reach out!
 
@@ -18,6 +18,30 @@ Useful links:
 - [setup help](setup.md)
 
 #
+
+**Season 2 is underway!**
+
+See stages and results with links above
+
+#
+
+**Hall of fame**
+
+| player                                                | trophies | 
+| --------------------------------------------------- |  ------- | 
+| proporo | 🏆🥇🥇🥇🥇🥈 | 
+| late | 🥇🥇 | 
+| turbo | 🥇🥈🥉🥉🥉 | 
+| wes | 🥇🥈🥉 | 
+| playerz | 🥈🥈🥈🥈 | 
+| myth | 🥈🥉 | 
+| kk | 🥉 | 
+| Toucan | 🥉 | 
+| domer | 🥉 | 
+
+#
+
+## older news
 
 **Season 2 announced!**
 
@@ -37,21 +61,5 @@ See information at the [season 1 info page](s1/s1_index.md)
 **CAT 2022 season finals will be held on saturday 3rd of december, 15:00 UTC**
 
 This event will include a prize ceremony, announcements, and some live rally competition on stages we've done in the season.. (Not a part of the championship, but just for fun.) Format and details will be presented later.
-
-#
-
-**Hall of fame**
-
-| player                                                | trophies | 
-| --------------------------------------------------- |  ------- | 
-| proporo | 🏆🥇🥇🥇🥇🥈 | 
-| late | 🥇🥇 | 
-| turbo | 🥇🥈🥉🥉🥉 | 
-| wes | 🥇🥈🥉 | 
-| playerz | 🥈🥈🥈🥈 | 
-| myth | 🥈🥉 | 
-| kk | 🥉 | 
-| Toucan | 🥉 | 
-| domer | 🥉 | 
 
 
