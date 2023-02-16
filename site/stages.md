@@ -40,7 +40,7 @@ With reservations for corrections and adjustments.
 | nasu highland | afternoon    |
 | nikko - r     | sunset  |
 | tsumagoi      | night       |
-| mount akagi   | morning |
+| mount akagi   | morning (power stage)|
 
 	
 ## Round 4: Kenya - Safari rally
