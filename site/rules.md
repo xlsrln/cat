@@ -51,7 +51,7 @@
 | ----------------------------------------------- | ----------- |
 | running the wrong dry weather                   | +5 seconds  |
 | running day instead of night                    | +10 seconds |
-| running dry instead of wet                      | +30 seconds |
+| running dry instead of wet                      | +60 seconds |
 | extra restart                                   | +10 seconds |
 | running the wrong damage setting/not showing it | +60 seconds |
 
