@@ -30,8 +30,8 @@ See stages and results with links above
 
 | player                                                | trophies | 
 | --------------------------------------------------- |  ------- | 
+| late | 🏆🥇🥇🥇🥇🥇 | 
 | proporo | 🏆🥇🥇🥇🥇🥈🥈🥈🥈 | 
-| late | 🥇🥇🥇🥇🥇 | 
 | turbo | 🥇🥈🥉🥉🥉🥉 | 
 | wes | 🥇🥈🥉 | 
 | playerz | 🥈🥈🥈🥈 | 
@@ -40,6 +40,14 @@ See stages and results with links above
 | kk | 🥉 | 
 | Toucan | 🥉 | 
 | domer | 🥉 | 
+
+**Team hall of fame**
+
+| team                                                | trophies | 
+| --------------------------------------------------- |  ------- | 
+| Cat Face NoSpace | 🏆 | 
+| G2D Racing | 🏆 | 
+
 
 #
 
