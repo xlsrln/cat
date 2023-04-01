@@ -30,7 +30,7 @@ See stages and results with links above
 
 | player                                                | trophies | 
 | --------------------------------------------------- |  ------- | 
-| late | 🏆🥇🥇🥇🥇🥇 | 
+| late | (🏆)🥇🥇🥇🥇🥇 | 
 | proporo | 🏆🥇🥇🥇🥇🥈🥈🥈🥈 | 
 | turbo | 🥇🥈🥉🥉🥉🥉 | 
 | wes | 🥇🥈🥉 | 
@@ -46,7 +46,7 @@ See stages and results with links above
 | team                                                | trophies | 
 | --------------------------------------------------- |  ------- | 
 | Cat Face NoSpace | 🏆 | 
-| G2D Racing | 🏆 | 
+| G2D Racing | (🏆) | 
 
 
 #
