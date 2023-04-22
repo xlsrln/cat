@@ -20,24 +20,18 @@ This championship is meant to be fun and easy to participate in. It relies on a 
 
 #
 
-**Season 2 is underway!**
-
-See stages and results with links above
-
-#
-
 **Hall of fame**
 
 | player                                                | trophies | 
 | --------------------------------------------------- |  ------- | 
 | late | 🏆🥇🥇🥇🥇🥇🥇 | 
-| proporo | 🏆🥇🥇🥇🥇🥈🥈🥈🥈🥈 | 
+| proporo | 🏆🥇🥇🥇🥇🥇🥈🥈🥈🥈🥈 | 
 | turbo | 🥇🥈🥉🥉🥉🥉 | 
 | wes | 🥇🥈🥉 | 
 | playerz | 🥈🥈🥈🥈 | 
+| franky m. | 🥈🥉🥉 |
 | myth | 🥈🥉 | 
-| franky m. | 🥉🥉 |
-| dryout | 🥉 |
+| dryout | 🥉🥉 |
 | kk | 🥉 | 
 | Toucan | 🥉 | 
 | domer | 🥉 | 
@@ -47,12 +41,27 @@ See stages and results with links above
 | team                                                | trophies | 
 | --------------------------------------------------- |  ------- | 
 | Cat Face NoSpace | 🏆 | 
-| G2D Racing | (🏆) | 
+| G2D Racing | 🏆 | 
 
 
 #
 
 ## older news
+
+
+**Season 2 is finished!**
+
+Late and G2D wins!
+
+Don't miss the season wrap-up live event!
+
+#
+
+**Season 2**
+
+See stages and results with links above
+
+#
 
 **Season 2 announced!**
 
