@@ -12,11 +12,25 @@ One submission per rally
 
 ### Rally 1: Norway
 
+Group 3
+
 | stage      | weather        |
 | ------------- | ------------ |
 | grunnfor      | morning        |
 | lake rostavatn | afternoon  |
 | stronstad - r    | sunset      |
+
+
+### Rally 2: Kenya
+
+Group A
+
+| stage      | weather        |
+| ------------- | ------------ |
+| lake nakuru      | morning        |
+| karura | afternoon  |
+| homa bay    | sunset      |
+
 	
 ## Dirt Rally 2.0
 
@@ -35,15 +49,6 @@ Service: “short” on every stage
 Free tyre changes, setups etc
 
 Estimated total time 14-15 minutes
-
-
-### Rally 2: Kenya
-
-| stage      | weather        |
-| ------------- | ------------ |
-| grunnfor      | morning        |
-| lake rostavatn | afternoon  |
-| stronstad - r    | sunset      |
 
 
 ## Rush rally 3
