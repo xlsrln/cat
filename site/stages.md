@@ -72,4 +72,6 @@ Stage 1: Gabiria-Legazpi (Spain, tarmac)
 
 Stage 2: Carvalho de rei (Portugal, gravel)
 
+Download and installation instructions: [rallysimfans.hu](https://rallysimfans.hu/rbr/download.php?download=rsfrbr)
+
 
