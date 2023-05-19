@@ -2,7 +2,7 @@
 
 [home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s2](s2/s2_index.md) | [s1](s1/s1_index.md)
 
-Ultimate Rally Master
+Welcome to Ultimate Rally Master, the 4 game competition of ultimate rally skill!
 
 ## Art of rally
 
