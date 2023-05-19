@@ -1,100 +1,75 @@
-# Catface Aor Tournament Rallies and stages 😹
+# Catface Ultimate Rally Master Rallies and stages 😹
 
-[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s1](s1/s1_index.md)
+[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s2](s2/s2_index.md) | [s1](s1/s1_index.md)
 
-Start 15th of January 2023
+Welcome to Ultimate Rally Master, the 4 game competition of ultimate rally skill!
 
-With reservations for corrections and adjustments.
+## Art of rally
 
-## Round 1: Norway - Winter rally
+Rules: as in CAT, but no power stage
 
-15 Jan - 28 Jan
+One submission per rally
+
+### Rally 1: Norway
+
+Group 3
 
 | stage      | weather        |
 | ------------- | ------------ |
-| grunnfor      | night        |
-| stronstad     | morning      |
-| vestpollen    | afternoon    |
-| laupstad      | sunset       |
-| rostavatn - r | morning (power stage) |
+| grunnfor      | morning        |
+| lake rostavatn | afternoon  |
+| stronstad - r    | sunset      |
 
-## Round 2: Sardinia - Night rally
 
-29 Jan	- 11 Feb
+### Rally 2: Kenya
+
+Group A
 
 | stage      | weather        |
-| ------------------- | ---------- |
-| san benedetto       | sunset     |
-| montevecchio        | night      |
-| villacidro          | night      |
-| gennamari           | night      |
-| san gavino monreale | night (power stage) |
-	
-## Round 3: Japan - Spring rally
-
-12 Feb	- 25 Feb
-
-| stage            | weather     |
 | ------------- | ------------ |
-| mount asama   | fog      |
-| nasu highland | afternoon    |
-| nikko - r     | sunset  |
-| tsumagoi      | night       |
-| mount akagi   | morning (power stage)|
+| lake nakuru      | morning        |
+| karura | afternoon  |
+| homa bay    | sunset      |
 
 	
-## Round 4: Kenya - Safari rally
+## Dirt Rally 2.0
 
-26 Feb	- 11 Mar
+Custom rally > New Zealand > Group A
 
-| stage            | weather     |
-| ------------------ | -------------- |
-| karura - r         | morning        |
-| homa bay - r       | afternoon      |
-| lake baringo - r   | night          |
-| mount kenya        | morning        |
-| ndere island       | afternoon (ps) |
+| stage      | weather        |
+| ------------- | ------------ |
+| Te awanga sprint forward | dry |
+| Ocean beach sprint forward | dry |
+| Elsthorpe sprint forward | dry |
+
+No restarts
+
+Weather:  “dry” on all stages
+Service: “short” on every stage
+Free tyre changes, setups etc
+
+Estimated total time 14-15 minutes
 
 
-## Round 5: Germany - Asphalt rally
+## Rush rally 3
 
-12 Mar	- 25 Mar
+Single rally > Finland (all stages)
 
-| stage            | weather     |
-| ---------------- | ----------- |
-| mertesdorf - r   | rain        |
-| farschweiler - r | afternoon   |
-| hockweiler - r   | morning     |
-| franzenheim - r  | afternoon   |
-| holzerath        | sunset (ps) |
+Car choice: S class or below
 
-## Round 6: Finland - Summer rally
+No restarts
 
-26 Mar - 8 Apr
+Estimated total time 10-12 minutes
 
-| stage            | weather     |
-| ------------------ | -------------- |
-| kairila            | morning        |
-| lamppi             | morning        |
-| haapajärvi         | afternoon      |
-| lassila            | sunset         |
-| noormarkku         | night (ps)     |
 
-## Round 7: Indonesia - Tropical rally
+## Richard Burns Rally
 
-9 Apr - 22 Apr
+Practice or time trial, one video per stage
 
-| stage            | weather     |
-| ------------------ | -------------- |
-| sangeang island    | morning        |
-| satonda island - r | afternoon      |
-| oreng valley - r   | rain           |
-| kalabakan valley   | night          |
-| semangka bay       | morning        |
-| mount kawi - r     | afternoon (ps) |
+Any car, any setup
 
-## Old teaser picture
+Stage 1: Gabiria-Legazpi (Spain, tarmac)
 
-Season 2 is announced! [Video](https://www.youtube.com/watch?v=UNIU4MBuTGE)
+Stage 2: Carvalho de rei (Portugal, gravel)
 
-![s2](https://github.com/xlsrln/cat/blob/main/images/cat_s2.png?raw=true?raw=true)
+
