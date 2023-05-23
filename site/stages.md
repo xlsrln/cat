@@ -6,9 +6,9 @@ Welcome to Ultimate Rally Master, the 4 game competition of ultimate rally skill
 
 ## Art of rally
 
-Rules: as in CAT, but no power stage
+Rules: as in CAT, but no power stage and no restarts
 
-One submission per rally
+The two rallies are submitted separately, and you can re-submit as many times as you want
 
 ### Rally 1: Norway
 
@@ -44,11 +44,14 @@ Custom rally > New Zealand > Group A
 
 No restarts
 
-Weather:  “dry” on all stages
+Weather: “dry” on all stages
 Service: “short” on every stage
+Surface degradation setting: "full" or whatever the default is
 Free tyre changes, setups etc
 
 Estimated total time 14-15 minutes
+
+You can re-submit as many times as you want
 
 
 ## Rush rally 3
@@ -61,10 +64,12 @@ No restarts
 
 Estimated total time 10-12 minutes
 
+You can re-submit as many times as you want
+
 
 ## Richard Burns Rally
 
-Practice or time trial, one video per stage
+Practice or time trial, one video per stage (Re-submit as many times as you want)
 
 Any car, any setup
 
