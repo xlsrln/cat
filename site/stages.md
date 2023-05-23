@@ -74,7 +74,7 @@ You can re-submit as many times as you want
 
 Practice or time trial, one video per stage (Re-submit as many times as you want)
 
-Any car, any setup
+Any car, any setup, except the WRC classes (WRC 2.0/1.6)
 
 Stage 1: Gabiria-Legazpi (Spain, tarmac)
 
