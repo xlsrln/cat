@@ -1,6 +1,6 @@
 # CAT - Catface Aor Tournament 😹
 
-[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s1](s1/s1_index.md)
+[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s2](s2/s2_index.md) | [s1](s1/s1_index.md)
 
 ## Welcome!
 
@@ -17,6 +17,12 @@ This championship is meant to be fun and easy to participate in. It relies on a 
 - [cool trailer video](https://www.youtube.com/watch?v=sI15aMLKqyU)
 - [season 2 trailer](https://www.youtube.com/watch?v=B2H0nykopyo)
 - [setup help](setup.md)
+
+#
+
+**Introducing Catface Ultimate Rally Master**
+
+Four weeks, four games, one rally master! Check it out under [stages and rallies](stages.md) 
 
 #
 
