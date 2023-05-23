@@ -45,8 +45,11 @@ Custom rally > New Zealand > Group A
 No restarts
 
 Weather: “dry” on all stages
+
 Service: “short” on every stage
+
 Surface degradation setting: "full" or whatever the default is
+
 Free tyre changes, setups etc
 
 Estimated total time 14-15 minutes
