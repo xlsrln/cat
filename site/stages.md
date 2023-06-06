@@ -76,9 +76,9 @@ Practice or time trial, one video per stage (Re-submit as many times as you want
 
 Any car, any setup, except the WRC classes (WRC 2.0/1.6)
 
-Stage 1: Gabiria-Legazpi (Spain, tarmac)
+Stage 1: Gabiria-Legazpi (Spain, tarmac, damp)
 
-Stage 2: Carvalho de rei (Portugal, gravel)
+Stage 2: Carvalho de rei (Portugal, gravel, dry)
 
 Download and installation instructions: [rallysimfans.hu](https://rallysimfans.hu/rbr/download.php?download=rsfrbr)
 
