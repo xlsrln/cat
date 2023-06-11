@@ -12,7 +12,7 @@ The two rallies are submitted separately, and you can re-submit as many times as
 
 ### Rally 1: Norway
 
-Group 3
+Group 3 (approx 5-7 min)
 
 | stage      | weather        |
 | ------------- | ------------ |
@@ -23,7 +23,7 @@ Group 3
 
 ### Rally 2: Kenya
 
-Group A
+Group A (approx 7-10 min)
 
 | stage      | weather        |
 | ------------- | ------------ |
@@ -52,7 +52,7 @@ Surface degradation setting: "full" or whatever the default is
 
 Free tyre changes, setups etc
 
-Estimated total time 14-15 minutes
+Estimated total time 10-15 minutes
 
 You can re-submit as many times as you want
 
