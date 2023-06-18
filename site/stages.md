@@ -4,6 +4,27 @@
 
 Welcome to Ultimate Rally Master, the 4 game competition of ultimate rally skill!
 
+## The results are in!
+
+The inaugral **Catface Rally Master** is colin mccrack!
+
+| The overall top 3: |
+| ----- |
+| 🏆 colin mccrack |
+| 🥈 franky M. |
+| 🥉 nept |
+
+Thanks to all the competitors who took part!
+
+In the individual games, we have the following:
+
+| art of rally:  | dirt rally 2:       | rush rally 3:       | richard burns rally:  |
+|----------------|---------------------|---------------------|-----------------------|
+|  🥇 franky    |  🥇 colin mccrack  |  🥇 franky         |  🥇 noEihaOo         |
+|  🥈 domer     |  🥈 colorcat       |  🥈 colin mccrack  |  🥈 dryout           |
+|  🥉 playerz   |  🥉 nept           |  🥉 nept           |  🥉 colin mccrack    |
+
+
 ## Art of rally
 
 Rules: as in CAT, but no power stage and no restarts
