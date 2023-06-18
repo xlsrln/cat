@@ -14,6 +14,7 @@
 | superturbo        |            25 |           39 |                   0 |              25 |                     12 |                      8 |     109 |     3 |
 | cat face nospace  |            19 |           18 |                  16 |              16 |                     18 |                     19 |     106 |     4 |
 
+
 ## standings
 
 | name          |   aor: norway |   aor: kenya |   dr 2: new zealand |   rr 3: finland |   rbr: gabiria-legazpi |   rbr: carvalho de rei |   total |   pos |
@@ -38,8 +39,6 @@
 
 
 ## art of rally: norway
-
-
 
 |   pos | name          | time      |   points | team              | link                                                |
 |------:|:--------------|:----------|---------:|:------------------|:----------------------------------------------------|
