@@ -7,8 +7,7 @@ Currently nothing here...
 
 Check out previous events:
 
-[CAT s1](s1/s1_index.md)
-
-[CAT s2](s2/s2_index.md)
-
-[Catface Rally Master](rally_master.md)
+## Previous events
+- [CAT s1](s1/s1_index.md)
+- [CAT s2](s2/s2_index.md)
+- [Catface Rally Master](rally_master.md)
