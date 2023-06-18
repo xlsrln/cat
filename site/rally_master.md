@@ -24,6 +24,8 @@ In the individual games, we have the following:
 |  🥈 domer     |  🥈 colorcat       |  🥈 colin mccrack  |  🥈 dryout           |
 |  🥉 playerz   |  🥉 nept           |  🥉 nept           |  🥉 colin mccrack    |
 
+Full results in [rally master results](rally_master_results.md)
+
 
 ## Art of rally
 
