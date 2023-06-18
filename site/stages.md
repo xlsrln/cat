@@ -11,4 +11,4 @@ Check out previous events:
 
 [CAT s2](s2/s2_index.md)
 
-[Catface Rally Master](s2/s2_index.md)
+[Catface Rally Master](rally_master.md)
