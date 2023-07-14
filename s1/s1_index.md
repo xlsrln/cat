@@ -3,7 +3,7 @@
 - [teams](s1_teams.md)
 - [stages](s1_stages.md)
 - [results](s1_results.md)
-- [finale/wrap up](finale.md)
+- [finale/wrap up](s1_finale.md)
 
 ![Logo](https://github.com/xlsrln/cat/blob/main/images/s1.png?raw=true?raw=true)
 
