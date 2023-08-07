@@ -18,7 +18,7 @@ members: Red Sun, domer, Colorcat, Fuksias, Radi
 
 **Cat Face NoSpace**
 
-Founded in the cold northern forests, team Cat Face NoSpace refer to themselves as the beasts of the north. Champions of CAT season 2, they drive fast and claim to take every shortcut and to never brake.
+Founded in the cold northern forests, team Cat Face NoSpace refer to themselves as the beasts of the north. Champions of CAT season 1, they drive fast and claim to take every shortcut and to never brake.
 
 members: nept, HULT, NoEihaOo
 
@@ -41,7 +41,7 @@ members: capablanca, Proporo, Colin McCrack, Dougall
 
 superturbo was founded in 1967 by a small group of British privateers - and has evolved into an internationally-based outfit. our team has a long relationship with the manufacturers of ‘il gorilla’, ensuring that our team always aims to bring home victories, without compromising style. superturbo - the crowd’s choice.
 
-members: turbo, Dryout, Franky M, kk135, Late
+members: turbo, Dryout, Franky M, kk, Late
 
 
 #
