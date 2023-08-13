@@ -3,9 +3,15 @@
 [home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s1](s1/s1_index.md) | [s2](s2/s2_index.md) | 
 [Catface Rally Master](s2/s2_index.md)
 
-Currently nothing here...
+## CAT S3 Round 1 - Norway
 
-Check out previous events:
+| stage | weather |
+|--------------|-----------|
+| kvannkjosen                   | morning   |
+| vestpollen                    | afternoon |
+| stronstad                     | sunset    |
+| laupstad - r                  | night     |
+| kvannkjosen - r (power stage) | morning   |
 
 ## Previous events
 - [CAT s1](s1/s1_index.md)
