@@ -104,17 +104,18 @@ Given this result:
 
 | Pos   | Driver | Individual points | Team          | Rank in team | Counts for team points? | Team points |
 | ----- | ------ | ----------------- | ------------- | ------------ | ----------------------- | ----------- |
-| 1     | A   | 25                | Team X        | 1            | Yes                     | 25 |
-| 2     | B   | 20                | Team X        | 2            | Yes                     | 20 |
-| 3     | C   | 16                | Team X        | 3            | No                      | \- |
-| 4     | D   | 13                | W Motorsports | 1            | Yes                     | 16 |
+| 1     | A   | 20                | Team X        | 1            | Yes                     | 20 |
+| 2     | B   | 18                | Team X        | 2            | Yes                     | 18 |
+| 3     | C   | 16                | Team X        | 3            | Yes                      | 16 |
+| 3     | D   | 14                | Team X        | 3            | No                      | \- |
+| 4     | E   | 12                | W Motorsports | 1            | Yes                     | 14 |
 
 we get the following standings:
 
 | Team          | Points |
 | ------------- | ------ |
-| Team X        | 45     |
-| W Motorsports | 16     |
+| Team X        | 54     |
+| W Motorsports | 14     |
 
 #
 
