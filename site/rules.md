@@ -107,7 +107,7 @@ Given this result:
 | 1     | A   | 20                | Team X        | 1            | Yes                     | 20 |
 | 2     | B   | 18                | Team X        | 2            | Yes                     | 18 |
 | 3     | C   | 16                | Team X        | 3            | Yes                      | 16 |
-| 3     | D   | 14                | Team X        | 3            | No                      | \- |
+| 3     | D   | 14                | Team X        | 4            | No                      | \- |
 | 4     | E   | 12                | W Motorsports | 1            | Yes                     | 14 |
 
 we get the following standings:
