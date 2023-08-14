@@ -30,8 +30,17 @@ members: nept, HULT, NoEihaOo
 
 Perennial competitors, G2D Racing has a mercenary reputation in the paddock despite their humble enthusiast origins, aggressively pursuing and fielding promising drivers. G2D's philosophy of "The Racer's Choice" revolves around letting each driver find the package that they can extract the most from, be it car or setup. Champions of CAT S2.
 
-members: capablanca, Proporo, Colin McCrack, Dougall
+members: Proporo, SonicTheSlowpoke, Major Clanger (reserve drivers: Myth, PlayerZ)
 
+#
+
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/g2d2.png" alt="drawing" style="height:200px"/>
+
+**Octane Gorigori Racing**
+
+The research and development team of G2D Corporation.
+
+members: Colin McCrack, Dougall, capablanca
 
 #
 
