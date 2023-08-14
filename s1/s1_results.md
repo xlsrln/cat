@@ -1,5 +1,5 @@
 
-# Results
+# Season 1 results
 
 [home](index.md) | [rules](rules.md) | [stages and rallies](s1.md) | [results and standings](results.md) | [teams](teams.md)
 
