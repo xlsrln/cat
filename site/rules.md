@@ -7,7 +7,7 @@
 - No signups: everyone who submits an entry will be classified in the championship
 
 #### Drivers championship
-- There is one driver’s championship. The class is currently group B/S or below.
+- There is one driver’s championship. The class is currently group 4 or below.
 - Points for each rally (and powerstage) according to the [table below](#appendix-points)
 - Each driver's worst rally of the season is dropped (including DNS)
 
@@ -65,8 +65,8 @@ Please note that the AOR part of Catface Rally Master has different rules, with 
 
 |Position|Points|
 |:----|:----|
-|1|25|
-|2|20|
+|1|20|
+|2|18|
 |3|16|
 |4|13|
 |5|12|
