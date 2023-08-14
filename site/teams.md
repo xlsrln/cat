@@ -61,7 +61,7 @@ members: turbo, Dryout, Franky M, kk, Late
 
 rally with us if times are none and fun is all
 
-members: captn sharkhorse
+members: captn sharkhorse, Esc0ped
 
 #
 
