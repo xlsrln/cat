@@ -36,7 +36,7 @@ members: Proporo, SonicTheSlowpoke, Major Clanger (reserve drivers: Myth, Player
 
 <img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/g2d2.png" alt="drawing" style="height:200px"/>
 
-**Octane Gorigori Racing**
+**Octane Gorigori Development Racing**
 
 The research and development team of G2D Corporation.
 
