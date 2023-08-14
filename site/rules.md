@@ -68,7 +68,7 @@ Please note that the AOR part of Catface Rally Master has different rules, with 
 |1|20|
 |2|18|
 |3|16|
-|4|13|
+|4|14|
 |5|12|
 |6|11|
 |7|10|
