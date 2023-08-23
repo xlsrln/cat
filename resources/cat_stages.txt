@@ -1,5 +1,5 @@
 { 
-    'Japan asphalt' : {
+    's1_Japan' : {
         'country': 'Japan',
         'stages': [
             'mount akagi',
@@ -11,8 +11,7 @@
             'afternoon',
             'sunset',
         ]
-    },
-    'Indonesia' : {
+    }, 's1_Indonesia' : {
         'country': 'Indonesia',
         'stages': [
             'oreng valley - r',
@@ -30,8 +29,7 @@
             'morning',
             'rain',
         ]
-    },
-    'Kenya' : {
+    }, 's1_Kenya' : {
         'country': 'Kenya',
         'stages': [
             'lake baringo',     
@@ -49,7 +47,7 @@
             'morning',
             'afternoon',
         ]
-    },'Germany' : {
+    }, 's1_Germany' : {
         'country': 'Germany',
         'stages': [
             'franzenheim',     
@@ -67,7 +65,7 @@
             'morning',
             'afternoon',
         ]
-    }, 'Sardinia' : {
+    }, 's1_Sardinia' : {
         'country': 'Sardinia',
         'stages': [
             'villacidro',
@@ -85,9 +83,7 @@
             'morning',
             'afternoon',
         ]
-    },
- 
-    's2_norway' : {
+    }, 's2_norway' : {
         'country': 'Norway',
         'stages': [
             'grunnfor',
@@ -103,8 +99,7 @@
             'sunset',
             'morning',
         ]
-    },
-    's2_sardinia' : {
+    }, 's2_sardinia' : {
         'country': 'Sardinia',
         'stages': [
             'san benedetto',
@@ -120,8 +115,7 @@
             'night',
             'night',
         ]
-    },
-    's2_japan' : {
+    }, 's2_japan' : {
         'country': 'Japan',
         'stages': [
             'mount asama',
@@ -221,13 +215,41 @@
             'morning',
         ]
 
-     }, 's3_germany' : {
+    }, 's3_germany' : {
         'country': 'Germany',
         'stages': [
-
+            'hockweiler',
+            'farschweiler',
+            'gonnesweiler',
+            'franzenheim',
+            'holzerath - r',
+            'mertesdorf',
         ], 
         'weather': [
-
+            'morning',
+            'afternoon',
+            'rain',
+            'night',
+            'morning',
+            'afternoon',
         ]
-    },      
+
+    }, 's3_kenya' : {
+        'country': 'Kenya',
+        'stages': [
+            
+        ], 
+        'weather': [
+            
+        ]
+
+    }, 's3_indonesia' : {
+        'country': 'Indonesia',
+        'stages': [
+            
+        ], 
+        'weather': [
+            
+        ]
+    },  
 }
