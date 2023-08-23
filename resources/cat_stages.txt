@@ -203,5 +203,31 @@
             'morning',
             'afternoon',
         ]
-    },   
+    }, 's3_norway' : {
+        'country': 'Norway',
+        'stages': [
+            'kvannkjosen - r',
+            'vestpollen',
+            'stronstad',
+            'laupstad - r',
+            'kvannkjosen',
+
+        ], 
+        'weather': [
+            'morning',
+            'afternoon',
+            'sunset',
+            'night',
+            'morning',
+        ]
+
+     }, 's3_germany' : {
+        'country': 'Germany',
+        'stages': [
+
+        ], 
+        'weather': [
+
+        ]
+    },      
 }
