@@ -8,7 +8,7 @@ Once it's installed, first add art of rally as an input source by pressing `add 
 
 If you see anything in the preview, it's all good. Press start recording to record and stop when you're done!
 
-If you are uploading to youtube, you can use the naming format `[CAT 2022] rally sardinia | 12:34 nept 69` but it is by no means mandatory.
+If you are uploading to youtube, you can use the naming format `[CAT S3] rally norway` but it is by no means mandatory.
 
 ## clock overlay (optional)
 
