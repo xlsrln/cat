@@ -228,8 +228,8 @@
             'morning',
             'afternoon',
             'rain',
-            'night',
             'morning',
+            'afternoon',
         ]
 
     }, 's3_kenya' : {
