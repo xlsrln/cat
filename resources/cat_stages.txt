@@ -218,7 +218,6 @@
     }, 's3_germany' : {
         'country': 'Germany',
         'stages': [
-            'hockweiler',
             'farschweiler',
             'gonnesweiler',
             'franzenheim',
@@ -231,7 +230,6 @@
             'rain',
             'night',
             'morning',
-            'afternoon',
         ]
 
     }, 's3_kenya' : {
