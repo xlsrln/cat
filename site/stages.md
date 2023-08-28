@@ -19,10 +19,10 @@
 | stage | weather |
 |-------|---------|
 | farschweiler | morning |
-| gonnesweiler | afternoon |
 | franzenheim | rain |
+| gonnesweiler | sunset |
 | holzerath - r | morning |
-| mertesdorf | afternoon |
+| mertesdorf (power stage) | afternoon |
 
 ## Previous events
 - [CAT s1](s1/s1_index.md)
