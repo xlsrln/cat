@@ -219,15 +219,15 @@
         'country': 'Germany',
         'stages': [
             'farschweiler',
-            'gonnesweiler',
             'franzenheim',
+            'gonnesweiler',
             'holzerath - r',
             'mertesdorf',
         ], 
         'weather': [
             'morning',
-            'afternoon',
-            'rain',
+            'rain',            
+            'sunset',
             'morning',
             'afternoon',
         ]
