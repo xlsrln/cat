@@ -24,6 +24,16 @@
 | holzerath - r | morning |
 | mertesdorf (power stage) | afternoon |
 
+## CAT S3 Round 3 - Kenya
+
+| stage | weather |
+|-------|---------|
+| lake nakuru | morning | 
+| ndere island | morning | 
+| karura | afternoon | 
+| homa bay |  sunset | 
+| mount kenya - r (power stage) | night  | 
+
 ## Previous events
 - [CAT s1](s1/s1_index.md)
 - [CAT s2](s2/s2_index.md)
