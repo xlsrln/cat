@@ -235,10 +235,18 @@
     }, 's3_kenya' : {
         'country': 'Kenya',
         'stages': [
-            
+            'lake nakuru',
+            'ndere island',
+            'karura',
+            'homa bay',
+            'mount kenya - r',
         ], 
         'weather': [
-            
+            'morning',
+            'morning',
+            'afternoon',
+            'sunset',
+            'night',
         ]
 
     }, 's3_indonesia' : {
