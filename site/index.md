@@ -28,12 +28,19 @@ Join us in group 4 across 6 rallies!
 
 #
 
+**Previous Catface AOR World Champions**
+
+- Season 1: Proporo, team Catface NoSpace
+- Season 2: Late, G2D Racing
+
+#
+
 **Hall of fame**
 
 | player                                                | trophies | 
 | --------------------------------------------------- |  ------- | 
-| late | 🏆🥇🥇🥇🥇🥇🥇🥇🥉 | 
 | proporo | 🏆🥇🥇🥇🥇🥇🥇🥇🥈🥈🥈🥈🥈🥈🥈 | 
+| late | 🏆🥇🥇🥇🥇🥇🥇🥇🥉 | 
 | turbo | 🥇🥈🥉🥉🥉🥉 | 
 | wes | 🥇🥈🥉 | 
 | playerz | 🥈🥈🥈🥈 | 
