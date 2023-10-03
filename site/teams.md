@@ -59,9 +59,12 @@ members: turbo, Dryout, Franky M, kk, Late
 
 **void rallysports**
 
-rally with us if times are none and fun is all
+After astrophysicists had found and understood all of space's anomalies, they turned to something more peculiar, the rally driver. 
+They decided to make their own team and were met with little success but soon found their ryhthm. 
+They now strive for speed and a great time.
+"Rally with us if times are none and fun is all." -Captn Sharkhorse
 
-members: captn sharkhorse, Esc0ped
+members: captn sharkhorse, Esc0ped, NEWTIMEROB
 
 #
 
