@@ -44,6 +44,15 @@
 | oreng valley | morning | 
 | mount kawi - r (power stage) | rain | 
 
+## CAT S3 Round 5 - Japan
+
+| stage | weather |
+| ----------------- | --------- |
+| nasu highland     | morning   |
+| mount akagi       | afternoon |
+| nasu highland - r | morning   |
+| mount haruna (power stage)      | afternoon |
+
 ## Previous events
 - [CAT s1](s1/s1_index.md)
 - [CAT s2](s2/s2_index.md)
