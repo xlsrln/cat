@@ -34,6 +34,16 @@
 | homa bay |  sunset | 
 | mount kenya - r (power stage) | night  | 
 
+## CAT S3 Round 4 - Indonesia
+
+| stage | weather |
+|-------|---------|
+| satonda island | morning |
+| semangka bay | afternoon |
+| kalabakan valley | sunset | 
+| oreng valley | morning | 
+| mount kawi - r (power stage) | rain | 
+
 ## Previous events
 - [CAT s1](s1/s1_index.md)
 - [CAT s2](s2/s2_index.md)
