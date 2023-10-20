@@ -252,10 +252,32 @@
     }, 's3_indonesia' : {
         'country': 'Indonesia',
         'stages': [
-            
+            'satonda island',
+            'semangka bay',
+            'kalabakan valley',
+            'oreng valley',
+            'mount kawi - r',
         ], 
         'weather': [
-            
+            'morning',
+            'afternoon',
+            'sunset',
+            'morning',
+            'rain',
         ]
-    },  
+    }, 's3_japan' : {
+        'country': 'Japan',
+        'stages': [
+            'nasu highland',
+            'mount akagi',
+            'nasu highland - r',
+            'mount haruna',
+        ], 
+        'weather': [
+            'morning',
+            'afternoon',
+            'morning',
+            'afternoon',
+        ]
+
 }
