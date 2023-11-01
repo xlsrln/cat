@@ -53,6 +53,16 @@
 | nasu highland - r | morning   |
 | mount haruna (power stage)      | afternoon |
 
+## CAT S3 Round 6 - Finland (final round!)
+
+| stage | weather |
+| ----- | ------- |
+| noormarkku - r |	night |
+| lamppi - r |	morning |
+| palus - r |	afternoon |
+| lassila - r |	sunset |
+| haapajärvi - r (power stage) |	morning |
+
 ## Previous events
 - [CAT s1](s1/s1_index.md)
 - [CAT s2](s2/s2_index.md)
