@@ -1,6 +1,6 @@
 # CAT - Catface AOR World Championships
 
-[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s2](s2/s2_index.md) | [s1](s1/s1_index.md)
+[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s3](s3/s3_index.md) | [s2](s2/s2_index.md) | [s1](s1/s1_index.md)
 
 ## Welcome!
 
@@ -14,12 +14,6 @@ This championship is meant to be fun and easy to participate in. It relies on a 
 
 #
 
-**Season 3 announced!**
-
-Join us in group 4 across 6 rallies!
-
-#
-
 **Useful links:**
 
 - [cool trailer video](https://www.youtube.com/watch?v=sI15aMLKqyU)
@@ -30,8 +24,15 @@ Join us in group 4 across 6 rallies!
 
 **Previous Catface AOR World Champions**
 
-- Season 1: Proporo, team Catface NoSpace
-- Season 2: Late, G2D Racing
+Driver's champions:
+- Season 1: Proporo
+- Season 2: Late
+- Season 3: Franky M.
+
+Team champions:
+- Season 1: Cat face NoSpace
+- Season 2: G2D Racing
+- Season 3: G2D Racing
 
 #
 
@@ -57,13 +58,27 @@ Join us in group 4 across 6 rallies!
 
 | team                                                | trophies | 
 | --------------------------------------------------- |  ------- | 
-| Cat Face NoSpace | 🏆 | 
 | G2D Racing | 🏆🏆 | 
+| Cat Face NoSpace | 🏆 | 
 
 
 #
 
 ## older news
+
+#
+
+**Season 3 finished!**
+
+Franky M. wins CAT Season 3! G2D are the team champions.
+
+See information at the [season 3 info page](s3/s3_index.md)
+
+# 
+
+**Season 3 announced!**
+
+Join us in group 4 across 6 rallies!
 
 #
 
@@ -89,7 +104,7 @@ See stages and results with links above
 
 **Season 2 announced!**
 
-See more under [stages and rallies](stages.md)
+See information at the [season 1 info page](s2/s2_index.md)
 
 Announcement presentation: https://www.youtube.com/watch?v=UNIU4MBuTGE
 
