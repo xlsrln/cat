@@ -25,11 +25,13 @@ This championship is meant to be fun and easy to participate in. It relies on a 
 **Previous Catface AOR World Champions**
 
 Driver's champions:
+
 - Season 1: Proporo
 - Season 2: Late
 - Season 3: Franky M.
 
 Team champions:
+
 - Season 1: Cat face NoSpace
 - Season 2: G2D Racing
 - Season 3: G2D Racing
