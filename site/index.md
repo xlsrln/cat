@@ -36,6 +36,10 @@ Team champions:
 - Season 2: G2D Racing
 - Season 3: G2D Racing
 
+Cool cat of the year:
+
+- 2022: Domer
+
 #
 
 **Hall of fame**
