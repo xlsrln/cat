@@ -123,5 +123,3 @@ See information at the [season 1 info page](s1/s1_index.md)
 **CAT 2022 season finals will be held on saturday 3rd of december, 15:00 UTC**
 
 This event will include a prize ceremony, announcements, and some live rally competition on stages we've done in the season.. (Not a part of the championship, but just for fun.) Format and details will be presented later.
-
-
