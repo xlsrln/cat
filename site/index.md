@@ -14,6 +14,12 @@ This championship is meant to be fun and easy to participate in. It relies on a 
 
 #
 
+**Season 4 is starting!**
+
+See [stages](stages.md) for details
+
+#
+
 **Useful links:**
 
 - [cool trailer video](https://www.youtube.com/watch?v=sI15aMLKqyU)
