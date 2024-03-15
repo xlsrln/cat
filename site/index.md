@@ -46,6 +46,7 @@ Team champions:
 Cool cat of the year:
 
 - 2022: Domer
+- 2023: Franky M.
 
 #
 
