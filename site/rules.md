@@ -1,6 +1,7 @@
 # Rules for CAT - Catface Aor Tournament 😹
 
-[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s1](s1/s1_index.md)
+[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s1](s1/s1_index.md) | [s2](s2/s2_index.md) | [s3](s3/s3_index.md) | 
+[Catface Rally Master](rally_master.md)
 
 #### Overall
 - Participate by recording a video of the rally and entering the link in the submission form
