@@ -9,7 +9,11 @@ CAT World Championships Season 4
 
 | stage | weather |
 | ----- | ------  |
-|       |         |
+| lake nakuru | morning |
+| ndere island - r | afternoon |
+| mount kenya - r | sunset |
+| homa bay | fog |
+| karura - r | morning (power stage) |
 
 ## CAT S4 Round 2 - Indonesia
 
