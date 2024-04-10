@@ -64,7 +64,7 @@ They decided to make their own team and were met with little success but soon fo
 They now strive for speed and a great time.
 "Rally with us if times are none and fun is all." -Captn Sharkhorse
 
-members: captn sharkhorse, Esc0ped, NEWTIMEROB, Ausee
+members: captn sharkhorse, Esc0ped, NEWTIMEROB, Ausee, Taco
 
 #
 
