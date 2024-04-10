@@ -26,21 +26,21 @@ members: nept, HULT, NoEihaOo, Proporo, Inhake
 
 <img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/g2d.png" alt="drawing" style="height:200px"/>
 
-**G2D Racing**
+**G2D Righto**
 
 Perennial competitors, G2D Racing has a mercenary reputation in the paddock despite their humble enthusiast origins, aggressively pursuing and fielding promising drivers. G2D's philosophy of "The Racer's Choice" revolves around letting each driver find the package that they can extract the most from, be it car or setup. Champions of CAT S2.
 
-members: capablanca, Major Clanger, SonicTheSlowpoke, Colin McCrack, Dougall
+members: Major Clanger, SonicTheSlowpoke, Colin McCrack, Dougall
 
 #
 
 <img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/g2d2.png" alt="drawing" style="height:200px"/>
 
-**Octane Gorigori Development Racing**
+**Équipe GAUFRE**
 
 The research and development team of G2D Corporation.
 
-members: 
+members: capablanca
 
 #
 
