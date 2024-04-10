@@ -20,7 +20,7 @@ members: Red Sun, domer, Colorcat, Fuksias, Radi
 
 Founded in the cold northern forests, team Cat Face NoSpace refer to themselves as the beasts of the north. Champions of CAT season 1, they drive fast and claim to take every shortcut and to never brake.
 
-members: nept, HULT, NoEihaOo
+members: nept, HULT, NoEihaOo, Proporo, Inhake
 
 #
 
@@ -30,7 +30,7 @@ members: nept, HULT, NoEihaOo
 
 Perennial competitors, G2D Racing has a mercenary reputation in the paddock despite their humble enthusiast origins, aggressively pursuing and fielding promising drivers. G2D's philosophy of "The Racer's Choice" revolves around letting each driver find the package that they can extract the most from, be it car or setup. Champions of CAT S2.
 
-members: Proporo, SonicTheSlowpoke, Major Clanger (reserve drivers: Myth, PlayerZ)
+members: capablanca, Major Clanger, SonicTheSlowpoke, Colin McCrack, Dougall
 
 #
 
@@ -40,7 +40,7 @@ members: Proporo, SonicTheSlowpoke, Major Clanger (reserve drivers: Myth, Player
 
 The research and development team of G2D Corporation.
 
-members: Colin McCrack, Dougall, capablanca
+members: 
 
 #
 
@@ -50,7 +50,7 @@ members: Colin McCrack, Dougall, capablanca
 
 superturbo was founded in 1967 by a small group of British privateers - and has evolved into an internationally-based outfit. our team has a long relationship with the manufacturers of ‘il gorilla’, ensuring that our team always aims to bring home victories, without compromising style. superturbo - the crowd’s choice.
 
-members: turbo, Dryout, Franky M, kk, Late
+members: turbo, Dryout, Franky M, Evy
 
 
 #
@@ -65,6 +65,16 @@ They now strive for speed and a great time.
 "Rally with us if times are none and fun is all." -Captn Sharkhorse
 
 members: captn sharkhorse, Esc0ped, NEWTIMEROB
+
+#
+
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/noot.png" alt="drawing" style="height:200px"/>
+
+**purple sunset**
+
+The latest team to join CAT
+
+members: Sif, Gentlemen
 
 #
 
