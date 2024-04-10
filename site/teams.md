@@ -10,7 +10,7 @@
 
 Brick Motorsports was created in 2021 by an international group of racers united by the mission to make bricks fly. Throughout the years Brick Motorsports has worked with talented drivers from Finland, Germany, USA, UK, Ukraine, Norway, and Antarctica.
 
-members: Red Sun, domer, Colorcat, Fuksias, Radi
+members: Red Sun, domer, Colorcat, Fuksias, Radi, phil, Toucan, Drumstick, FailX, RJ
 
 #
 
