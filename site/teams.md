@@ -40,7 +40,7 @@ members: Major Clanger, SonicTheSlowpoke, Colin McCrack, Dougall
 
 The research and development team of G2D Corporation.
 
-members: capablanca
+members: capablanca, colin mccrack
 
 #
 
@@ -68,11 +68,11 @@ members: captn sharkhorse, Esc0ped, NEWTIMEROB, Ausee, Taco
 
 #
 
-<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/noot.png" alt="drawing" style="height:200px"/>
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/purple.png" alt="drawing" style="height:200px"/>
 
 **purple sunset**
 
-The latest team to join CAT
+Founded in 2024, they barrel through stages in their iconic purple-liveried rally cars. New to the CAT rally stages, the team is here to show what they are capable of. Blasting retrowave the whole way as they fly through the stages!
 
 members: Sif, Gentlemen
 
