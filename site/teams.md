@@ -28,9 +28,9 @@ members: nept, HULT, NoEihaOo, Proporo, Inhake
 
 **G2D Righto**
 
-Perennial competitors, G2D Racing has a mercenary reputation in the paddock despite their humble enthusiast origins, aggressively pursuing and fielding promising drivers. G2D's philosophy of "The Racer's Choice" revolves around letting each driver find the package that they can extract the most from, be it car or setup. Champions of CAT S2.
+Perennial competitors, G2D Racing has a mercenary reputation in the paddock despite their humble enthusiast origins, aggressively pursuing and fielding promising drivers. G2D's philosophy of "The Racer's Choice" revolves around letting each driver find the package that they can extract the most from, be it car or setup. Champions of CAT S2 and S3.
 
-members: Major Clanger, SonicTheSlowpoke, Colin McCrack, Dougall
+members: Major Clanger, SonicTheSlowpoke, Dougall, DJ Kebab
 
 #
 
