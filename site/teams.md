@@ -72,7 +72,7 @@ members: captn sharkhorse, Esc0ped, NEWTIMEROB, Ausee, Taco
 
 **purple sunset**
 
-Founded in 2024, they barrel through stages in their iconic purple-liveried rally cars. New to the CAT rally stages, the team is here to show what they are capable of. Blasting retrowave the whole way as they fly through the stages!
+Founded in 2024 by two guys originating from the desolate arctic wastelands of Finland and northern Canada, these two have honed their driving skills in the hostile forest and backroads, mostly out of necessity rather than training. Armed with Fujin FRXs modified to group A spec, a couple Cozzie Transfer vans and a crippling debt with their houses on the line, Purple Sunset Motorsports is purely driven by the determination to prove itself in the Catface Rally, and maybe on the side win enough money to pay of their debts or at least convince the banks not to foreclose their houses.
 
 members: Sif, Gentlemen
 
