@@ -18,7 +18,7 @@ members: Red Sun, domer, Colorcat, Fuksias, Radi, phil, Toucan, Drumstick, FailX
 
 **Cat Face NoSpace**
 
-Founded in the cold northern forests, team Cat Face NoSpace refer to themselves as the beasts of the north. Champions of CAT season 1, they drive fast and claim to take every shortcut and to never brake.
+Active since 2021, team Cat Face NoSpace come from the cold northern forests and refer to themselves as the beasts of the north. Champions of CAT season 1, they drive fast and claim to take every shortcut and to never brake. 
 
 members: nept, HULT, NoEihaOo, Proporo, Inhake
 
