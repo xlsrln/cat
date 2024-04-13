@@ -279,13 +279,29 @@
             'morning',
             'afternoon',
         ]
-    }, 's4_Kenya' : {
+    }, 's4_kenya' : {
         'country': 'Kenya',
         'stages': [
             'lake nakuru',     
             'ndere island - r',  
             'mount kenya - r',              
-            'homa bay - r', 
+            'homa bay', 
+            'karura',
+        ], 
+        'weather': [
+            'morning',
+            'afternoon',
+            'sunset',
+            'fog',
+            'morning',
+        ]
+    }, 's4_indonesia' : {
+        'country': 'Kenya',
+        'stages': [
+            'lake nakuru',     
+            'ndere island - r',  
+            'mount kenya - r',              
+            'homa bay', 
             'karura',
         ], 
         'weather': [
