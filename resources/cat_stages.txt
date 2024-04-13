@@ -286,7 +286,7 @@
             'ndere island - r',  
             'mount kenya - r',              
             'homa bay', 
-            'karura',
+            'karura - r',
         ], 
         'weather': [
             'morning',
