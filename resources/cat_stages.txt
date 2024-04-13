@@ -283,7 +283,7 @@
         'country': 'Kenya',
         'stages': [
             'lake nakuru',     
-            'ndere island',  
+            'ndere island - r',  
             'mount kenya - r',              
             'homa bay - r', 
             'karura',
