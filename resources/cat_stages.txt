@@ -298,7 +298,7 @@
     }, 's4_indonesia' : {
         'country': 'Indonesia',
         'stages': [
-            'satonda island - r' 
+            'satonda island - r',
             'sangeang island', 
             'oreng valley', 
             'mount kawi', 
