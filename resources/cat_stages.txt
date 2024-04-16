@@ -296,20 +296,36 @@
             'morning',
         ]
     }, 's4_indonesia' : {
-        'country': 'Kenya',
+        'country': 'Indonesia',
         'stages': [
-            'lake nakuru',     
-            'ndere island - r',  
-            'mount kenya - r',              
-            'homa bay', 
-            'karura',
+            'satonda island - r' 
+            'sangeang island', 
+            'oreng valley', 
+            'mount kawi', 
+            'kalabakan valley',
         ], 
         'weather': [
             'morning',
-            'afternoon',
-            'sunset',
-            'fog',
             'morning',
+            'rain',
+            'afternoon',
+            'afternoon',
+        ]
+    }, 's4_germany' : {
+        'country': 'Germany',
+        'stages': [
+            'hockweiler',
+            'holzerath',
+            'farschweiler',
+            'franzenheim',
+            'mertesdorf',
+        ], 
+        'weather': [
+            'morning',
+            'morning',
+            'rain',
+            'afternoon',
+            'afternoon',
         ]
     }
 }
