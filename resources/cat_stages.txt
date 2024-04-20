@@ -302,7 +302,7 @@
             'sangeang island', 
             'oreng valley', 
             'mount kawi', 
-            'kalabakan valley',
+            'kalabakan valley - r',
         ], 
         'weather': [
             'morning',
