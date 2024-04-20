@@ -17,6 +17,14 @@ CAT World Championships Season 4
 
 ## CAT S4 Round 2 - Indonesia
 
+| stage | weather |
+| ----- | ------  |
+| satonda island - r | morning |
+| sangeang island | morning |
+| oreng valley | rain |
+| mount kawi | afternoon |
+| kalabakan valley | afternoon (power stage) |
+
 ## CAT S4 Round 3 - Germany
 
 ## CAT S4 Round 4 - Norway
