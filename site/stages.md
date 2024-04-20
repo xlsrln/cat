@@ -23,7 +23,7 @@ CAT World Championships Season 4
 | sangeang island | morning |
 | oreng valley | rain |
 | mount kawi | afternoon |
-| kalabakan valley | afternoon (power stage) |
+| kalabakan valley - r | afternoon (power stage) |
 
 ## CAT S4 Round 3 - Germany
 
