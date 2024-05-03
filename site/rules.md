@@ -90,9 +90,10 @@ The final stage of the rally is called _power stage_ and awards points (as in WR
 |Position|Points|
 |:----|:----|
 |1|4|
-|2|3|
-|3|2|
-|4|1|
+|2|4|
+|3|3|
+|4|2|
+|5|1|
 
 
 ## Appendix: team points
