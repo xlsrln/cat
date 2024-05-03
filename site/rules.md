@@ -57,26 +57,31 @@
 
 ## Appendix: points
 
-**Points per event:** (similar to MotoGP)
+**Points per event:** 
 
 |Position|Points|
 |:----|:----|
-|1|20|
-|2|18|
-|3|16|
-|4|14|
-|5|12|
-|6|11|
-|7|10|
-|8|9|
-|9|8|
-|10|7|
-|11|6|
-|12|5|
-|13|4|
-|14|3|
-|15|2|
-|16 or higher|1|
+|1|25|
+|2|23|
+|3|21|
+|4|19|
+|5|17|
+|6|16|
+|7|15|
+|8|14|
+|9|13|
+|10|12|
+|11|11|
+|12|10|
+|13|9|
+|14|8|
+|15|7|
+|16|6|
+|17|5|
+|18|4|
+|19|3|
+|20|2|
+|21 or higher|1|
 
 The final stage of the rally is called _power stage_ and awards points (as in WRC).
 
