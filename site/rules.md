@@ -8,16 +8,14 @@
 - No signups: everyone who submits an entry will be classified in the championship
 
 #### Drivers championship
-- There is one driver’s championship. The class is currently group 4 or below.
+- There is one driver’s championship. See the current season for which car class it is.
 - Points for each rally (and powerstage) according to the [table below](#appendix-points)
-- Each driver's worst rally of the season is dropped (including DNS)
 
 #### Team championship
 - There is one team championship. Teams are handled in #paddock
 - The best **three** drivers per team for each rally score team points. (new!)
 - Team points are calculated as if only the top three drivers per team exist. ([example](#appendix-team-points))
-- Power stage points and dropped rounds don't apply to the team score
-
+- Power stage points don't apply to the team score
 
 #### In-game rules
 - No ghosts. No unauthorised mods.
@@ -26,8 +24,6 @@
 - Banned mods: If it feels wrong, don't use it (e.g. reset zone visualisers etc)
 
 #### Restarts
-
-Please note that the AOR part of Catface Rally Master has different rules, with no power stage and no restarts allowed.
 
 - Max 1 restart per service, or equivalently one per pair of stages (1&2, 3&4, 5&6 etc)
 - Free restarts on the first stage of the rally. These do not count towards the previous rule
@@ -40,7 +36,6 @@ Please note that the AOR part of Catface Rally Master has different rules, with 
 
 #### Videos should
 - Capture the whole rally from setup to finish screen
-- ~~Contain an IRL time and date on screen at all times~~ (this is encouraged but will not be enforced this season at least)
 - Be published before the deadline with no expiration date
 
 #### Penalties
