@@ -87,4 +87,15 @@ A group of mechanics of the continental bicycle racing team, bike-a-cycle, decid
 
 members: MxCraven, rain, Macii
 
+#
+
+
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/noot.png" alt="drawing" style="height:200px"/>
+
+**Dannis Auto**
+
+A club for aspiring racers and amateurs, although we may have lower scores, Dannis Auto is mainly about learning, and making mistakes along the way.
+
+members: Headcrab
+
 
