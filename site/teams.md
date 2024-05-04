@@ -10,7 +10,9 @@
 
 Brick Motorsports was created in 2021 by an international group of racers united by the mission to make bricks fly. Throughout the years Brick Motorsports has worked with talented drivers from Finland, Germany, USA, UK, Ukraine, Norway, and Antarctica.
 
-members: Red Sun, domer, Colorcat, Fuksias, Radi, phil, Toucan, Drumstick, FailX, RJ
+members: domer, Colorcat, Radi, Toucan, Drumstick, HardFailz
+
+staff: Red Sun, Korgy, Wes, Phil, RJ, Fuksias, Universal
 
 #
 
@@ -30,7 +32,7 @@ members: nept, HULT, NoEihaOo, Proporo, Inhake
 
 Perennial competitors, G2D Racing has a mercenary reputation in the paddock despite their humble enthusiast origins, aggressively pursuing and fielding promising drivers. G2D's philosophy of "The Racer's Choice" revolves around letting each driver find the package that they can extract the most from, be it car or setup. Champions of CAT S2 and S3.
 
-members: Major Clanger, SonicTheSlowpoke, Dougall, DJ Kebab
+members: Major Clanger, SonicTheSlowpoke, Dougall, DJ Kebab, Late
 
 #
 
