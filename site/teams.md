@@ -68,13 +68,13 @@ members: captn sharkhorse, Esc0ped, NEWTIMEROB, Ausee, Taco
 
 #
 
-<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/purple.png" alt="drawing" style="height:200px"/>
+<img src="https://raw.githubusercontent.com/xlsrln/cat/main/images/teams/purp%20sunset.png" alt="drawing" style="height:200px"/>
 
 **purple sunset**
 
 Founded in 2024 by two guys originating from the desolate arctic wastelands of Finland and northern Canada, these two have honed their driving skills in the hostile forest and backroads, mostly out of necessity rather than training. Armed with Fujin FRXs modified to group A spec, a couple Cozzie Transfer vans and a crippling debt with their houses on the line, Purple Sunset Motorsports is purely driven by the determination to prove itself in the Catface Rally, and maybe on the side win enough money to pay of their debts or at least convince the banks not to foreclose their houses.
 
-members: Sif, Gentlemen
+members: Sif, Gentlemen, Tezzaioli
 
 #
 
@@ -83,7 +83,7 @@ members: Sif, Gentlemen
 
 **bike-a-cycle**
 
-[description]
+A group of mechanics of the continental bicycle racing team, bike-a-cycle, decided to use their vacation to go rallying after being suspended for putting petrol in their rider's water bottles. So here they are, roof racks installed, partially lycra clad, and confused as to why the gears are in a box and not just screwed onto the rear wheel, ready to go racing in cat!
 
 members: MxCraven, rain, Macii
 
