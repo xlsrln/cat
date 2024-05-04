@@ -10,9 +10,7 @@
 
 Brick Motorsports was created in 2021 by an international group of racers united by the mission to make bricks fly. Throughout the years Brick Motorsports has worked with talented drivers from Finland, Germany, USA, UK, Ukraine, Norway, and Antarctica.
 
-members: domer, Colorcat, Radi, Toucan, Drumstick, HardFailz
-
-staff: Red Sun, Korgy, Wes, Phil, RJ, Fuksias, Universal
+members: domer, Colorcat, Radi, Toucan, Drumstick, HardFailz (staff: Red Sun, Korgy, Wes, Phil, RJ, Fuksias, Universal)
 
 #
 
