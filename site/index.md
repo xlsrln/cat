@@ -65,7 +65,7 @@ Cool cat of the year:
 | dryout | 🥉🥉🥉 |
 | domer | 🥉🥉 | 
 | kk | 🥉 | 
-| Toucan | 🥉 | 
+| toucan | 🥉 | 
 | major clanger | 🥉 |
 
 **Team hall of fame**
