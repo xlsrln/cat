@@ -315,10 +315,10 @@
         'country': 'Germany',
         'stages': [
             'hockweiler',
-            'holzerath',
-            'farschweiler',
             'franzenheim',
             'mertesdorf',
+            'holzerath',
+            'farschweiler',
         ], 
         'weather': [
             'morning',
