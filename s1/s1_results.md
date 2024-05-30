@@ -43,6 +43,13 @@
 | 3 | Brick Motorsports |          26 |      13 |        23 |         23 |      85 |
 | 4 | Noot Squad Rally  |           0 |       0 |        17 |          9 |      26 |
 
+## podium summary
+
+| japan | indonesia | kenya   | germany | sardinia |
+|-------|-----------|---------|---------|----------|
+| 🥇 wes   | 🥇 proporo   | 🥇 proporo | 🥇 proporo | 🥇 proporo  |
+| 🥈 turbo | 🥈 myth      | 🥈 playerz | 🥈 playerz | 🥈 playerz  |
+| 🥉 kk    | 🥉 wes       | 🥉 turbo   | 🥉 myth    | 🥉 toucan   |
 
 
 ## japan asphalt rally (warmup event)
