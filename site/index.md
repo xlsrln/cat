@@ -76,6 +76,50 @@ Cool cat of the year:
 | Cat Face NoSpace | 🏆 | 
 
 
+## podium summary
+
+**season 1**
+
+| japan | indonesia | kenya   | germany | sardinia |
+|-------|-----------|---------|---------|----------|
+| 🥇 wes   | 🥇 proporo   | 🥇 proporo | 🥇 proporo | 🥇 proporo  |
+| 🥈 turbo | 🥈 myth      | 🥈 playerz | 🥈 playerz | 🥈 playerz  |
+| 🥉 kk    | 🥉 wes       | 🥉 turbo   | 🥉 myth    | 🥉 toucan   |
+
+**season 2**
+
+| norway | sardinia | japan   | kenya | germany | finland | indonesia |
+|-------|-----------|---------|---------|----------|----------|----------|
+| 🥇 late   | 🥇 late   | 🥇 late | 🥇 late | 🥇 late  | 🥇 late  | 🥇 proporo  |
+| 🥈 playerz | 🥈 proporo      | 🥈 proporo | 🥈 proporo | 🥈 proporo  | 🥈 proporo  | 🥈 franky m  |
+| 🥉 turbo    | 🥉 turbo       | 🥉 franky m   | 🥉 turbo    | 🥉 franky m   | 🥉 dryout | 🥉 dryout |
+
+**season 3**
+
+| norway | germany | 	kenya |	indonesia |	japan |	finland |
+|-------|-----------|---------|---------|----------|----------|
+| 🥇 late   | 🥇 proporo   | 🥇 proporo | 🥇 franky m | 🥇 franky m  | 🥇 radi  |
+| 🥈 proporo | 🥈 franky m      | 🥈 franky m | 🥈 radi | 🥈 radi  | 🥈 franky m  | 
+| 🥉 franky m    | 🥉 late       | 🥉 radi   | 🥉 proporo    | 🥉 major clanger   | 🥉 dryout |
+
+**season 4**
+
+| kenya | indonesia | 	germany |	norway |	australia |
+|-------|-----------|---------|---------|----------|
+| 🥇 franky m   | 🥇 franky m   | 🥇 franky m | 🥇  | 🥇  |
+| 🥈 late | 🥈 radi      | 🥈 proporo | 🥈 | 🥈  |
+| 🥉 radi   | 🥉 domer       | 🥉 radi   | 🥉 | 🥉 |
+
+#
+
+**rally master (multi-game championship)**
+
+| art of rally  | dirt rally 2       | rush rally 3       | richard burns rally  |
+|----------------|---------------------|---------------------|-----------------------|
+|  🥇 franky    |  🥇 colin mccrack  |  🥇 franky         |  🥇 noEihaOo         |
+|  🥈 domer     |  🥈 colorcat       |  🥈 colin mccrack  |  🥈 dryout           |
+|  🥉 playerz   |  🥉 nept           |  🥉 nept           |  🥉 colin mccrack    |
+
 #
 
 ## older news
