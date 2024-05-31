@@ -327,5 +327,37 @@
             'afternoon',
             'afternoon',
         ]
+    }, 's4_norway' : {
+        'country': 'Norway',
+        'stages': [
+            'lake rostavatn',
+            'grunnfor - r',
+            'laupstad',
+            'stronstad',
+            'vestpollen',
+        ],
+        'weather': [
+            'morning',
+            'morning',
+            'afternoon',
+            'afternoon',
+            'sunset',
+        ]
+    }, 's4_australia' : {
+        'country': 'Norway',
+        'stages': [
+            'lake rostavatn',
+            'grunnfor - r',
+            'laupstad',
+            'stronstad',
+            'vestpollen',
+        ],
+        'weather': [
+            'morning',
+            'morning',
+            'afternoon',
+            'afternoon',
+            'sunset',
+        ]
     }
 }
