@@ -80,11 +80,11 @@ Cool cat of the year:
 
 **season 1**
 
-| japan | indonesia | kenya   | germany | sardinia |
-|-------|-----------|---------|---------|----------|
-| 🥇 wes   | 🥇 proporo   | 🥇 proporo | 🥇 proporo | 🥇 proporo  |
-| 🥈 turbo | 🥈 myth      | 🥈 playerz | 🥈 playerz | 🥈 playerz  |
-| 🥉 kk    | 🥉 wes       | 🥉 turbo   | 🥉 myth    | 🥉 toucan   |
+| japan | indonesia | kenya   | germany | sardinia | live event |
+|-------|-----------|---------|---------|----------|---------|
+| 🥇 wes   | 🥇 proporo   | 🥇 proporo | 🥇 proporo | 🥇 proporo  | 🥇 turbo |
+| 🥈 turbo | 🥈 myth      | 🥈 playerz | 🥈 playerz | 🥈 playerz  | 🥈 wes |
+| 🥉 kk    | 🥉 wes       | 🥉 turbo   | 🥉 myth    | 🥉 toucan   | 🥉 domer | 
 
 **season 2**
 
