@@ -27,9 +27,34 @@ CAT World Championships Season 4
 
 ## CAT S4 Round 3 - Germany
 
+| stage | weather |
+| ----- | ------- |
+| hockweiler | morning |
+| franzenheim | morning |
+| mertesdorf | rain |
+| holzerath | afternoon |
+| farschweiler | afternoon (power stage) |
+
 ## CAT S4 Round 4 - Norway
 
+| stage | weather |
+| ----- | ------- |
+| lake rostavatn | morning |
+| grunnfor - r | morning |
+| laupstad | afternoon |
+| stronstad | afternoon |
+| vestpollen | sunset (power stage) |
+
 ## CAT S4 Round 5 - Australia
+
+| stage | weather |
+| ----- | ------- |
+| stage | morning |
+| stage | morning |
+| stage | afternoon |
+| stage | afternoon |
+| stage | sunset |
+| stage | sunset (power stage) |
 
 
 ## Previous events
