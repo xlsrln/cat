@@ -344,13 +344,13 @@
             'sunset',
         ]
     }, 's4_australia' : {
-        'country': 'Norway',
+        'country': 'Australia',
         'stages': [
-            'lake rostavatn',
-            'grunnfor - r',
-            'laupstad',
-            'stronstad',
-            'vestpollen',
+            'wombamurra',
+            'lake lucernia',
+            'toorooka',
+            'nulla nulla',
+            'gum scrub',
         ],
         'weather': [
             'morning',
