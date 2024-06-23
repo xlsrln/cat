@@ -49,12 +49,11 @@ CAT World Championships Season 4
 
 | stage | weather |
 | ----- | ------- |
-| stage | morning |
-| stage | morning |
-| stage | afternoon |
-| stage | afternoon |
-| stage | sunset |
-| stage | sunset (power stage) |
+| wombamurra | morning |
+| lake lucernia | morning |
+| toorooka | afternoon |
+| nulla nulla | afternoon |
+| gum scrub | sunset (power stage) |
 
 
 ## Previous events
