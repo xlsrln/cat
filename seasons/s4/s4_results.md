@@ -2,7 +2,7 @@
 
 
 
-[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [result                                              s and standings](results.md) | [teams](teams.md)
+[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md)
 
 
 
@@ -17,7 +17,7 @@
 |     5 | void rallysports  |      16 |          19 |        21 |       13 |     22 |      91 |
 |     6 | purple sunset     |      14 |          15 |        12 |       23 |     25 |      89 |
 |     7 | équipe GAUFRE     |      16 |          16 |        14 |       13 |      0 |      59 |
-|     8 | bike-a-cycle      |       4 |           3 |         4 |        5 |    12 |      28 |
+|     8 | bike-a-cycle      |       4 |           3 |         4 |        5 |     12 |      28 |
 
 ## standings
 
@@ -33,7 +33,7 @@
 |     8 | turbo                 |       8 |          17 |        15 |  21 |            0 |      61 |
 |     9 | playerz               |      13 |          14 |        12 |  18 |            0 |      57 |
 |    10 | hardfailz             |       6 |           8 |        10 |  11 |           13 |      48 |
-|    10 | newtimerob            |       5 |          10 |         9 |  12 |           12 |      48 |
+|    11 | newtimerob            |       5 |          10 |         9 |  12 |           12 |      48 |
 |    12 | drumstick             |       7 |          12 |         8 |  9 |           10 |      46 |
 |    13 | brightcat             |       4 |           9 |        11 |  10 |           11 |      45 |
 |    14 | evy                   |       9 |          11 |        14 |  0 |            0 |      34 |
@@ -43,27 +43,27 @@
 |    18 | inhake                |       3 |           5 |         3 |  5 |            8 |      24 |
 |    19 | tommywiseau.gif       |       1 |           2 |         4 |  6 |            9 |      22 |
 |    20 | dryout                |      10 |           6 |         0 |  0 |            0 |      16 |
-|    20 | tezzaioli             |       1 |           1 |         1 |  7 |            6 |      16 |
-|    20 | nept                  |       1 |           1 |         5 |  4 |            5 |      16 |
+|    21 | tezzaioli             |       1 |           1 |         1 |  7 |            6 |      16 |
+|    22 | nept                  |       1 |           1 |         5 |  4 |            5 |      16 |
 |    23 | tracks0ft             |       1 |           3 |         6 |  0 |            4 |      14 |
 |    24 | lia                   |      11 |           0 |         0 |  0 |            0 |      11 |
 |    25 | sif                   |       1 |           1 |         1 |  3 |            2 |       8 |
 |    26 | littlesky             |       0 |           7 |         0 |  0 |            0 |       7 |
 |    27 | thematic              |       0 |           0 |         1 |  1 |            3 |       5 |
-|    27 | gentlemen/cabbagewank |       1 |           1 |         1 |  1 |            1 |       5 |
-|    27 | mxcraven              |       1 |           1 |         1 |  1 |            1 |       5 |
-|    27 | finnvbot              |       1 |           1 |         1 |  1 |            1 |       5 |
+|    28 | gentlemen/cabbagewank |       1 |           1 |         1 |  1 |            1 |       5 |
+|    29 | mxcraven              |       1 |           1 |         1 |  1 |            1 |       5 |
+|    30 | finnvbot              |       1 |           1 |         1 |  1 |            1 |       5 |
 |    31 | colin mccrack         |       1 |           1 |         2 |  0 |            0 |       4 |
-|    31 | capablanca            |       1 |           1 |         1 |  1 |            0 |       4 |
-|    31 | rain                  |       1 |           1 |         1 |  0 |            1 |       4 |
+|    32 | capablanca            |       1 |           1 |         1 |  1 |            0 |       4 |
+|    = | rain                  |       1 |           1 |         1 |  0 |            1 |       4 |
 |    34 | defo                  |       0 |           0 |         1 |  2 |            0 |       3 |
-|    34 | hulter                |       1 |           1 |         0 |  0 |            1 |       3 |
-|    34 | nap                   |       1 |           1 |         1 |  0 |            0 |       3 |
-|    34 | macii                 |       1 |           1 |         1 |  0 |            0 |       3 |
+|    35 | hulter                |       1 |           1 |         0 |  0 |            1 |       3 |
+|    = | nap                   |       1 |           1 |         1 |  0 |            0 |       3 |
+|    = | macii                 |       1 |           1 |         1 |  0 |            0 |       3 |
 |    38 | ausee                 |       1 |           0 |         0 |  0 |            0 |       1 |
-|    38 | captn sharkhorse      |       1 |           0 |         0 |  0 |            0 |       1 |
-|    38 | gerlat                |       0 |           0 |         1 |  0 |            0 |       1 |
-|    38 | red sun               |       0 |           0 |         0 |  1 |            0 |       1 |
+|    = | captn sharkhorse      |       1 |           0 |         0 |  0 |            0 |       1 |
+|    = | gerlat                |       0 |           0 |         1 |  0 |            0 |       1 |
+|    = | red sun               |       0 |           0 |         0 |  1 |            0 |       1 |
 
 
 
