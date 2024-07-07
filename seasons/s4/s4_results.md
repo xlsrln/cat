@@ -9,7 +9,7 @@
 ## team standings
 
 |   pos | team              |   kenya |   indonesia |   germany |   norway |   australia |   total |
-|   --------:|--------:|
+|          --------:|  --------:|--------:|--------:|--------:|--------:|--------:|--------:|
 |     1 | Brick Motorsports |      52 |          57 |        49 |       47 |     51 |     256 |
 |     2 | G2D Righto        |      59 |          48 |        49 |       48 |     51 |     255 |
 |     3 | superturbo        |      50 |          54 |        54 |       42 |     25 |     225 |
