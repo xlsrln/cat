@@ -75,7 +75,7 @@ Congratulations to Wes, turbo and KK for finishing on the podium!
 
 Well done Proporo!
 
-|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                                                  |
+|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link  |
 |------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:----------------------------------------------------------------------|
 |     1 | Proporo           | 12:33.25 | 01:03.16     |      25 |    2 |       27 | cat face nospace  | [link](https://youtu.be/tSuLEyKSEns)                                  |
 |     2 | Myth              | 12:38.01 | 01:02.00     |      20 |    4 |       24 | G2D Racing        | [link](https://youtu.be/tQipaK_-5Qc)                                  |
@@ -98,7 +98,7 @@ Well done Proporo!
 
 Strong showing by Proporo and the returning PlayerZ, as well as a good effort by capablanca!
 
-|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                                                   |
+|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link   |
 |------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:-----------------------------------------------------------------------|
 |     1 | Proporo           | 17:04.07 | 03:19.63     |      25 |    4 |       29 | cat face nospace  | [link](https://youtu.be/wwR6pmk4L94)                                   |
 |     2 | PlayerZ           | 17:16.00 | 03:20.72     |      20 |    3 |       23 | G2D Racing        | [link](https://youtu.be/s8S5dyTnNpc)                                   |
@@ -147,7 +147,7 @@ Domer signs for Brick Motorsports and a debut for Noot Squad. Everyone (mostly) 
 
 Toucan turned up! Proporo completes the impressive clean sweep in an exciting finish to the season!
 
-|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link                                                                   |
+|   pos | name              | time     | powerstage   |   rally |   ps |   points | team              | link   |
 |------:|:------------------|:---------|:-------------|--------:|-----:|---------:|:------------------|:-----------------------------------------------------------------------|
 |     1 | Proporo           | 13:54.01 | 02:29.80     |      25 |    4 |       29 | cat face nospace  | [link](https://youtu.be/x_RKgrxlHCA)                                   |
 |     2 | PlayerZ           | 13:58.62 | 02:29.87     |      20 |    3 |       23 | G2D Racing        | [link](https://youtu.be/Aja3JvinGlI)                                   |

@@ -59,7 +59,7 @@
 
 Late wins the first event of season 2!
 
-|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link                                                         |
+|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link         |
 |------:|:------------------|:----------|:-------------|--------:|-----:|---------:|:------------------|:----------|:-------------------------------------------------------------|
 |     1 | Late              | 08:04.964 | 01:33.66     |      25 |    4 |       29 | G2D Racing        |           | [link](https://www.youtube.com/watch?v=EHKOAfqMjFg)          |
 |     2 | PlayerZ           | 08:11.045 | 01:35.03     |      20 |    3 |       23 | G2D Racing        |           | [link](https://youtu.be/qtXAHPDUp04)                         |
@@ -92,7 +92,7 @@ Late wins the first event of season 2!
 
 With a intense fight through the night, Late beats Proporo and Turbo
 
-|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link                                                         |
+|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link         |
 |------:|:------------------|:----------|:-------------|--------:|-----:|---------:|:------------------|:----------|:-------------------------------------------------------------|
 |     1 | Late              | 09:40.881 | 01:19.09     |      25 |    4 |       29 | G2D Racing        |           | [link](https://youtu.be/i8ounice42s)                         |
 |     2 | Proporo           | 09:43.299 | 01:19.23     |      20 |    3 |       23 | cat face nospace  |           | [link](https://youtu.be/2Ap1KXanuIc)                         |
@@ -122,7 +122,7 @@ With a intense fight through the night, Late beats Proporo and Turbo
 
 An incredible run from Late ahead of Proporo, and a debut podium for Franky M!
 
-|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link                                                         |
+|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link         |
 |------:|:------------------|:----------|:-------------|--------:|-----:|---------:|:------------------|:----------|:-------------------------------------------------------------|
 |     1 | Late              | 12:58.149 | 03:04.93     |      25 |    4 |       29 | G2D Racing        |           | [link](https://youtu.be/1k0kap2Z4UY)                         |
 |     2 | Proporo           | 13:09.706 | 03:08.27     |      20 |    3 |       23 | cat face nospace  |           | [link](https://youtu.be/TkgclCzLkGE)                         |
@@ -149,7 +149,7 @@ An incredible run from Late ahead of Proporo, and a debut podium for Franky M!
 
 Late crushes everyone in Kenya!
 
-|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link                                                         |
+|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link         |
 |------:|:------------------|:----------|:-------------|--------:|-----:|---------:|:------------------|:----------|:-------------------------------------------------------------|
 |     1 | Late              | 14:29.009 | 01:56.98     |      25 |    4 |       29 | G2D Racing        |           | [link](https://www.youtube.com/watch?v=FB2T7OfvxZA)          |
 |     2 | Proporo           | 14:36.681 | 01:58.48     |      20 |    3 |       23 | cat face nospace  |           | [link](https://www.youtube.com/watch?v=xMcSGw5Yhlo)          |
@@ -175,7 +175,7 @@ Late crushes everyone in Kenya!
 
 Late stays on the road to win his home rally!
 
-|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link                                                         |
+|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link         |
 |------:|:------------------|:----------|:-------------|--------:|-----:|---------:|:------------------|:----------|:-------------------------------------------------------------|
 |     1 | Late              | 14:23.959 | 03:42.18     |      25 |    4 |       29 | G2D Racing        |           | [link](https://www.twitch.tv/videos/1775134132)              |
 |     2 | Proporo           | 14:37.096 | 03:47.06     |      20 |    2 |       22 | cat face nospace  |           | [link](https://youtu.be/C3_5OSttBhI)                         |
@@ -199,7 +199,7 @@ Late stays on the road to win his home rally!
 
 Many cool cats and cool cuts!
 
-|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link                                                         |
+|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link         |
 |------:|:------------------|:----------|:-------------|--------:|-----:|---------:|:------------------|:----------|:-------------------------------------------------------------|
 |     1 | Late              | 09:15.703 | 01:09.64     |      25 |    4 |       29 | G2D Racing        |           | [link](https://youtu.be/n6-W0R26XrE)                         |
 |     2 | Proporo           | 09:26.564 | 01:12.76     |      20 |    0 |       20 | cat face nospace  |           | [link](https://youtu.be/ROYTy-iyfAM)                         |
@@ -224,7 +224,7 @@ Many cool cats and cool cuts!
 
 Late might have sealed his championship, but Proporo wins the rally!
 
-|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link                                                         |
+|   pos | name              | time      | powerstage   |   rally |   ps |   points | team              | penalty   | link         |
 |------:|:------------------|:----------|:-------------|--------:|-----:|---------:|:------------------|:----------|:-------------------------------------------------------------|
 |     1 | Proporo           | 11:39.513 | 02:52.71     |      25 |    4 |       29 | cat face nospace  |           | [link](https://youtu.be/mD440-YF_pM)                         |
 |     2 | Franky M.         | 11:39.876 | 02:54.32     |      20 |    3 |       23 | superturbo        |           | [link](https://youtu.be/bKuRKSvoMf8)                         |
