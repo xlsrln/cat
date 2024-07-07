@@ -1,6 +1,6 @@
 # CAT - Catface AOR World Championships
 
-[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s1](s1/s1_index.md) | [s2](s2/s2_index.md) | [s3](s3/s3_index.md) | 
+[home](index.md) | [rules](rules.md) | [stages and rallies](stages.md) | [results and standings](results.md) | [teams](teams.md) | [s1](seasons/s1/s1_index.md) | [s2](seasons/s2/s2_index.md) | [s3](seasons/s3/s3_index.md) | [s4](seasons/s4/s4_index.md) | 
 [Catface Rally Master](rally_master.md)
 
 ## Welcome!
@@ -15,11 +15,6 @@ This championship is meant to be fun and easy to participate in. It relies on a 
 
 #
 
-**Season 4 is starting!**
-
-See [stages](stages.md) for details
-
-#
 
 **Useful links:**
 
@@ -36,12 +31,14 @@ Driver's champions:
 - Season 1: Proporo
 - Season 2: Late
 - Season 3: Franky M.
+- Season 4: Franky M.
 
 Team champions:
 
 - Season 1: Cat face NoSpace
 - Season 2: G2D Racing
 - Season 3: G2D Racing
+- Season 4: Brick Motorsports
 
 Cool cat of the year:
 
@@ -54,10 +51,10 @@ Cool cat of the year:
 
 | player                                                | trophies | 
 | --------------------------------------------------- |  ------- | 
-| proporo | 🏆🥇🥇🥇🥇🥇🥇🥇🥇🥈🥈🥈🥈🥈🥈🥈🥈🥉 | 
+| proporo | 🏆🥇🥇🥇🥇🥇🥇🥇🥇🥈🥈🥈🥈🥈🥈🥈🥈🥈🥉 | 
 | late | 🏆🥇🥇🥇🥇🥇🥇🥇🥈🥉 | 
-| franky m. | 🏆🥇🥇🥇🥇🥇🥈🥈🥈🥈🥈🥉🥉🥉 |
-| radi | 🥇🥈🥈🥈🥉🥉🥉🥉 |
+| franky m. | 🏆🏆🥇🥇🥇🥇🥇🥇🥈🥈🥈🥈🥈🥉🥉🥉 |
+| radi | 🥇🥈🥈🥈🥉🥉🥉🥉🥉 |
 | turbo | 🥇🥈🥉🥉🥉🥉 | 
 | wes | 🥇🥈🥉 | 
 | playerz | 🥈🥈🥈🥈 | 
@@ -106,9 +103,9 @@ Cool cat of the year:
 
 | kenya | indonesia | 	germany |	norway |	australia |
 |-------|-----------|---------|---------|----------|
-| 🥇 franky m   | 🥇 franky m   | 🥇 franky m | 🥇 proporo  | 🥇  |
-| 🥈 late | 🥈 radi      | 🥈 proporo | 🥈 franky m | 🥈  |
-| 🥉 radi   | 🥉 domer       | 🥉 radi   | 🥉 radi | 🥉 |
+| 🥇 franky m   | 🥇 franky m   | 🥇 franky m | 🥇 proporo  | 🥇 franky m |
+| 🥈 late | 🥈 radi      | 🥈 proporo | 🥈 franky m | 🥈 proporo |
+| 🥉 radi   | 🥉 domer       | 🥉 radi   | 🥉 radi | 🥉 radi |
 
 #
 
@@ -126,11 +123,23 @@ Cool cat of the year:
 
 #
 
+**Season 4 finished!**
+
+Franky M. is the new champion, and Brick Motorsports wins the team title by one point.
+
+#
+
+**Season 4 is starting!**
+
+See [stages](stages.md) for details
+
+#
+
 **Season 3 finished!**
 
 Franky M. wins CAT Season 3! G2D are the team champions.
 
-See information at the [season 3 info page](s3/s3_index.md)
+See information at the [season 3 info page](seasons/s3/s3_index.md)
 
 # 
 
@@ -162,7 +171,7 @@ See stages and results with links above
 
 **Season 2 announced!**
 
-See information at the [season 1 info page](s2/s2_index.md)
+See information at the [season 1 info page](seasons/s2/s2_index.md)
 
 Announcement presentation: https://www.youtube.com/watch?v=UNIU4MBuTGE
 
@@ -172,7 +181,7 @@ Announcement presentation: https://www.youtube.com/watch?v=UNIU4MBuTGE
 
 Proporo is the driver's champion, and catface nospace wins the team championship.
 
-See information at the [season 1 info page](s1/s1_index.md)
+See information at the [season 1 info page](seasons/s1/s1_index.md)
 
 #
 
