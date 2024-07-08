@@ -227,34 +227,34 @@ wow! a kangaroo?
 
 |   pos | name                  | time      | powerstage   |   rally |   ps | points | team              |   team_pts | pen   | link                                       |
 |------:|:----------------------|:----------|:-------------|--------:|-----:|---                                              ------:|:------------------|-----------:|:------|:------------------------------                                              -------------------------------|
-|     1 | franky m.             | 10:25.874 | 02:05.80     |      25 |    5 |     30 | superturbo        |         25 |       | [link](https://youtu.be/T4Ypc9                                              _ihdI)                         |
-|     2 | proporo               | 10:26.742 | 02:07.01     |      23 |    3 |     26 | cat face nospace  |         23 |       | [link](https://youtu.be/fHV6ih                                              mx9HE)                         |
-|     3 | radi                  | 10:31.136 | 02:06.73     |      21 |    4 |     25 | Brick Motorsports |         21 |       | [link](https://video.hardlimit                                              .com/w/bQ7GE3qk1z9gYMmp4CEqwE) |
-|     4 | major clanger         | 10:36.356 | 02:07.35     |      19 |    2 |     21 | G2D Righto        |         19 |       | [link](https://youtu.be/WVtyh3                                              HGsC4)                         |
-|     5 | dj kebab              | 10:36.995 | 02:08.83     |      17 |    0 |     17 | G2D Righto        |         17 |       | [link](https://www.youtube.com                                              /watch?v=688n5oQ78jY)          |
-|     6 | toucan                | 10:37.403 | 02:07.76     |      16 |    0 |     16 | Brick Motorsports |         16 |       | [link](https://youtu.be/KHbqkv                                              RfBco?si=J5-bEouyziMR-sQP)     |
-|     7 | sonictheslowpoke      | 10:39.546 | 02:07.90     |      15 |    0 |     15 | G2D Righto        |         15 |       | [link](https://youtu.be/JG1hrz                                              TAchk)                         |
-|     8 | domer                 | 10:42.966 | 02:07.54     |      14 |    1 |     15 | Brick Motorsports |         14 |       | [link](https://youtu.be/h-pxpD                                              mTUfA)                         |
-|     9 | hardfailz             | 10:44.642 | 02:08.51     |      13 |    0 |     13 | Brick Motorsports |          0 |       | [link](https://video.hardlimit                                              .com/w/rPcRf8zwiQifPwcV2ZHDLn) |
-|    10 | newtimerob            | 10:47.356 | 02:09.33     |      12 |    0 |     12 | void rallysports  |         13 |       | [link](https://youtu.be/VRrH2Y                                              P6uG8)                         |
-|    11 | brightcat             | 10:53.524 | 02:09.73     |      11 |    0 |     11 | Brick Motorsports |          0 |       | [link](https://youtu.be/_V03KE                                              09vdQ)                         |
-|    12 | drumstick             | 10:59.216 | 02:10.60     |      10 |    0 |     10 | Brick Motorsports |          0 |       | [link](https://youtu.be/SGpe-j                                              sOClk )                        |
-|    13 | tommywiseau.gif       | 11:06.686 | 02:14.61     |       9 |    0 |      9 | Brick Motorsports |          0 |       | [link](https://youtu.be/fcAdPk                                              sQSE4)                         |
-|    14 | inhake                | 11:08.537 | 02:13.93     |       8 |    0 |      8 | cat face nospace  |         12 |       | [link](https://youtu.be/i3kmqK                                              O49VU)                         |
-|    15 | gamma gestalt         | 11:09.079 | 02:12.56     |       7 |    0 |      7 | G2D Righto        |          0 |       | [link](https://youtu.be/Eh69s1                                              KzXDw)                         |
-|    16 | tezzaioli             | 11:10.083 | 02:15.95     |       6 |    0 |      6 | purple sunset     |         11 |       | [link](https://youtu.be/aC-lQ1                                              BqT04)                         |
-|    17 | nept                  | 11:20.809 | 02:13.91     |       5 |    0 |      5 | cat face nospace  |         10 |       | [link](https://youtu.be/rZRP4u                                              mJA1c)                         |
-|    18 | tracks0ft             | 11:21.287 | 02:29.46     |       4 |    0 |      4 | void rallysports  |          9 |       | [link](https://youtu.be/VUxkex                                              dyCQI)                         |
-|    19 | thematic              | 11:25.880 | 02:17.44     |       3 |    0 |      3 |                   |          0 |       | [link](https://video.hardlimit                                              .com/w/irHKRP5rsQSbpygmEVZE6S) |
-|    20 | sif                   | 11:28.687 | 02:15.51     |       2 |    0 |      2 | purple sunset     |          8 |       | [link](https://youtu.be/bn5YzW                                              l14Ss)                         |
-|    21 | mxcraven              | 11:45.264 | 02:20.93     |       1 |    0 |      1 | bike-a-cycle      |          7 |       | [link](https://youtu.be/9KNmpl                                              xJcXY)                         |
-|    22 | gentlemen/cabbagewank | 11:48.997 | 02:21.28     |       1 |    0 |      1 | purple sunset     |          6 |       | [link](https://youtu.be/549SH5                                              6kczM)                         |
-|    23 | hulter                | 11:59.182 | 02:18.50     |       1 |    0 |      1 | cat face nospace  |          0 |       | [link](https://youtu.be/zNOlkF                                              m1AkE)                         |
-|    24 | finnvbot              | 12:08.693 | 02:28.80     |       1 |    0 |      1 |                   |          0 |       | [link](https://youtu.be/HeJQ0a                                              B0jPo)                         |
-|    25 | rain                  | 12:46.783 | 02:27.94     |       1 |    0 |      1 | bike-a-cycle      |          5 |       | [link](https://www.youtube.com                                              /watch?v=6L87h-RiGl0)          |
+|     1 | franky m.             | 10:25.874 | 02:05.80     |      25 |    5 |     30 | superturbo        |         25 |       | [link](https://youtu.be/T4Ypc9ihdI)                         |
+|     2 | proporo               | 10:26.742 | 02:07.01     |      23 |    3 |     26 | cat face nospace  |         23 |       | [link](https://youtu.be/fHV6ihmx9HE)                         |
+|     3 | radi                  | 10:31.136 | 02:06.73     |      21 |    4 |     25 | Brick Motorsports |         21 |       | [link]( https://video.hardlimit.com/w/5TQqxnMbuT55jv35gCa5xh) |
+|     4 | major clanger         | 10:36.356 | 02:07.35     |      19 |    2 |     21 | G2D Righto        |         19 |       | [link](https://youtu.be/WVtyh3HGsC4)                         |
+|     5 | dj kebab              | 10:36.995 | 02:08.83     |      17 |    0 |     17 | G2D Righto        |         17 |       | [link](https://www.youtube.com/watch?v=688n5oQ78jY)          |
+|     6 | toucan                | 10:37.403 | 02:07.76     |      16 |    0 |     16 | Brick Motorsports |         16 |       | [link](https://youtu.be/KHbqkvRfBco?si=J5-bEouyziMR-sQP)     |
+|     7 | sonictheslowpoke      | 10:39.546 | 02:07.90     |      15 |    0 |     15 | G2D Righto        |         15 |       | [link](https://youtu.be/JG1hrzTAchk)                         |
+|     8 | domer                 | 10:42.966 | 02:07.54     |      14 |    1 |     15 | Brick Motorsports |         14 |       | [link](https://youtu.be/h-pxpDmTUfA)                         |
+|     9 | hardfailz             | 10:44.642 | 02:08.51     |      13 |    0 |     13 | Brick Motorsports |          0 |       | [link](https://video.hardlimit.com/w/rPcRf8zwiQifPwcV2ZHDLn) |
+|    10 | newtimerob            | 10:47.356 | 02:09.33     |      12 |    0 |     12 | void rallysports  |         13 |       | [link](https://youtu.be/VRrH2YP6uG8)                         |
+|    11 | brightcat             | 10:53.524 | 02:09.73     |      11 |    0 |     11 | Brick Motorsports |          0 |       | [link](https://youtu.be/_V03KE09vdQ)                         |
+|    12 | drumstick             | 10:59.216 | 02:10.60     |      10 |    0 |     10 | Brick Motorsports |          0 |       | [link](https://youtu.be/SGpe-jsOClk )                        |
+|    13 | tommywiseau.gif       | 11:06.686 | 02:14.61     |       9 |    0 |      9 | Brick Motorsports |          0 |       | [link](https://youtu.be/fcAdPksQSE4)                         |
+|    14 | inhake                | 11:08.537 | 02:13.93     |       8 |    0 |      8 | cat face nospace  |         12 |       | [link](https://youtu.be/i3kmqKO49VU)                         |
+|    15 | gamma gestalt         | 11:09.079 | 02:12.56     |       7 |    0 |      7 | G2D Righto        |          0 |       | [link](https://youtu.be/Eh69s1KzXDw)                         |
+|    16 | tezzaioli             | 11:10.083 | 02:15.95     |       6 |    0 |      6 | purple sunset     |         11 |       | [link](https://youtu.be/aC-lQ1BqT04)                         |
+|    17 | nept                  | 11:20.809 | 02:13.91     |       5 |    0 |      5 | cat face nospace  |         10 |       | [link](https://youtu.be/rZRP4umJA1c)                         |
+|    18 | tracks0ft             | 11:21.287 | 02:29.46     |       4 |    0 |      4 | void rallysports  |          9 |       | [link](https://youtu.be/VUxkexdyCQI)                         |
+|    19 | thematic              | 11:25.880 | 02:17.44     |       3 |    0 |      3 |                   |          0 |       | [link](https://video.hardlimit.com/w/irHKRP5rsQSbpygmEVZE6S) |
+|    20 | sif                   | 11:28.687 | 02:15.51     |       2 |    0 |      2 | purple sunset     |          8 |       | [link](https://youtu.be/bn5YzWl14Ss)                         |
+|    21 | mxcraven              | 11:45.264 | 02:20.93     |       1 |    0 |      1 | bike-a-cycle      |          7 |       | [link](https://youtu.be/9KNmplxJcXY)                         |
+|    22 | gentlemen/cabbagewank | 11:48.997 | 02:21.28     |       1 |    0 |      1 | purple sunset     |          6 |       | [link](https://youtu.be/549SH56kczM)                         |
+|    23 | hulter                | 11:59.182 | 02:18.50     |       1 |    0 |      1 | cat face nospace  |          0 |       | [link](https://youtu.be/zNOlkFm1AkE)                         |
+|    24 | finnvbot              | 12:08.693 | 02:28.80     |       1 |    0 |      1 |                   |          0 |       | [link](https://youtu.be/HeJQ0aB0jPo)                         |
+|    25 | rain                  | 12:46.783 | 02:27.94     |       1 |    0 |      1 | bike-a-cycle      |          5 |       | [link](https://www.youtube.com/watch?v=6L87h-RiGl0)          |
 
 ## older results
 
-[S1 results](s1_results.md) |  [S2 results](s2_results.md) |  [S3 results](s3_re                                              sults.md) |  [Rally Master results](rally_master_results.md)
+[S1 results](s1_results.md) |  [S2 results](s2_results.md) | [S3 results](s3_results.md) | [Rally Master results](rally_master_results.md)
 
 Sun  7 Jul 11:00:19 CEST 2024
