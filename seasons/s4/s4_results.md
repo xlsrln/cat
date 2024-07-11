@@ -115,7 +115,7 @@ a good day to be on a safari
 fast blast with a lil splash
 
 |   pos | name                  | time      | powerstage   |   rally | ps |    points | team              |   team_pts | pen   | link            |
-|------:|:----------------------|:----------|:-------------|--------:|-------:|:------------------|-----------:|:------|:---------------------------------------------------------------|
+|------:|:----------------------|:----------|:-------------|--------:|---:|:----------|------------------:|:------|:---|---------------------------------------------------------------|
 |     1 | franky m.             | 09:12.115 | 01:38.93     |      25 | 5 |        30 | superturbo        |         25 |       | [link](https://youtu.be/17--dAI1cN4)                           |
 |     2 | radi                  | 09:13.231 | 01:39.26     |      23 | 4 |        27 | Brick Motorsports |         23 |       | [link](https://video.hardlimit.com/w/nmXomF44fZMvdDj52CcVfb)   |
 |     3 | domer                 | 09:14.711 | 01:40.25     |      21 | 1 |        22 | Brick Motorsports |         21 |       | [link](https://youtu.be/V33AxfcTxpo)                           |
@@ -154,7 +154,7 @@ fast blast with a lil splash
 stay on the road!
 
 |   pos | name                  | time      | powerstage   |   rally | ps |    points | team              |   team_pts | pen   | link          |
-|------:|:----------------------|:----------|:-------------|--------:|-------:|:------------------|-----------:|:------|:-------------------------------------------------------------|
+|------:|:----------------------|:----------|:-------------|--------:|-------:|:------------------|-----------:|:------|:-----|--------------------------------------------------------|
 |     1 | franky m.             | 14:00.286 | 03:19.50     |      25 | 5 |        30 | superturbo        |         25 |       | [link](https://www.youtube.com/watch?v=Yz8RKE_QO00)          |
 |     2 | proporo               | 14:03.724 | 03:20.83     |      23 | 4 |        27 | cat face nospace  |         23 |       | [link](https://youtu.be/qY0k4YjxG6Q)                         |
 |     3 | radi                  | 14:10.110 | 03:22.49     |      21 | 2 |        23 | Brick Motorsports |         21 |       | [link](https://video.hardlimit.com/w/bEfi8kLQGuv7TxnKpXjUsg) |
@@ -193,7 +193,7 @@ stay on the road!
 chilly! gotta go fast
 
 |   pos | name                  | time      | powerstage   |   rally | ps |    points | team              |   team_pts | pen   | link          |
-|------:|:----------------------|:----------|:-------------|--------:|-------:|:------------------|-----------:|:------|:-------------------------------------------------------------|
+|------:|:----------------------|:----------|:-------------|--------:|-------:|:------------------|-----------:|:------|:-------|------------------------------------------------------|
 |     1 | proporo               | 08:01.132 | 01:33.85     |      25 | 5 |        30 | cat face nospace  |         25 |       | [link](https://youtu.be/wtQQvrPmLpQ)                         |
 |     2 | franky m.             | 08:02.569 | 01:35.09     |      23 | 3 |        26 | superturbo        |         23 |       | [link](https://youtu.be/Xd1CWIVYm1o)                         |
 |     3 | radi                  | 08:02.867 | 01:34.83     |      21 | 4 |        25 | Brick Motorsports |         21 |       | [link](https://video.hardlimit.com/w/1VqwotmvgxHr1R5Dfwy9Dz) |
