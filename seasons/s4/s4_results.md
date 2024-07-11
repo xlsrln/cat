@@ -154,7 +154,7 @@ fast blast with a lil splash
 stay on the road!
 
 |   pos | name                  | time      | powerstage   |   rally | ps |    points | team              |   team_pts | pen   | link          |
-|------:|:----------------------|:----------|:-------------|--------:|-------:|:------------------|-----------:|:------|:-----|--------------------------------------------------------|
+|------:|:----------------------|:----------|:-------------|--------:|----:|:----------|-----------:|:------|:-----|--------------------------------------------------------|
 |     1 | franky m.             | 14:00.286 | 03:19.50     |      25 | 5 |        30 | superturbo        |         25 |       | [link](https://www.youtube.com/watch?v=Yz8RKE_QO00)          |
 |     2 | proporo               | 14:03.724 | 03:20.83     |      23 | 4 |        27 | cat face nospace  |         23 |       | [link](https://youtu.be/qY0k4YjxG6Q)                         |
 |     3 | radi                  | 14:10.110 | 03:22.49     |      21 | 2 |        23 | Brick Motorsports |         21 |       | [link](https://video.hardlimit.com/w/bEfi8kLQGuv7TxnKpXjUsg) |
