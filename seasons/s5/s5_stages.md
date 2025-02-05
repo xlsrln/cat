@@ -33,13 +33,7 @@ Cars:  the king of africa & das 559 (group b)
 | mount kenya |  night | 
 | lake baringo | fog (power stage) | 
 
-## CAT S5 Round 3 - TBA
 
-
-## CAT S5 Round 4 - TBA
-
-
-## CAT S5 Round 5 - TBA
 
 
 
