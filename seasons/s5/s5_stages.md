@@ -17,11 +17,21 @@ Car: turbo brick
 | laupstad | afternoon |
 | grunnfor | sunset |
 | stronstad - r | morning |
-| kvannkjosen - r | fog |
+| kvannkjosen - r | fog (power stage) |
 
 
-## CAT S5 Round 2 - TBA
+## CAT S5 Round 2 - Kenya
 
+**The Nocturnal Safari Shootout**
+
+Cars:  the king of africa & das 559 (group b)
+
+| stage | weather |
+| ----- | ------  |
+| ndere island |  sunset | 
+| homa bay - r |  night | 
+| mount kenya |  night | 
+| lake baringo | fog (power stage) | 
 
 ## CAT S5 Round 3 - TBA
 
