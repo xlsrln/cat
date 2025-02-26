@@ -33,9 +33,19 @@ Cars:  the king of africa & das 559 (group b)
 | mount kenya |  night | 
 | lake baringo | fog (power stage) | 
 
+## CAT S5 Round 2 - Australia
 
+**land down under delivery dash**
 
+Cars: rotary b7 & das uberspeedvan (group b)
 
+| stage | weather |
+| ----- | ------  |
+| comara canyon | morning | 
+| lake lucernia -r | fog | 
+| nulla nulla | rain |  
+| wombamurra -r | sunset | 
+| comara canyon -r |  night (power stage) | 
 
 
 ## Previous events
