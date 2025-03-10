@@ -33,7 +33,7 @@ Cars:  the king of africa & das 559 (group b)
 | mount kenya |  night | 
 | lake baringo | fog (power stage) | 
 
-## CAT S5 Round 2 - Australia
+## CAT S5 Round 3 - Australia
 
 **land down under delivery dash**
 
