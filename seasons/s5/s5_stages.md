@@ -47,6 +47,21 @@ Cars: rotary b7 & das uberspeedvan (group b)
 | wombamurra -r | sunset | 
 | comara canyon -r |  night (power stage) | 
 
+## CAT S5 Round 4 - Sardinia
+
+**Sardinia-Corsica Enduring Friendship Rally**
+
+Cars: group b - italian and french manufacturers only! (502, cinq b, gorilla, monster, cavallo)
+
+| Stages  |  weather  | 
+| --- | ---- |
+| gennamari - r | fog | 
+| villacidro - r | afternoon | 
+| portu maga | sunset | 
+| gennamari | night | 
+| san gavino monreale - r | rain | 
+| montevechhio | afternoon, (power stage) | 
+
 
 ## Previous events
 - [CAT s1](seasons/s1/s1_index.md)
