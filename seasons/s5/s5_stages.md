@@ -62,6 +62,34 @@ Cars: group b - italian and french manufacturers only! (502, cinq b, gorilla, mo
 | san gavino monreale - r | rain | 
 | montevechhio | afternoon, (power stage) | 
 
+## CAT S5 Round 5 - Indonesia
+
+**The long and the short**
+
+Cars: group 4 - le cinq, das scholar, das uberwhip, la longana
+
+| Stages  |  weather  | 
+| --- | ---- |
+| oreng valley | (fog) | 
+| semangka bay - r | (rain) | 
+| satonda island | (afternoon) | 
+| sangeang island - r | (afternoon) | 
+| kalabakan valley - r |  (sunset, power stage) | 
+
+## CAT S5 Round 6 - xx
+
+**x**
+
+Cars: xx
+
+| Stages  |  weather  | 
+| --- | ---- |
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+
 
 ## Previous events
 - [CAT s1](seasons/s1/s1_index.md)
