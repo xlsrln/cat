@@ -64,7 +64,7 @@ Cars: group b - italian and french manufacturers only! (502, cinq b, gorilla, mo
 
 ## CAT S5 Round 5 - Indonesia
 
-**The long and the short**
+**The long and the short of it**
 
 Cars: group 4 - le cinq, das scholar, das uberwhip, la longana
 
