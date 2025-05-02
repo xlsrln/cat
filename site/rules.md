@@ -8,11 +8,12 @@
 - No signups: everyone who submits an entry will be classified in the championship
 
 #### Drivers championship
-- There is one driver’s championship. See the current season for which car class it is.
+- There is a driver’s championship. See the current season for more info.
 - Points for each rally (and powerstage) according to the [table below](#appendix-points)
 
 #### Team championship
-- There is one team championship. Teams are handled in #paddock
+- There is a team championship. It is not mandatory to be part of a team.
+- Teams are handled by their respective team manager. Ask in #paddock
 - The best **three** drivers per team for each rally score team points. (new!)
 - Team points are calculated as if only the top three drivers per team exist. ([example](#appendix-team-points))
 - Power stage points don't apply to the team score
