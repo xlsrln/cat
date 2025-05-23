@@ -76,19 +76,19 @@ Cars: group 4 - le cinq, das scholar, das uberwhip, la longana
 | sangeang island - r | afternoon | 
 | kalabakan valley - r |  sunset (power stage) | 
 
-## CAT S5 Round 6 - xx
+## CAT S5 Round 6 - Germany
 
-**x**
+**Sixcans Gesamtdeutsche Bier-Rallye**
 
-Cars: xx
+Cars: group 4 - uberwhip
 
 | Stages  |  weather  | 
 | --- | ---- |
-| |  | 
-| |  | 
-| |  | 
-| |  | 
-| |  | 
+| gonnesweiler - r | morning | 
+| franzenheim - r | fog | 
+| hockweiler | rain | 
+| holzerath - r | afternoon | 
+| gonnesweiler | sunset, power stage | 
 
 
 ## Previous events
